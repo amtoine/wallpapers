@@ -1059,3 +1059,67 @@ If you stumble upon art or photos that you own or that you know and show that sp
 ## 0262_sunset-sky-pink-trees.png
 
 ![wallpapers/0262_sunset-sky-pink-trees.png](wallpapers/0262_sunset-sky-pink-trees.png)
+
+## 0263_anime-street-cat-night.png
+
+![wallpapers/0263_anime-street-cat-night.png](wallpapers/0263_anime-street-cat-night.png)
+
+## 0264_minimal-link-green-waker.png
+
+![wallpapers/0264_minimal-link-green-waker.png](wallpapers/0264_minimal-link-green-waker.png)
+
+## 0265_arch-light-blue-minimal.png
+
+![wallpapers/0265_arch-light-blue-minimal.png](wallpapers/0265_arch-light-blue-minimal.png)
+
+## 0266_arch-lime-minimal-logo.png
+
+![wallpapers/0266_arch-lime-minimal-logo.png](wallpapers/0266_arch-lime-minimal-logo.png)
+
+## 0267_arch-pink-logo-minimal.png
+
+![wallpapers/0267_arch-pink-logo-minimal.png](wallpapers/0267_arch-pink-logo-minimal.png)
+
+## 0268_arch-logo-minimal-marine.png
+
+![wallpapers/0268_arch-logo-minimal-marine.png](wallpapers/0268_arch-logo-minimal-marine.png)
+
+## 0269_arch-logo-cyan-minimal.png
+
+![wallpapers/0269_arch-logo-cyan-minimal.png](wallpapers/0269_arch-logo-cyan-minimal.png)
+
+## 0270_sky-grey-desert-men.png
+
+![wallpapers/0270_sky-grey-desert-men.png](wallpapers/0270_sky-grey-desert-men.png)
+
+## 0271_girl-anime-pink-skyscraper.png
+
+![wallpapers/0271_girl-anime-pink-skyscraper.png](wallpapers/0271_girl-anime-pink-skyscraper.png)
+
+## 0272_anime-girl-pink-night.jpg
+
+![wallpapers/0272_anime-girl-pink-night.jpg](wallpapers/0272_anime-girl-pink-night.jpg)
+
+## 0273_girl-sky-water-clouds.jpg
+
+![wallpapers/0273_girl-sky-water-clouds.jpg](wallpapers/0273_girl-sky-water-clouds.jpg)
+
+## 0274_arch-logo-black-black.png
+
+![wallpapers/0274_arch-logo-black-black.png](wallpapers/0274_arch-logo-black-black.png)
+
+## 0275_arch-logo-black-blue.png
+
+![wallpapers/0275_arch-logo-black-blue.png](wallpapers/0275_arch-logo-black-blue.png)
+
+## 0276_arch-logo-black-orange.png
+
+![wallpapers/0276_arch-logo-black-orange.png](wallpapers/0276_arch-logo-black-orange.png)
+
+## 0277_joke-garden-animals-onion.png
+
+![wallpapers/0277_joke-garden-animals-onion.png](wallpapers/0277_joke-garden-animals-onion.png)
+
+## 0278_street-anime-rain-dawn.png
+
+![wallpapers/0278_street-anime-rain-dawn.png](wallpapers/0278_street-anime-rain-dawn.png)
