@@ -1123,3 +1123,19 @@ If you stumble upon art or photos that you own or that you know and show that sp
 ## 0278_street-anime-rain-dawn.png
 
 ![wallpapers/0278_street-anime-rain-dawn.png](wallpapers/0278_street-anime-rain-dawn.png)
+
+## 0279_plane-vibrant-sunset-pink.jpg
+
+![wallpapers/0279_plane-vibrant-sunset-pink.jpg](wallpapers/0279_plane-vibrant-sunset-pink.jpg)
+
+## 0280_minimal-solarized-evil-clock.png
+
+![wallpapers/0280_minimal-solarized-evil-clock.png](wallpapers/0280_minimal-solarized-evil-clock.png)
+
+## 0281_minimal-moon-plane-shadow.jpg
+
+![wallpapers/0281_minimal-moon-plane-shadow.jpg](wallpapers/0281_minimal-moon-plane-shadow.jpg)
+
+## 0282_paint-dark-flame-red.png
+
+![wallpapers/0282_paint-dark-flame-red.png](wallpapers/0282_paint-dark-flame-red.png)
