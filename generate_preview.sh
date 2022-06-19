@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/bin/env bash
 
 # NOTE: this script should be run from the wallpapers root directory.
 
@@ -19,7 +19,7 @@ generate_file() {
     echo "# wallpapers"
     echo "$nb_note"
 
-    for fullname (wallpapers/*); do
+    for fullname in $(ls wallpapers/*); do
         filename=$(basename "$fullname")
         printf "\n## %s\n\n![%s](%s)\n" "$filename" "$fullname" "$fullname"
     done
