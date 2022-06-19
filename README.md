@@ -1139,3 +1139,11 @@ If you stumble upon art or photos that you own or that you know and show that sp
 ## 0282_paint-dark-flame-red.png
 
 ![wallpapers/0282_paint-dark-flame-red.png](wallpapers/0282_paint-dark-flame-red.png)
+
+## 0283_solarized-heart-kernel-blue.png
+
+![wallpapers/0283_solarized-heart-kernel-blue.png](wallpapers/0283_solarized-heart-kernel-blue.png)
+
+## 0284_orange-equanimity-geometric-granular.jpg
+
+![wallpapers/0284_orange-equanimity-geometric-granular.jpg](wallpapers/0284_orange-equanimity-geometric-granular.jpg)
