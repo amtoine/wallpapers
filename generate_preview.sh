@@ -25,7 +25,7 @@ generate_file() {
     done
 }
 
-rm README.md; generate_file >>README.md
+generate_file | tee README.md
 
 # useful for inspecting readme after creation e.g. $ ./generate_preview.sh vim
 [ -n "$1" ] && $1 README.md
