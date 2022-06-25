@@ -33,6 +33,7 @@ generate_file() {
     printf "\n** Gallery\n"
     for fullname in $(ls wallpapers/*); do
         filename=$(basename "$fullname")
+        printf "**** %s\n" "$filename"
         printf "#+CAPTION: %s\n" "$filename"
         printf "#+NAME: %s\n" "$fullname"
         printf "[[./%s]]\n\n" "$fullname"
