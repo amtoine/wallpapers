@@ -71,18 +71,18 @@ def compute_all_valid_shapes(
 def resize_image(
     *,
     filename: str,
-    wallpaper: np.ndarray,
+    image: np.ndarray,
     valid_shapes: np.ndarray,
     path: str,
     ratio: Tuple[int, int],
 ) -> None:
-    height, width = wallpaper.shape[:2]
+    height, width = image.shape[:2]
     print(f"{Fore.YELLOW}[WARN.]{Style.RESET_ALL} {filename}: Resizing...", end="")
     closest_shape = get_closest_shape(
         width, height, valid_shapes=valid_shapes, ratio=ratio
     )
-    resized_wallpaper = cv2.resize(wallpaper, closest_shape[::-1])
-    cv2.imwrite(os.path.join(path, filename), resized_wallpaper)
+    resized_image = cv2.resize(image, closest_shape[::-1])
+    cv2.imwrite(os.path.join(path, filename), resized_image)
     print("done!")
 
 
@@ -144,7 +144,7 @@ def main(*, path: str, ratio: Tuple[int, int], margin: float, verbose: bool) -> 
         elif is_resizable(width, height, ratio=ratio, margin=margin):
             resize_image(
                 filename=filename,
-                wallpaper=wallpaper,
+                image=wallpaper,
                 valid_shapes=valid_shapes,
                 path=path,
                 ratio=ratio,
