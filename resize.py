@@ -31,6 +31,16 @@ def is_good_ratio(
     return bool(width == int(height * ratio[0] / ratio[1]))
 
 
+def is_resizable(
+    width: int,
+    height: int,
+    *,
+    margin: float,
+    ratio: Tuple[int, int] = (16, 9),
+):
+    return abs(width / height - ratio[0] / ratio[1]) <= margin
+
+
 def get_closest_shape(
     width: int,
     height: int,
@@ -58,6 +68,24 @@ def compute_all_valid_shapes(
     return valid_shapes[:, ::-1]
 
 
+def resize_image(
+    *,
+    filename: str,
+    wallpaper: np.ndarray,
+    valid_shapes: np.ndarray,
+    path: str,
+    ratio: Tuple[int, int],
+) -> None:
+    height, width = wallpaper.shape[:2]
+    print(f"{Fore.YELLOW}[WARN.]{Style.RESET_ALL} {filename}: Resizing...", end="")
+    closest_shape = get_closest_shape(
+        width, height, valid_shapes=valid_shapes, ratio=ratio
+    )
+    resized_wallpaper = cv2.resize(wallpaper, closest_shape[::-1])
+    cv2.imwrite(os.path.join(path, filename), resized_wallpaper)
+    print("done!")
+
+
 def show_image(image: np.ndarray, *, title: str = "Title") -> None:
     cv2.imshow(title, image)
     cv2.waitKey(0)
@@ -75,11 +103,14 @@ def main(*, path: str, ratio: Tuple[int, int], margin: float, verbose: bool) -> 
         if is_good_ratio(width, height, ratio=ratio):
             if verbose:
                 print(f"{Fore.GREEN}[OK...]{Style.RESET_ALL} {filename}: Skipping...")
-        elif abs(width / height - ratio[0] / ratio[1]) <= margin:
-            print(
-                f"{Fore.YELLOW}[WARN.]{Style.RESET_ALL} {filename}: Resizing...", end=""
+        elif is_resizable(width, height, ratio=ratio, margin=margin):
+            resize_image(
+                filename=filename,
+                wallpaper=wallpaper,
+                valid_shapes=valid_shapes,
+                path=path,
+                ratio=ratio,
             )
-            print("done!")
         else:
             print(f"{Fore.RED}[ERROR]{Style.RESET_ALL} {filename}: Manual...")
 
