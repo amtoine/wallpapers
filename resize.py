@@ -4,10 +4,10 @@ from typing import List, Tuple
 import os
 import argparse
 from tqdm import tqdm
-import tabulate
 
 import numpy as np
 import cv2
+from colorama import Fore, Back, Style
 
 
 def load_image(filename: str, *, path: str) -> np.ndarray:
@@ -63,52 +63,25 @@ def show_image(image: np.ndarray, *, title: str = "Title") -> None:
     cv2.waitKey(0)
 
 
-def main(*, path: str):
+def main(*, path: str, ratio: Tuple[int, int], margin: float, verbose: bool) -> None:
     filenames = sorted(os.listdir(path))
-
     wallpapers = load_images(filenames, path=path)
 
     shapes = [wallpaper.shape[:2] for wallpaper in wallpapers]
+    valid_shapes = compute_all_valid_shapes(shapes, ratio=ratio)
 
-    valid_shapes = compute_all_valid_shapes(shapes)
-
-    ratios = [w / h for h, w in shapes]
-    are_good_ratios = [is_good_ratio(w, h) for h, w in shapes]
-    closest_shapes = [
-        get_closest_shape(w, h, valid_shapes=valid_shapes) for h, w in shapes
-    ]
-    closest_ratios = [w / h for h, w in closest_shapes]
-    are_closest_good_ratios = [is_good_ratio(w, h) for h, w in closest_shapes]
-
-    table = tabulate.tabulate(
-        zip(
-            filenames,
-            shapes,
-            ratios,
-            are_good_ratios,
-            closest_shapes,
-            closest_ratios,
-            are_closest_good_ratios,
-        ),
-        headers=[
-            "filenames",
-            "shapes",
-            "ratios",
-            "are_good_ratios",
-            "closest_shapes",
-            "closest_ratios",
-            "are_closest_good_ratios",
-        ],
-    )
-    print(table)
-
-    for wallpaper, closest_shape, filename in tqdm(
-        list(zip(wallpapers, closest_shapes, filenames)), desc="Resizing the images"
-    ):
+    for wallpaper, filename in zip(wallpapers, filenames):
         height, width = wallpaper.shape[:2]
-        if not is_good_ratio(width, height):
-            resized_wallpaper = cv2.resize(wallpaper, closest_shape[::-1])
-            cv2.imwrite(os.path.join(path, filename), resized_wallpaper)
+        if is_good_ratio(width, height, ratio=ratio):
+            if verbose:
+                print(f"{Fore.GREEN}[OK...]{Style.RESET_ALL} {filename}: Skipping...")
+        elif abs(width / height - ratio[0] / ratio[1]) <= margin:
+            print(
+                f"{Fore.YELLOW}[WARN.]{Style.RESET_ALL} {filename}: Resizing...", end=""
+            )
+            print("done!")
+        else:
+            print(f"{Fore.RED}[ERROR]{Style.RESET_ALL} {filename}: Manual...")
 
 
 if __name__ == "__main__":
@@ -121,7 +94,28 @@ if __name__ == "__main__":
         type=str,
         help="The path to the wallpapers.",
     )
+    parser.add_argument(
+        "-r",
+        "--ratio",
+        nargs=2,
+        type=int,
+        default=[16, 9],
+        help="TODO.",
+    )
+    parser.add_argument(
+        "-m",
+        "--margin",
+        type=float,
+        default=0.17778,
+        help="TODO.",
+    )
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        help="TODO.",
+    )
 
     args = parser.parse_args()
 
-    main(path=args.path)
+    main(path=args.path, ratio=args.ratio, margin=args.margin, verbose=args.verbose)
