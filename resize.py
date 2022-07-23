@@ -86,6 +86,44 @@ def resize_image(
     print("done!")
 
 
+def get_biggest_shape_contained_in_image(
+    shape: np.ndarray, *, valid_shapes: np.ndarray
+) -> np.ndarray:
+    for i, valid_shape in enumerate(valid_shapes):
+        if np.any(shape < valid_shape):
+            break
+    return valid_shapes[i - 1]
+
+
+def crop_image(
+    *,
+    filename: str,
+    image: np.ndarray,
+    valid_shapes: np.ndarray,
+    path: str,
+) -> None:
+    print(f"{Fore.RED}[ERROR]{Style.RESET_ALL} {filename}: Manual...")
+
+    old_shape = np.array(image.shape[:2])
+    new_shape = get_biggest_shape_contained_in_image(
+        old_shape, valid_shapes=valid_shapes
+    )
+
+    # compute the margin on each side.
+    margin = old_shape - new_shape
+    up_left_margin = margin // 2
+    down_right_margin = margin - up_left_margin
+    left_margin, up_margin = up_left_margin
+    right_margin, down_margin = down_right_margin
+
+    # remove the margins on each side.
+    width, height = old_shape
+    cropped_image = image[
+        left_margin : width - right_margin, up_margin : height - down_margin
+    ]
+    cv2.imwrite(os.path.join(path, filename), cropped_image)
+
+
 def show_image(image: np.ndarray, *, title: str = "Title") -> None:
     cv2.imshow(title, image)
     cv2.waitKey(0)
@@ -112,7 +150,12 @@ def main(*, path: str, ratio: Tuple[int, int], margin: float, verbose: bool) -> 
                 ratio=ratio,
             )
         else:
-            print(f"{Fore.RED}[ERROR]{Style.RESET_ALL} {filename}: Manual...")
+            crop_image(
+                filename=filename,
+                image=wallpaper,
+                valid_shapes=valid_shapes,
+                path=path,
+            )
 
 
 if __name__ == "__main__":
