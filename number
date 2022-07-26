@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+
+COLLECTION="wallpapers"
+
+
+get_last_id () {
+    last_wallpaper=$(find "$COLLECTION" -type f | sort | tail -n 1)
+    last_id=$(basename "$last_wallpaper" | sed 's/\(....\).*/\1/' | sed 's/^0*//')
+    echo "$last_id"
+}
+
+
+number_wallpapers () {
+    # $1: the location of the new wallpapers
+    # $2: the last id in the current collection
+    #
+    id=$2
+    for file in $(find "$1" -type f | sort);
+    do
+        id=$((id+1));
+        filename=$(basename "$file")
+        new_name=$(printf "%04d_%s\n" "$id" "$filename")
+        mv "$1/$filename" "$COLLECTION/$new_name"
+    done
+}
+
+
+main () {
+    [ -z "$1" ] && {
+        echo "Please give the path to the new wallpapers."
+        echo "Aborting..."
+        exit 1
+    }
+    new_wallpapers=$(basename "$1")
+
+    last_id=$(get_last_id)
+
+    number_wallpapers "$new_wallpapers" "$last_id"
+}
+
+
+main "$@"
