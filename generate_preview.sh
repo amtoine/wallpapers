@@ -7,18 +7,18 @@ A gallery of wallpapers I use for my laptop config.
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/a2n-s/pkgbuilds/blob/main/x86_64/a2n-s-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/amtoine-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
 #+begin_src bash
-git clone https://github.com/a2n-s/pkgbuilds
+git clone https://github.com/amtoine/pkgbuilds
 cd ./pkgbuilds
-./install.sh x86_64/a2n-s-wallpapers-git
+./install.sh x86_64/amtoine-wallpapers-git
 #+end_src
 *** on another distribution of Linux
 /Makefile and instructions *coming soon*/
 ** Usage
-The wallpapers are installed by default in ~/usr/share/backgrounds/a2n-s-wallpapers-git~.
+The wallpapers are installed by default in ~/usr/share/backgrounds/amtoine-wallpapers-git~.
 
-Try having a look at them with ~feh /usr/share/backgrounds/a2n-s-wallpapers-git/~ for instance!
+Try having a look at them with ~feh /usr/share/backgrounds/amtoine-wallpapers-git/~ for instance!
 
 ** Ownership.
 These wallpapers come from the internet. Diffusion and usage rights are not known for all of them.
