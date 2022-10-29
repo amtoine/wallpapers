@@ -3,11 +3,11 @@
 # NOTE: this script should be run from the wallpapers root directory.
 
 readme_body="""
-A gallery of wallpapers I use for my laptop config.
+A gallery of wallpapers for goats.
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/goatfiles/pkgbuilds/blob/main/x86_64/goat-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/goatfiles/pkgbuilds/blob/main/x86_64/goat-wallpapers-git/PKGBUILD][the custom PKGBUILD for goats]] as follows:
 #+begin_src bash
 git clone https://github.com/goatfiles/pkgbuilds
 cd ./pkgbuilds
