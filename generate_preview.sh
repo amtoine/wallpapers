@@ -7,18 +7,18 @@ A gallery of wallpapers I use for my laptop config.
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/amtoine-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/goatfiles/pkgbuilds/blob/main/x86_64/goat-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
 #+begin_src bash
-git clone https://github.com/amtoine/pkgbuilds
+git clone https://github.com/goatfiles/pkgbuilds
 cd ./pkgbuilds
-./install.sh x86_64/amtoine-wallpapers-git
+./install.sh x86_64/goat-wallpapers-git
 #+end_src
 *** on another distribution of Linux
 /Makefile and instructions *coming soon*/
 ** Usage
-The wallpapers are installed by default in ~/usr/share/backgrounds/amtoine-wallpapers-git~.
+The wallpapers are installed by default in ~/usr/share/backgrounds/goat-wallpapers-git~.
 
-Try having a look at them with ~feh /usr/share/backgrounds/amtoine-wallpapers-git/~ for instance!
+Try having a look at them with ~feh /usr/share/backgrounds/goat-wallpapers-git/~ for instance!
 
 ** Ownership.
 These wallpapers come from the internet. Diffusion and usage rights are not known for all of them.
