@@ -24,1888 +24,1698 @@ These wallpapers come from the internet. Diffusion and usage rights are not know
 If you stumble upon art or photos that you own or that you know and show that special rights have to be used to use or share them, *let me known and I will remove them immediately and without question!*
 
 ** Gallery
-**** 0001_city-grey-paint.jpg
-#+CAPTION: 0001_city-grey-paint.jpg
-#+NAME: wallpapers/0001_city-grey-paint.jpg
-[[./wallpapers/0001_city-grey-paint.jpg]]
-
-**** 0002_fir-valley-drawing-minimal.jpg
-#+CAPTION: 0002_fir-valley-drawing-minimal.jpg
-#+NAME: wallpapers/0002_fir-valley-drawing-minimal.jpg
-[[./wallpapers/0002_fir-valley-drawing-minimal.jpg]]
-
-**** 0003_grass-leaves-closeup-blur-nature.jpg
-#+CAPTION: 0003_grass-leaves-closeup-blur-nature.jpg
-#+NAME: wallpapers/0003_grass-leaves-closeup-blur-nature.jpg
-[[./wallpapers/0003_grass-leaves-closeup-blur-nature.jpg]]
-
-**** 0004_mountain-birds-drawing-minimal.jpg
-#+CAPTION: 0004_mountain-birds-drawing-minimal.jpg
-#+NAME: wallpapers/0004_mountain-birds-drawing-minimal.jpg
-[[./wallpapers/0004_mountain-birds-drawing-minimal.jpg]]
-
-**** 0005_mountain-sunset-pink.jpg
-#+CAPTION: 0005_mountain-sunset-pink.jpg
-#+NAME: wallpapers/0005_mountain-sunset-pink.jpg
-[[./wallpapers/0005_mountain-sunset-pink.jpg]]
-
-**** 0006_nature-forest-fir-rain.jpg
-#+CAPTION: 0006_nature-forest-fir-rain.jpg
-#+NAME: wallpapers/0006_nature-forest-fir-rain.jpg
-[[./wallpapers/0006_nature-forest-fir-rain.jpg]]
-
-**** 0007_nature-forest-fir-sun.jpg
-#+CAPTION: 0007_nature-forest-fir-sun.jpg
-#+NAME: wallpapers/0007_nature-forest-fir-sun.jpg
-[[./wallpapers/0007_nature-forest-fir-sun.jpg]]
-
-**** 0008_night-city-blur-cars.jpg
-#+CAPTION: 0008_night-city-blur-cars.jpg
-#+NAME: wallpapers/0008_night-city-blur-cars.jpg
-[[./wallpapers/0008_night-city-blur-cars.jpg]]
-
-**** 0009_night-sky-stars-aurora.jpg
-#+CAPTION: 0009_night-sky-stars-aurora.jpg
-#+NAME: wallpapers/0009_night-sky-stars-aurora.jpg
-[[./wallpapers/0009_night-sky-stars-aurora.jpg]]
-
-**** 0010_paper-city-minimal-art.jpg
-#+CAPTION: 0010_paper-city-minimal-art.jpg
-#+NAME: wallpapers/0010_paper-city-minimal-art.jpg
-[[./wallpapers/0010_paper-city-minimal-art.jpg]]
-
-**** 0011_vibrant-city-drawing-minimal.jpg
-#+CAPTION: 0011_vibrant-city-drawing-minimal.jpg
-#+NAME: wallpapers/0011_vibrant-city-drawing-minimal.jpg
-[[./wallpapers/0011_vibrant-city-drawing-minimal.jpg]]
-
-**** 0012_vibrant-couple-paint.jpg
-#+CAPTION: 0012_vibrant-couple-paint.jpg
-#+NAME: wallpapers/0012_vibrant-couple-paint.jpg
-[[./wallpapers/0012_vibrant-couple-paint.jpg]]
-
-**** 0013_vibrant-sunset-tree.jpg
-#+CAPTION: 0013_vibrant-sunset-tree.jpg
-#+NAME: wallpapers/0013_vibrant-sunset-tree.jpg
-[[./wallpapers/0013_vibrant-sunset-tree.jpg]]
-
-**** 0014_lofi-cat-chill-sleep.jpg
-#+CAPTION: 0014_lofi-cat-chill-sleep.jpg
-#+NAME: wallpapers/0014_lofi-cat-chill-sleep.jpg
-[[./wallpapers/0014_lofi-cat-chill-sleep.jpg]]
-
-**** 0015_mountain-landscape-mist.jpg
-#+CAPTION: 0015_mountain-landscape-mist.jpg
-#+NAME: wallpapers/0015_mountain-landscape-mist.jpg
-[[./wallpapers/0015_mountain-landscape-mist.jpg]]
-
-**** 0016_monster-anime-car.jpg
-#+CAPTION: 0016_monster-anime-car.jpg
-#+NAME: wallpapers/0016_monster-anime-car.jpg
-[[./wallpapers/0016_monster-anime-car.jpg]]
-
-**** 0017_code-minimalist-exit.png
-#+CAPTION: 0017_code-minimalist-exit.png
-#+NAME: wallpapers/0017_code-minimalist-exit.png
-[[./wallpapers/0017_code-minimalist-exit.png]]
-
-**** 0018_sunset-deer-vibrant.jpg
-#+CAPTION: 0018_sunset-deer-vibrant.jpg
-#+NAME: wallpapers/0018_sunset-deer-vibrant.jpg
-[[./wallpapers/0018_sunset-deer-vibrant.jpg]]
-
-**** 0019_girl-bed-balcony.png
-#+CAPTION: 0019_girl-bed-balcony.png
-#+NAME: wallpapers/0019_girl-bed-balcony.png
-[[./wallpapers/0019_girl-bed-balcony.png]]
-
-**** 0020_rocket-launch-minimalist.jpg
-#+CAPTION: 0020_rocket-launch-minimalist.jpg
-#+NAME: wallpapers/0020_rocket-launch-minimalist.jpg
-[[./wallpapers/0020_rocket-launch-minimalist.jpg]]
-
-**** 0021_night-city-lights.jpg
-#+CAPTION: 0021_night-city-lights.jpg
-#+NAME: wallpapers/0021_night-city-lights.jpg
-[[./wallpapers/0021_night-city-lights.jpg]]
-
-**** 0022_god-symbol-abstract.png
-#+CAPTION: 0022_god-symbol-abstract.png
-#+NAME: wallpapers/0022_god-symbol-abstract.png
-[[./wallpapers/0022_god-symbol-abstract.png]]
-
-**** 0023_painting-religious-realism.jpg
-#+CAPTION: 0023_painting-religious-realism.jpg
-#+NAME: wallpapers/0023_painting-religious-realism.jpg
-[[./wallpapers/0023_painting-religious-realism.jpg]]
-
-**** 0024_space-astronaut-stars.png
-#+CAPTION: 0024_space-astronaut-stars.png
-#+NAME: wallpapers/0024_space-astronaut-stars.png
-[[./wallpapers/0024_space-astronaut-stars.png]]
-
-**** 0025_nature-mountain-bords-forest.jpg
-#+CAPTION: 0025_nature-mountain-bords-forest.jpg
-#+NAME: wallpapers/0025_nature-mountain-bords-forest.jpg
-[[./wallpapers/0025_nature-mountain-bords-forest.jpg]]
-
-**** 0026_minimalist-red-pistolero-hood.png
-#+CAPTION: 0026_minimalist-red-pistolero-hood.png
-#+NAME: wallpapers/0026_minimalist-red-pistolero-hood.png
-[[./wallpapers/0026_minimalist-red-pistolero-hood.png]]
-
-**** 0027_night-city-lights-sunset.png
-#+CAPTION: 0027_night-city-lights-sunset.png
-#+NAME: wallpapers/0027_night-city-lights-sunset.png
-[[./wallpapers/0027_night-city-lights-sunset.png]]
-
-**** 0028_mountain-sun-nature-mist.jpg
-#+CAPTION: 0028_mountain-sun-nature-mist.jpg
-#+NAME: wallpapers/0028_mountain-sun-nature-mist.jpg
-[[./wallpapers/0028_mountain-sun-nature-mist.jpg]]
-
-**** 0029_minimalist-abstract-woman-tree.png
-#+CAPTION: 0029_minimalist-abstract-woman-tree.png
-#+NAME: wallpapers/0029_minimalist-abstract-woman-tree.png
-[[./wallpapers/0029_minimalist-abstract-woman-tree.png]]
-
-**** 0030_minimalist-man-cherry-blossom.png
-#+CAPTION: 0030_minimalist-man-cherry-blossom.png
-#+NAME: wallpapers/0030_minimalist-man-cherry-blossom.png
-[[./wallpapers/0030_minimalist-man-cherry-blossom.png]]
-
-**** 0031_colors-pink-city.png
-#+CAPTION: 0031_colors-pink-city.png
-#+NAME: wallpapers/0031_colors-pink-city.png
-[[./wallpapers/0031_colors-pink-city.png]]
-
-**** 0032_car-inside-wheel.jpg
-#+CAPTION: 0032_car-inside-wheel.jpg
-#+NAME: wallpapers/0032_car-inside-wheel.jpg
-[[./wallpapers/0032_car-inside-wheel.jpg]]
-
-**** 0033_lovely-spacecraft-planet-discovery.jpg
-#+CAPTION: 0033_lovely-spacecraft-planet-discovery.jpg
-#+NAME: wallpapers/0033_lovely-spacecraft-planet-discovery.jpg
-[[./wallpapers/0033_lovely-spacecraft-planet-discovery.jpg]]
-
-**** 0034_vibrant-outpost-waterfall-moon.png
-#+CAPTION: 0034_vibrant-outpost-waterfall-moon.png
-#+NAME: wallpapers/0034_vibrant-outpost-waterfall-moon.png
-[[./wallpapers/0034_vibrant-outpost-waterfall-moon.png]]
-
-**** 0035_skull-neon-street.png
-#+CAPTION: 0035_skull-neon-street.png
-#+NAME: wallpapers/0035_skull-neon-street.png
-[[./wallpapers/0035_skull-neon-street.png]]
-
-**** 0036_nature-snow-owl-forest.png
-#+CAPTION: 0036_nature-snow-owl-forest.png
-#+NAME: wallpapers/0036_nature-snow-owl-forest.png
-[[./wallpapers/0036_nature-snow-owl-forest.png]]
-
-**** 0037_ubuntu-black-minimalist.png
-#+CAPTION: 0037_ubuntu-black-minimalist.png
-#+NAME: wallpapers/0037_ubuntu-black-minimalist.png
-[[./wallpapers/0037_ubuntu-black-minimalist.png]]
-
-**** 0038_paint-trolley-city-night.jpg
-#+CAPTION: 0038_paint-trolley-city-night.jpg
-#+NAME: wallpapers/0038_paint-trolley-city-night.jpg
-[[./wallpapers/0038_paint-trolley-city-night.jpg]]
-
-**** 0039_light-samurai-blackhair-sight.jpg
-#+CAPTION: 0039_light-samurai-blackhair-sight.jpg
-#+NAME: wallpapers/0039_light-samurai-blackhair-sight.jpg
-[[./wallpapers/0039_light-samurai-blackhair-sight.jpg]]
-
-**** 0040_mucha.jpg
-#+CAPTION: 0040_mucha.jpg
-#+NAME: wallpapers/0040_mucha.jpg
-[[./wallpapers/0040_mucha.jpg]]
-
-**** 0041_luffy-one-piece-boundman.png
-#+CAPTION: 0041_luffy-one-piece-boundman.png
-#+NAME: wallpapers/0041_luffy-one-piece-boundman.png
-[[./wallpapers/0041_luffy-one-piece-boundman.png]]
-
-**** 0042_fantasy-mountain-night-city.png
-#+CAPTION: 0042_fantasy-mountain-night-city.png
-#+NAME: wallpapers/0042_fantasy-mountain-night-city.png
-[[./wallpapers/0042_fantasy-mountain-night-city.png]]
-
-**** 0043_tlof-elie-guitar-forest.jpg
-#+CAPTION: 0043_tlof-elie-guitar-forest.jpg
-#+NAME: wallpapers/0043_tlof-elie-guitar-forest.jpg
-[[./wallpapers/0043_tlof-elie-guitar-forest.jpg]]
-
-**** 0044_mucha.jpg
-#+CAPTION: 0044_mucha.jpg
-#+NAME: wallpapers/0044_mucha.jpg
-[[./wallpapers/0044_mucha.jpg]]
-
-**** 0045_arch-red-minimalist.png
-#+CAPTION: 0045_arch-red-minimalist.png
-#+NAME: wallpapers/0045_arch-red-minimalist.png
-[[./wallpapers/0045_arch-red-minimalist.png]]
-
-**** 0046_fantasy-mountain-outpost-man.png
-#+CAPTION: 0046_fantasy-mountain-outpost-man.png
-#+NAME: wallpapers/0046_fantasy-mountain-outpost-man.png
-[[./wallpapers/0046_fantasy-mountain-outpost-man.png]]
-
 **** 0047_abstract-minimalist-lines.png
 #+CAPTION: 0047_abstract-minimalist-lines.png
-#+NAME: wallpapers/0047_abstract-minimalist-lines.png
-[[./wallpapers/0047_abstract-minimalist-lines.png]]
-
-**** 0048_mucha-reverie.jpg
-#+CAPTION: 0048_mucha-reverie.jpg
-#+NAME: wallpapers/0048_mucha-reverie.jpg
-[[./wallpapers/0048_mucha-reverie.jpg]]
+#+NAME: wallpapers/abstract/0047_abstract-minimalist-lines.png
+[[./wallpapers/abstract/0047_abstract-minimalist-lines.png]]
 
 **** 0049_abstract-minimalist-bird-lines.png
 #+CAPTION: 0049_abstract-minimalist-bird-lines.png
-#+NAME: wallpapers/0049_abstract-minimalist-bird-lines.png
-[[./wallpapers/0049_abstract-minimalist-bird-lines.png]]
-
-**** 0050_nature-landscape-snow-mountain.jpg
-#+CAPTION: 0050_nature-landscape-snow-mountain.jpg
-#+NAME: wallpapers/0050_nature-landscape-snow-mountain.jpg
-[[./wallpapers/0050_nature-landscape-snow-mountain.jpg]]
-
-**** 0051_minimalist-cloud-storage-bits.png
-#+CAPTION: 0051_minimalist-cloud-storage-bits.png
-#+NAME: wallpapers/0051_minimalist-cloud-storage-bits.png
-[[./wallpapers/0051_minimalist-cloud-storage-bits.png]]
+#+NAME: wallpapers/abstract/0049_abstract-minimalist-bird-lines.png
+[[./wallpapers/abstract/0049_abstract-minimalist-bird-lines.png]]
 
 **** 0052_ghost-heart-black.png
 #+CAPTION: 0052_ghost-heart-black.png
-#+NAME: wallpapers/0052_ghost-heart-black.png
-[[./wallpapers/0052_ghost-heart-black.png]]
+#+NAME: wallpapers/abstract/0052_ghost-heart-black.png
+[[./wallpapers/abstract/0052_ghost-heart-black.png]]
 
 **** 0053_ghosts-warm-colors-abstract.jpg
 #+CAPTION: 0053_ghosts-warm-colors-abstract.jpg
-#+NAME: wallpapers/0053_ghosts-warm-colors-abstract.jpg
-[[./wallpapers/0053_ghosts-warm-colors-abstract.jpg]]
-
-**** 0054_great-wave-80s.png
-#+CAPTION: 0054_great-wave-80s.png
-#+NAME: wallpapers/0054_great-wave-80s.png
-[[./wallpapers/0054_great-wave-80s.png]]
+#+NAME: wallpapers/abstract/0053_ghosts-warm-colors-abstract.jpg
+[[./wallpapers/abstract/0053_ghosts-warm-colors-abstract.jpg]]
 
 **** 0055_minimalist-3d-lines.png
 #+CAPTION: 0055_minimalist-3d-lines.png
-#+NAME: wallpapers/0055_minimalist-3d-lines.png
-[[./wallpapers/0055_minimalist-3d-lines.png]]
-
-**** 0056_night-city-rain-street.jpg
-#+CAPTION: 0056_night-city-rain-street.jpg
-#+NAME: wallpapers/0056_night-city-rain-street.jpg
-[[./wallpapers/0056_night-city-rain-street.jpg]]
+#+NAME: wallpapers/abstract/0055_minimalist-3d-lines.png
+[[./wallpapers/abstract/0055_minimalist-3d-lines.png]]
 
 **** 0057_abstract-dots.png
 #+CAPTION: 0057_abstract-dots.png
-#+NAME: wallpapers/0057_abstract-dots.png
-[[./wallpapers/0057_abstract-dots.png]]
-
-**** 0058_your-name-night-meteor.png
-#+CAPTION: 0058_your-name-night-meteor.png
-#+NAME: wallpapers/0058_your-name-night-meteor.png
-[[./wallpapers/0058_your-name-night-meteor.png]]
-
-**** 0059_photo-bikes.jpg
-#+CAPTION: 0059_photo-bikes.jpg
-#+NAME: wallpapers/0059_photo-bikes.jpg
-[[./wallpapers/0059_photo-bikes.jpg]]
-
-**** 0060_planet-earth.jpg
-#+CAPTION: 0060_planet-earth.jpg
-#+NAME: wallpapers/0060_planet-earth.jpg
-[[./wallpapers/0060_planet-earth.jpg]]
-
-**** 0061_map-world-bits.png
-#+CAPTION: 0061_map-world-bits.png
-#+NAME: wallpapers/0061_map-world-bits.png
-[[./wallpapers/0061_map-world-bits.png]]
-
-**** 0062_waves-water-splash.png
-#+CAPTION: 0062_waves-water-splash.png
-#+NAME: wallpapers/0062_waves-water-splash.png
-[[./wallpapers/0062_waves-water-splash.png]]
+#+NAME: wallpapers/abstract/0057_abstract-dots.png
+[[./wallpapers/abstract/0057_abstract-dots.png]]
 
 **** 0063_abstract-ligth-square.png
 #+CAPTION: 0063_abstract-ligth-square.png
-#+NAME: wallpapers/0063_abstract-ligth-square.png
-[[./wallpapers/0063_abstract-ligth-square.png]]
+#+NAME: wallpapers/abstract/0063_abstract-ligth-square.png
+[[./wallpapers/abstract/0063_abstract-ligth-square.png]]
 
 **** 0064_abstract-dots-circle-sophomore.png
 #+CAPTION: 0064_abstract-dots-circle-sophomore.png
-#+NAME: wallpapers/0064_abstract-dots-circle-sophomore.png
-[[./wallpapers/0064_abstract-dots-circle-sophomore.png]]
+#+NAME: wallpapers/abstract/0064_abstract-dots-circle-sophomore.png
+[[./wallpapers/abstract/0064_abstract-dots-circle-sophomore.png]]
 
 **** 0065_abstract-dots-minimalist-tri.png
 #+CAPTION: 0065_abstract-dots-minimalist-tri.png
-#+NAME: wallpapers/0065_abstract-dots-minimalist-tri.png
-[[./wallpapers/0065_abstract-dots-minimalist-tri.png]]
-
-**** 0066_linux-tux-penguin.png
-#+CAPTION: 0066_linux-tux-penguin.png
-#+NAME: wallpapers/0066_linux-tux-penguin.png
-[[./wallpapers/0066_linux-tux-penguin.png]]
-
-**** 0067_code-minimalist-joke-sudormrfslash.png
-#+CAPTION: 0067_code-minimalist-joke-sudormrfslash.png
-#+NAME: wallpapers/0067_code-minimalist-joke-sudormrfslash.png
-[[./wallpapers/0067_code-minimalist-joke-sudormrfslash.png]]
-
-**** 0068_desktop-vintage-technology-sunrays.jpg
-#+CAPTION: 0068_desktop-vintage-technology-sunrays.jpg
-#+NAME: wallpapers/0068_desktop-vintage-technology-sunrays.jpg
-[[./wallpapers/0068_desktop-vintage-technology-sunrays.jpg]]
-
-**** 0069_abstract-joker-pop.jpg
-#+CAPTION: 0069_abstract-joker-pop.jpg
-#+NAME: wallpapers/0069_abstract-joker-pop.jpg
-[[./wallpapers/0069_abstract-joker-pop.jpg]]
-
-**** 0070_mountain-dusk-fire-forest.png
-#+CAPTION: 0070_mountain-dusk-fire-forest.png
-#+NAME: wallpapers/0070_mountain-dusk-fire-forest.png
-[[./wallpapers/0070_mountain-dusk-fire-forest.png]]
-
-**** 0071_vibrant-city.png
-#+CAPTION: 0071_vibrant-city.png
-#+NAME: wallpapers/0071_vibrant-city.png
-[[./wallpapers/0071_vibrant-city.png]]
-
-**** 0072_spacecraft-night-crash-firepit.jpg
-#+CAPTION: 0072_spacecraft-night-crash-firepit.jpg
-#+NAME: wallpapers/0072_spacecraft-night-crash-firepit.jpg
-[[./wallpapers/0072_spacecraft-night-crash-firepit.jpg]]
-
-**** 0073_nature-sunset-river-trees.png
-#+CAPTION: 0073_nature-sunset-river-trees.png
-#+NAME: wallpapers/0073_nature-sunset-river-trees.png
-[[./wallpapers/0073_nature-sunset-river-trees.png]]
-
-**** 0074_room-bed-chill-sunlight.png
-#+CAPTION: 0074_room-bed-chill-sunlight.png
-#+NAME: wallpapers/0074_room-bed-chill-sunlight.png
-[[./wallpapers/0074_room-bed-chill-sunlight.png]]
-
-**** 0075_arch-bats-moon-minimalist.png
-#+CAPTION: 0075_arch-bats-moon-minimalist.png
-#+NAME: wallpapers/0075_arch-bats-moon-minimalist.png
-[[./wallpapers/0075_arch-bats-moon-minimalist.png]]
-
-**** 0076_mucha-la-trappistine-.jpg
-#+CAPTION: 0076_mucha-la-trappistine-.jpg
-#+NAME: wallpapers/0076_mucha-la-trappistine-.jpg
-[[./wallpapers/0076_mucha-la-trappistine-.jpg]]
-
-**** 0077_minimalist-abstract-colors-triangles.png
-#+CAPTION: 0077_minimalist-abstract-colors-triangles.png
-#+NAME: wallpapers/0077_minimalist-abstract-colors-triangles.png
-[[./wallpapers/0077_minimalist-abstract-colors-triangles.png]]
-
-**** 0078_audio-bunny-purple.png
-#+CAPTION: 0078_audio-bunny-purple.png
-#+NAME: wallpapers/0078_audio-bunny-purple.png
-[[./wallpapers/0078_audio-bunny-purple.png]]
-
-**** 0079_livingroom-clouds-sky.jpg
-#+CAPTION: 0079_livingroom-clouds-sky.jpg
-#+NAME: wallpapers/0079_livingroom-clouds-sky.jpg
-[[./wallpapers/0079_livingroom-clouds-sky.jpg]]
-
-**** 0080_berserk-epic-fight-planet.jpg
-#+CAPTION: 0080_berserk-epic-fight-planet.jpg
-#+NAME: wallpapers/0080_berserk-epic-fight-planet.jpg
-[[./wallpapers/0080_berserk-epic-fight-planet.jpg]]
-
-**** 0081_city-blur-skyscrapper.png
-#+CAPTION: 0081_city-blur-skyscrapper.png
-#+NAME: wallpapers/0081_city-blur-skyscrapper.png
-[[./wallpapers/0081_city-blur-skyscrapper.png]]
-
-**** 0082_lego-starwars-bike-chase.jpg
-#+CAPTION: 0082_lego-starwars-bike-chase.jpg
-#+NAME: wallpapers/0082_lego-starwars-bike-chase.jpg
-[[./wallpapers/0082_lego-starwars-bike-chase.jpg]]
-
-**** 0083_black-snow-winter-night.png
-#+CAPTION: 0083_black-snow-winter-night.png
-#+NAME: wallpapers/0083_black-snow-winter-night.png
-[[./wallpapers/0083_black-snow-winter-night.png]]
+#+NAME: wallpapers/abstract/0065_abstract-dots-minimalist-tri.png
+[[./wallpapers/abstract/0065_abstract-dots-minimalist-tri.png]]
 
 **** 0084_abstract-minimalist-dots.png
 #+CAPTION: 0084_abstract-minimalist-dots.png
-#+NAME: wallpapers/0084_abstract-minimalist-dots.png
-[[./wallpapers/0084_abstract-minimalist-dots.png]]
+#+NAME: wallpapers/abstract/0084_abstract-minimalist-dots.png
+[[./wallpapers/abstract/0084_abstract-minimalist-dots.png]]
 
 **** 0085_blue-cubes.jpg
 #+CAPTION: 0085_blue-cubes.jpg
-#+NAME: wallpapers/0085_blue-cubes.jpg
-[[./wallpapers/0085_blue-cubes.jpg]]
-
-**** 0086_fantasy-tree-blossom-magic.png
-#+CAPTION: 0086_fantasy-tree-blossom-magic.png
-#+NAME: wallpapers/0086_fantasy-tree-blossom-magic.png
-[[./wallpapers/0086_fantasy-tree-blossom-magic.png]]
+#+NAME: wallpapers/abstract/0085_blue-cubes.jpg
+[[./wallpapers/abstract/0085_blue-cubes.jpg]]
 
 **** 0087_circuit-abstract.png
 #+CAPTION: 0087_circuit-abstract.png
-#+NAME: wallpapers/0087_circuit-abstract.png
-[[./wallpapers/0087_circuit-abstract.png]]
-
-**** 0088_circuit-girls-components.jpg
-#+CAPTION: 0088_circuit-girls-components.jpg
-#+NAME: wallpapers/0088_circuit-girls-components.jpg
-[[./wallpapers/0088_circuit-girls-components.jpg]]
-
-**** 0089_tree-leaves-nature.jpg
-#+CAPTION: 0089_tree-leaves-nature.jpg
-#+NAME: wallpapers/0089_tree-leaves-nature.jpg
-[[./wallpapers/0089_tree-leaves-nature.jpg]]
-
-**** 0090_arch-girl-tshirt.png
-#+CAPTION: 0090_arch-girl-tshirt.png
-#+NAME: wallpapers/0090_arch-girl-tshirt.png
-[[./wallpapers/0090_arch-girl-tshirt.png]]
-
-**** 0091_crash-bluescreen-joke.png
-#+CAPTION: 0091_crash-bluescreen-joke.png
-#+NAME: wallpapers/0091_crash-bluescreen-joke.png
-[[./wallpapers/0091_crash-bluescreen-joke.png]]
-
-**** 0092_nature-landscape-mountain.jpg
-#+CAPTION: 0092_nature-landscape-mountain.jpg
-#+NAME: wallpapers/0092_nature-landscape-mountain.jpg
-[[./wallpapers/0092_nature-landscape-mountain.jpg]]
-
-**** 0093_nature-forest-dark-leaves.jpg
-#+CAPTION: 0093_nature-forest-dark-leaves.jpg
-#+NAME: wallpapers/0093_nature-forest-dark-leaves.jpg
-[[./wallpapers/0093_nature-forest-dark-leaves.jpg]]
-
-**** 0094_nature-forest-dark-snow.jpg
-#+CAPTION: 0094_nature-forest-dark-snow.jpg
-#+NAME: wallpapers/0094_nature-forest-dark-snow.jpg
-[[./wallpapers/0094_nature-forest-dark-snow.jpg]]
-
-**** 0095_futuristic-city-moon-night.png
-#+CAPTION: 0095_futuristic-city-moon-night.png
-#+NAME: wallpapers/0095_futuristic-city-moon-night.png
-[[./wallpapers/0095_futuristic-city-moon-night.png]]
-
-**** 0096_sunset-vibrant-minimalist.jpg
-#+CAPTION: 0096_sunset-vibrant-minimalist.jpg
-#+NAME: wallpapers/0096_sunset-vibrant-minimalist.jpg
-[[./wallpapers/0096_sunset-vibrant-minimalist.jpg]]
-
-**** 0097_man-street-game.jpg
-#+CAPTION: 0097_man-street-game.jpg
-#+NAME: wallpapers/0097_man-street-game.jpg
-[[./wallpapers/0097_man-street-game.jpg]]
-
-**** 0098_minimalist-person-wolf-mask.png
-#+CAPTION: 0098_minimalist-person-wolf-mask.png
-#+NAME: wallpapers/0098_minimalist-person-wolf-mask.png
-[[./wallpapers/0098_minimalist-person-wolf-mask.png]]
+#+NAME: wallpapers/abstract/0087_circuit-abstract.png
+[[./wallpapers/abstract/0087_circuit-abstract.png]]
 
 **** 0099_abstract-fractal.png
 #+CAPTION: 0099_abstract-fractal.png
-#+NAME: wallpapers/0099_abstract-fractal.png
-[[./wallpapers/0099_abstract-fractal.png]]
-
-**** 0100_electric-pokemon-minimalist.png
-#+CAPTION: 0100_electric-pokemon-minimalist.png
-#+NAME: wallpapers/0100_electric-pokemon-minimalist.png
-[[./wallpapers/0100_electric-pokemon-minimalist.png]]
-
-**** 0101_dusk-night-mountain-dark.jpg
-#+CAPTION: 0101_dusk-night-mountain-dark.jpg
-#+NAME: wallpapers/0101_dusk-night-mountain-dark.jpg
-[[./wallpapers/0101_dusk-night-mountain-dark.jpg]]
-
-**** 0102_mucha.jpg
-#+CAPTION: 0102_mucha.jpg
-#+NAME: wallpapers/0102_mucha.jpg
-[[./wallpapers/0102_mucha.jpg]]
-
-**** 0103_fantasy-landscape.jpg
-#+CAPTION: 0103_fantasy-landscape.jpg
-#+NAME: wallpapers/0103_fantasy-landscape.jpg
-[[./wallpapers/0103_fantasy-landscape.jpg]]
-
-**** 0104_girl-chill-headphones-street.png
-#+CAPTION: 0104_girl-chill-headphones-street.png
-#+NAME: wallpapers/0104_girl-chill-headphones-street.png
-[[./wallpapers/0104_girl-chill-headphones-street.png]]
-
-**** 0105_strange-house-night-secret.jpg
-#+CAPTION: 0105_strange-house-night-secret.jpg
-#+NAME: wallpapers/0105_strange-house-night-secret.jpg
-[[./wallpapers/0105_strange-house-night-secret.jpg]]
-
-**** 0106_night-waterfall-forest-buses.jpg
-#+CAPTION: 0106_night-waterfall-forest-buses.jpg
-#+NAME: wallpapers/0106_night-waterfall-forest-buses.jpg
-[[./wallpapers/0106_night-waterfall-forest-buses.jpg]]
-
-**** 0107_photo-flower-nature.jpg
-#+CAPTION: 0107_photo-flower-nature.jpg
-#+NAME: wallpapers/0107_photo-flower-nature.jpg
-[[./wallpapers/0107_photo-flower-nature.jpg]]
-
-**** 0108_flume-flower-abstract.png
-#+CAPTION: 0108_flume-flower-abstract.png
-#+NAME: wallpapers/0108_flume-flower-abstract.png
-[[./wallpapers/0108_flume-flower-abstract.png]]
+#+NAME: wallpapers/abstract/0099_abstract-fractal.png
+[[./wallpapers/abstract/0099_abstract-fractal.png]]
 
 **** 0109_abstract-fractal-dark.png
 #+CAPTION: 0109_abstract-fractal-dark.png
-#+NAME: wallpapers/0109_abstract-fractal-dark.png
-[[./wallpapers/0109_abstract-fractal-dark.png]]
-
-**** 0110_future-game-nomansky.png
-#+CAPTION: 0110_future-game-nomansky.png
-#+NAME: wallpapers/0110_future-game-nomansky.png
-[[./wallpapers/0110_future-game-nomansky.png]]
-
-**** 0111_godzilla-kong-ricebowl.png
-#+CAPTION: 0111_godzilla-kong-ricebowl.png
-#+NAME: wallpapers/0111_godzilla-kong-ricebowl.png
-[[./wallpapers/0111_godzilla-kong-ricebowl.png]]
-
-**** 0112_green-aesthetic-leaves-nature.png
-#+CAPTION: 0112_green-aesthetic-leaves-nature.png
-#+NAME: wallpapers/0112_green-aesthetic-leaves-nature.png
-[[./wallpapers/0112_green-aesthetic-leaves-nature.png]]
+#+NAME: wallpapers/abstract/0109_abstract-fractal-dark.png
+[[./wallpapers/abstract/0109_abstract-fractal-dark.png]]
 
 **** 0113_abstract-pokeball.png
 #+CAPTION: 0113_abstract-pokeball.png
-#+NAME: wallpapers/0113_abstract-pokeball.png
-[[./wallpapers/0113_abstract-pokeball.png]]
-
-**** 0114_sepia-street.png
-#+CAPTION: 0114_sepia-street.png
-#+NAME: wallpapers/0114_sepia-street.png
-[[./wallpapers/0114_sepia-street.png]]
-
-**** 0115_hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.jpg
-#+CAPTION: 0115_hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.jpg
-#+NAME: wallpapers/0115_hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.jpg
-[[./wallpapers/0115_hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.jpg]]
-
-**** 0116_hongkong-minimal-city-sunset.jpg
-#+CAPTION: 0116_hongkong-minimal-city-sunset.jpg
-#+NAME: wallpapers/0116_hongkong-minimal-city-sunset.jpg
-[[./wallpapers/0116_hongkong-minimal-city-sunset.jpg]]
-
-**** 0117_minimalist-abstract-woman-tree.png
-#+CAPTION: 0117_minimalist-abstract-woman-tree.png
-#+NAME: wallpapers/0117_minimalist-abstract-woman-tree.png
-[[./wallpapers/0117_minimalist-abstract-woman-tree.png]]
-
-**** 0118_astronaut-eye-tentacle-colors.jpeg
-#+CAPTION: 0118_astronaut-eye-tentacle-colors.jpeg
-#+NAME: wallpapers/0118_astronaut-eye-tentacle-colors.jpeg
-[[./wallpapers/0118_astronaut-eye-tentacle-colors.jpeg]]
-
-**** 0119_arch-linux-logo-purple.png
-#+CAPTION: 0119_arch-linux-logo-purple.png
-#+NAME: wallpapers/0119_arch-linux-logo-purple.png
-[[./wallpapers/0119_arch-linux-logo-purple.png]]
+#+NAME: wallpapers/abstract/0113_abstract-pokeball.png
+[[./wallpapers/abstract/0113_abstract-pokeball.png]]
 
 **** 0120_ghost-heart-darker.png
 #+CAPTION: 0120_ghost-heart-darker.png
-#+NAME: wallpapers/0120_ghost-heart-darker.png
-[[./wallpapers/0120_ghost-heart-darker.png]]
-
-**** 0121_photo-nature-flower.png
-#+CAPTION: 0121_photo-nature-flower.png
-#+NAME: wallpapers/0121_photo-nature-flower.png
-[[./wallpapers/0121_photo-nature-flower.png]]
-
-**** 0122_photo-cameras-canon.jpg
-#+CAPTION: 0122_photo-cameras-canon.jpg
-#+NAME: wallpapers/0122_photo-cameras-canon.jpg
-[[./wallpapers/0122_photo-cameras-canon.jpg]]
-
-**** 0123_ismail-inceoglu-chaos-invoked.png
-#+CAPTION: 0123_ismail-inceoglu-chaos-invoked.png
-#+NAME: wallpapers/0123_ismail-inceoglu-chaos-invoked.png
-[[./wallpapers/0123_ismail-inceoglu-chaos-invoked.png]]
-
-**** 0124_logo-minimalist-cup-battery.jpg
-#+CAPTION: 0124_logo-minimalist-cup-battery.jpg
-#+NAME: wallpapers/0124_logo-minimalist-cup-battery.jpg
-[[./wallpapers/0124_logo-minimalist-cup-battery.jpg]]
-
-**** 0125_minimalist-city-night-lights.png
-#+CAPTION: 0125_minimalist-city-night-lights.png
-#+NAME: wallpapers/0125_minimalist-city-night-lights.png
-[[./wallpapers/0125_minimalist-city-night-lights.png]]
-
-**** 0126_kitty-blue-grumpy-glasses.jpg
-#+CAPTION: 0126_kitty-blue-grumpy-glasses.jpg
-#+NAME: wallpapers/0126_kitty-blue-grumpy-glasses.jpg
-[[./wallpapers/0126_kitty-blue-grumpy-glasses.jpg]]
-
-**** 0127_girl-rain-koba-sewer.jpg
-#+CAPTION: 0127_girl-rain-koba-sewer.jpg
-#+NAME: wallpapers/0127_girl-rain-koba-sewer.jpg
-[[./wallpapers/0127_girl-rain-koba-sewer.jpg]]
-
-**** 0128_lamp-electricity-plug.jpg
-#+CAPTION: 0128_lamp-electricity-plug.jpg
-#+NAME: wallpapers/0128_lamp-electricity-plug.jpg
-[[./wallpapers/0128_lamp-electricity-plug.jpg]]
-
-**** 0129_spiderman.jpg
-#+CAPTION: 0129_spiderman.jpg
-#+NAME: wallpapers/0129_spiderman.jpg
-[[./wallpapers/0129_spiderman.jpg]]
-
-**** 0130_luffy-boundman-one-piece.jpeg
-#+CAPTION: 0130_luffy-boundman-one-piece.jpeg
-#+NAME: wallpapers/0130_luffy-boundman-one-piece.jpeg
-[[./wallpapers/0130_luffy-boundman-one-piece.jpeg]]
-
-**** 0131_man-street-night-mist.jpg
-#+CAPTION: 0131_man-street-night-mist.jpg
-#+NAME: wallpapers/0131_man-street-night-mist.jpg
-[[./wallpapers/0131_man-street-night-mist.jpg]]
-
-**** 0132_metin-celep-photo-mountain.jpg
-#+CAPTION: 0132_metin-celep-photo-mountain.jpg
-#+NAME: wallpapers/0132_metin-celep-photo-mountain.jpg
-[[./wallpapers/0132_metin-celep-photo-mountain.jpg]]
-
-**** 0133_minimal-mountain-sun.jpg
-#+CAPTION: 0133_minimal-mountain-sun.jpg
-#+NAME: wallpapers/0133_minimal-mountain-sun.jpg
-[[./wallpapers/0133_minimal-mountain-sun.jpg]]
-
-**** 0134_minimal-sunset.jpg
-#+CAPTION: 0134_minimal-sunset.jpg
-#+NAME: wallpapers/0134_minimal-sunset.jpg
-[[./wallpapers/0134_minimal-sunset.jpg]]
-
-**** 0135_nature-plants-bamboo-photo.jpg
-#+CAPTION: 0135_nature-plants-bamboo-photo.jpg
-#+NAME: wallpapers/0135_nature-plants-bamboo-photo.jpg
-[[./wallpapers/0135_nature-plants-bamboo-photo.jpg]]
-
-**** 0136_circuit-electronics-chips.png
-#+CAPTION: 0136_circuit-electronics-chips.png
-#+NAME: wallpapers/0136_circuit-electronics-chips.png
-[[./wallpapers/0136_circuit-electronics-chips.png]]
-
-**** 0137_outrun-skyscape-moon.jpg
-#+CAPTION: 0137_outrun-skyscape-moon.jpg
-#+NAME: wallpapers/0137_outrun-skyscape-moon.jpg
-[[./wallpapers/0137_outrun-skyscape-moon.jpg]]
-
-**** 0138_paint-woman-trance.png
-#+CAPTION: 0138_paint-woman-trance.png
-#+NAME: wallpapers/0138_paint-woman-trance.png
-[[./wallpapers/0138_paint-woman-trance.png]]
+#+NAME: wallpapers/abstract/0120_ghost-heart-darker.png
+[[./wallpapers/abstract/0120_ghost-heart-darker.png]]
 
 **** 0139_patterns-dot-abstract.png
 #+CAPTION: 0139_patterns-dot-abstract.png
-#+NAME: wallpapers/0139_patterns-dot-abstract.png
-[[./wallpapers/0139_patterns-dot-abstract.png]]
-
-**** 0140_photo-aloe-pot.jpeg
-#+CAPTION: 0140_photo-aloe-pot.jpeg
-#+NAME: wallpapers/0140_photo-aloe-pot.jpeg
-[[./wallpapers/0140_photo-aloe-pot.jpeg]]
-
-**** 0141_photo-flower-tree-dark.png
-#+CAPTION: 0141_photo-flower-tree-dark.png
-#+NAME: wallpapers/0141_photo-flower-tree-dark.png
-[[./wallpapers/0141_photo-flower-tree-dark.png]]
-
-**** 0142_photo-leaf-dark.png
-#+CAPTION: 0142_photo-leaf-dark.png
-#+NAME: wallpapers/0142_photo-leaf-dark.png
-[[./wallpapers/0142_photo-leaf-dark.png]]
-
-**** 0143_photo-leaves-dark.png
-#+CAPTION: 0143_photo-leaves-dark.png
-#+NAME: wallpapers/0143_photo-leaves-dark.png
-[[./wallpapers/0143_photo-leaves-dark.png]]
-
-**** 0144_redmoon.jpg
-#+CAPTION: 0144_redmoon.jpg
-#+NAME: wallpapers/0144_redmoon.jpg
-[[./wallpapers/0144_redmoon.jpg]]
-
-**** 0145_girl-anime-black-hair.jpg
-#+CAPTION: 0145_girl-anime-black-hair.jpg
-#+NAME: wallpapers/0145_girl-anime-black-hair.jpg
-[[./wallpapers/0145_girl-anime-black-hair.jpg]]
-
-**** 0146_fantasy-forest-leaves.jpeg
-#+CAPTION: 0146_fantasy-forest-leaves.jpeg
-#+NAME: wallpapers/0146_fantasy-forest-leaves.jpeg
-[[./wallpapers/0146_fantasy-forest-leaves.jpeg]]
-
-**** 0147_spacecraft-harbour-vessel.png
-#+CAPTION: 0147_spacecraft-harbour-vessel.png
-#+NAME: wallpapers/0147_spacecraft-harbour-vessel.png
-[[./wallpapers/0147_spacecraft-harbour-vessel.png]]
-
-**** 0148_simple-mountain-minimalism-black.png
-#+CAPTION: 0148_simple-mountain-minimalism-black.png
-#+NAME: wallpapers/0148_simple-mountain-minimalism-black.png
-[[./wallpapers/0148_simple-mountain-minimalism-black.png]]
-
-**** 0149_magic-street-meteor-pink.png
-#+CAPTION: 0149_magic-street-meteor-pink.png
-#+NAME: wallpapers/0149_magic-street-meteor-pink.png
-[[./wallpapers/0149_magic-street-meteor-pink.png]]
-
-**** 0150_space-kurzgesagt-solar-system.png
-#+CAPTION: 0150_space-kurzgesagt-solar-system.png
-#+NAME: wallpapers/0150_space-kurzgesagt-solar-system.png
-[[./wallpapers/0150_space-kurzgesagt-solar-system.png]]
-
-**** 0151_spring-waterfall-stone-fog.jpg
-#+CAPTION: 0151_spring-waterfall-stone-fog.jpg
-#+NAME: wallpapers/0151_spring-waterfall-stone-fog.jpg
-[[./wallpapers/0151_spring-waterfall-stone-fog.jpg]]
-
-**** 0152_city-landscape-traditional-building.jpg
-#+CAPTION: 0152_city-landscape-traditional-building.jpg
-#+NAME: wallpapers/0152_city-landscape-traditional-building.jpg
-[[./wallpapers/0152_city-landscape-traditional-building.jpg]]
-
-**** 0153_sunset-mountain-lake.jpg
-#+CAPTION: 0153_sunset-mountain-lake.jpg
-#+NAME: wallpapers/0153_sunset-mountain-lake.jpg
-[[./wallpapers/0153_sunset-mountain-lake.jpg]]
-
-**** 0154_texture-abstract-strips.png
-#+CAPTION: 0154_texture-abstract-strips.png
-#+NAME: wallpapers/0154_texture-abstract-strips.png
-[[./wallpapers/0154_texture-abstract-strips.png]]
-
-**** 0155_tools-benchmark-book.jpg
-#+CAPTION: 0155_tools-benchmark-book.jpg
-#+NAME: wallpapers/0155_tools-benchmark-book.jpg
-[[./wallpapers/0155_tools-benchmark-book.jpg]]
-
-**** 0156_car-shore-moon-night.png
-#+CAPTION: 0156_car-shore-moon-night.png
-#+NAME: wallpapers/0156_car-shore-moon-night.png
-[[./wallpapers/0156_car-shore-moon-night.png]]
-
-**** 0157_car-moon-night-mountain.png
-#+CAPTION: 0157_car-moon-night-mountain.png
-#+NAME: wallpapers/0157_car-moon-night-mountain.png
-[[./wallpapers/0157_car-moon-night-mountain.png]]
-
-**** 0158_astronaut-jelly-fish-light.jpeg
-#+CAPTION: 0158_astronaut-jelly-fish-light.jpeg
-#+NAME: wallpapers/0158_astronaut-jelly-fish-light.jpeg
-[[./wallpapers/0158_astronaut-jelly-fish-light.jpeg]]
-
-**** 0159_vim-keys-cheatsheet.png
-#+CAPTION: 0159_vim-keys-cheatsheet.png
-#+NAME: wallpapers/0159_vim-keys-cheatsheet.png
-[[./wallpapers/0159_vim-keys-cheatsheet.png]]
+#+NAME: wallpapers/abstract/0139_patterns-dot-abstract.png
+[[./wallpapers/abstract/0139_patterns-dot-abstract.png]]
 
 **** 0160_face-light-eyes-painting.png
 #+CAPTION: 0160_face-light-eyes-painting.png
-#+NAME: wallpapers/0160_face-light-eyes-painting.png
-[[./wallpapers/0160_face-light-eyes-painting.png]]
-
-**** 0161_rail-sticks-train.jpg
-#+CAPTION: 0161_rail-sticks-train.jpg
-#+NAME: wallpapers/0161_rail-sticks-train.jpg
-[[./wallpapers/0161_rail-sticks-train.jpg]]
-
-**** 0162_anonymous-mask-strip-minimalist.jpg
-#+CAPTION: 0162_anonymous-mask-strip-minimalist.jpg
-#+NAME: wallpapers/0162_anonymous-mask-strip-minimalist.jpg
-[[./wallpapers/0162_anonymous-mask-strip-minimalist.jpg]]
-
-**** 0163_astronaut-rainbow-flowers.jpg
-#+CAPTION: 0163_astronaut-rainbow-flowers.jpg
-#+NAME: wallpapers/0163_astronaut-rainbow-flowers.jpg
-[[./wallpapers/0163_astronaut-rainbow-flowers.jpg]]
-
-**** 0164_minimalist-trees-birds-sunrise.jpg
-#+CAPTION: 0164_minimalist-trees-birds-sunrise.jpg
-#+NAME: wallpapers/0164_minimalist-trees-birds-sunrise.jpg
-[[./wallpapers/0164_minimalist-trees-birds-sunrise.jpg]]
-
-**** 0165_groot-side-minimalist-light.png
-#+CAPTION: 0165_groot-side-minimalist-light.png
-#+NAME: wallpapers/0165_groot-side-minimalist-light.png
-[[./wallpapers/0165_groot-side-minimalist-light.png]]
-
-**** 0166_cyberpunk-panam-sunset-novacancy.png
-#+CAPTION: 0166_cyberpunk-panam-sunset-novacancy.png
-#+NAME: wallpapers/0166_cyberpunk-panam-sunset-novacancy.png
-[[./wallpapers/0166_cyberpunk-panam-sunset-novacancy.png]]
-
-**** 0167_white-dragon-fantasy.jpg
-#+CAPTION: 0167_white-dragon-fantasy.jpg
-#+NAME: wallpapers/0167_white-dragon-fantasy.jpg
-[[./wallpapers/0167_white-dragon-fantasy.jpg]]
-
-**** 0168_solar-system-objects-sheet.jpg
-#+CAPTION: 0168_solar-system-objects-sheet.jpg
-#+NAME: wallpapers/0168_solar-system-objects-sheet.jpg
-[[./wallpapers/0168_solar-system-objects-sheet.jpg]]
-
-**** 0169_man-blackhole-pit.jpg
-#+CAPTION: 0169_man-blackhole-pit.jpg
-#+NAME: wallpapers/0169_man-blackhole-pit.jpg
-[[./wallpapers/0169_man-blackhole-pit.jpg]]
-
-**** 0170_space-harbour-industrial.jpg
-#+CAPTION: 0170_space-harbour-industrial.jpg
-#+NAME: wallpapers/0170_space-harbour-industrial.jpg
-[[./wallpapers/0170_space-harbour-industrial.jpg]]
-
-**** 0171_photo-pilot-leaves.jpg
-#+CAPTION: 0171_photo-pilot-leaves.jpg
-#+NAME: wallpapers/0171_photo-pilot-leaves.jpg
-[[./wallpapers/0171_photo-pilot-leaves.jpg]]
-
-**** 0172_hills-couple-sunset-clouds.jpg
-#+CAPTION: 0172_hills-couple-sunset-clouds.jpg
-#+NAME: wallpapers/0172_hills-couple-sunset-clouds.jpg
-[[./wallpapers/0172_hills-couple-sunset-clouds.jpg]]
-
-**** 0173_photo-mountain-clouds-sunrise.jpg
-#+CAPTION: 0173_photo-mountain-clouds-sunrise.jpg
-#+NAME: wallpapers/0173_photo-mountain-clouds-sunrise.jpg
-[[./wallpapers/0173_photo-mountain-clouds-sunrise.jpg]]
-
-**** 0174_scaphander-jelly-fish-blue.jpg
-#+CAPTION: 0174_scaphander-jelly-fish-blue.jpg
-#+NAME: wallpapers/0174_scaphander-jelly-fish-blue.jpg
-[[./wallpapers/0174_scaphander-jelly-fish-blue.jpg]]
-
-**** 0175_geometric-lion-warm-colors.png
-#+CAPTION: 0175_geometric-lion-warm-colors.png
-#+NAME: wallpapers/0175_geometric-lion-warm-colors.png
-[[./wallpapers/0175_geometric-lion-warm-colors.png]]
-
-**** 0176_wave-circle-minimalist.png
-#+CAPTION: 0176_wave-circle-minimalist.png
-#+NAME: wallpapers/0176_wave-circle-minimalist.png
-[[./wallpapers/0176_wave-circle-minimalist.png]]
+#+NAME: wallpapers/abstract/0160_face-light-eyes-painting.png
+[[./wallpapers/abstract/0160_face-light-eyes-painting.png]]
 
 **** 0177_abstract-shapes-sunset.png
 #+CAPTION: 0177_abstract-shapes-sunset.png
-#+NAME: wallpapers/0177_abstract-shapes-sunset.png
-[[./wallpapers/0177_abstract-shapes-sunset.png]]
-
-**** 0178_photo-mountain-lake-stars.jpg
-#+CAPTION: 0178_photo-mountain-lake-stars.jpg
-#+NAME: wallpapers/0178_photo-mountain-lake-stars.jpg
-[[./wallpapers/0178_photo-mountain-lake-stars.jpg]]
-
-**** 0179_minimalist-person-city-sky.jpg
-#+CAPTION: 0179_minimalist-person-city-sky.jpg
-#+NAME: wallpapers/0179_minimalist-person-city-sky.jpg
-[[./wallpapers/0179_minimalist-person-city-sky.jpg]]
-
-**** 0180_city-japan-sushi-bridge.png
-#+CAPTION: 0180_city-japan-sushi-bridge.png
-#+NAME: wallpapers/0180_city-japan-sushi-bridge.png
-[[./wallpapers/0180_city-japan-sushi-bridge.png]]
-
-**** 0181_photo-mountain-snow-forest.jpg
-#+CAPTION: 0181_photo-mountain-snow-forest.jpg
-#+NAME: wallpapers/0181_photo-mountain-snow-forest.jpg
-[[./wallpapers/0181_photo-mountain-snow-forest.jpg]]
-
-**** 0182_neon-vibrant-darth-vader.jpg
-#+CAPTION: 0182_neon-vibrant-darth-vader.jpg
-#+NAME: wallpapers/0182_neon-vibrant-darth-vader.jpg
-[[./wallpapers/0182_neon-vibrant-darth-vader.jpg]]
-
-**** 0183_vibrant-neon-minimalist-owl.jpg
-#+CAPTION: 0183_vibrant-neon-minimalist-owl.jpg
-#+NAME: wallpapers/0183_vibrant-neon-minimalist-owl.jpg
-[[./wallpapers/0183_vibrant-neon-minimalist-owl.jpg]]
-
-**** 0184_pixel-traditional-building-hill.png
-#+CAPTION: 0184_pixel-traditional-building-hill.png
-#+NAME: wallpapers/0184_pixel-traditional-building-hill.png
-[[./wallpapers/0184_pixel-traditional-building-hill.png]]
-
-**** 0185_moon-sea-iceberg-minimalist.jpg
-#+CAPTION: 0185_moon-sea-iceberg-minimalist.jpg
-#+NAME: wallpapers/0185_moon-sea-iceberg-minimalist.jpg
-[[./wallpapers/0185_moon-sea-iceberg-minimalist.jpg]]
-
-**** 0186_waterfall-forest-photo.jpg
-#+CAPTION: 0186_waterfall-forest-photo.jpg
-#+NAME: wallpapers/0186_waterfall-forest-photo.jpg
-[[./wallpapers/0186_waterfall-forest-photo.jpg]]
-
-**** 0187_windows-panic-f***.png
-#+CAPTION: 0187_windows-panic-f***.png
-#+NAME: wallpapers/0187_windows-panic-f***.png
-[[./wallpapers/0187_windows-panic-f***.png]]
-
-**** 0188_outpost-forest-sunrise-bluesky.jpg
-#+CAPTION: 0188_outpost-forest-sunrise-bluesky.jpg
-#+NAME: wallpapers/0188_outpost-forest-sunrise-bluesky.jpg
-[[./wallpapers/0188_outpost-forest-sunrise-bluesky.jpg]]
-
-**** 0189_photo-mountain-black.png
-#+CAPTION: 0189_photo-mountain-black.png
-#+NAME: wallpapers/0189_photo-mountain-black.png
-[[./wallpapers/0189_photo-mountain-black.png]]
-
-**** 0190_city-building-minimalist-vibrant.png
-#+CAPTION: 0190_city-building-minimalist-vibrant.png
-#+NAME: wallpapers/0190_city-building-minimalist-vibrant.png
-[[./wallpapers/0190_city-building-minimalist-vibrant.png]]
-
-**** 0191_one-piece-sunny-light.jpg
-#+CAPTION: 0191_one-piece-sunny-light.jpg
-#+NAME: wallpapers/0191_one-piece-sunny-light.jpg
-[[./wallpapers/0191_one-piece-sunny-light.jpg]]
-
-**** 0192_moon-samurai-mountains.jpg
-#+CAPTION: 0192_moon-samurai-mountains.jpg
-#+NAME: wallpapers/0192_moon-samurai-mountains.jpg
-[[./wallpapers/0192_moon-samurai-mountains.jpg]]
-
-**** 0193_girl-pink-hair-hand.png
-#+CAPTION: 0193_girl-pink-hair-hand.png
-#+NAME: wallpapers/0193_girl-pink-hair-hand.png
-[[./wallpapers/0193_girl-pink-hair-hand.png]]
-
-**** 0194_car-neon-tape-sunset.jpg
-#+CAPTION: 0194_car-neon-tape-sunset.jpg
-#+NAME: wallpapers/0194_car-neon-tape-sunset.jpg
-[[./wallpapers/0194_car-neon-tape-sunset.jpg]]
-
-**** 0195_electronics-sheet.jpg
-#+CAPTION: 0195_electronics-sheet.jpg
-#+NAME: wallpapers/0195_electronics-sheet.jpg
-[[./wallpapers/0195_electronics-sheet.jpg]]
-
-**** 0196_fish-red-jar-sea.jpg
-#+CAPTION: 0196_fish-red-jar-sea.jpg
-#+NAME: wallpapers/0196_fish-red-jar-sea.jpg
-[[./wallpapers/0196_fish-red-jar-sea.jpg]]
-
-**** 0197_girl-balcony-red-balloons.jpg
-#+CAPTION: 0197_girl-balcony-red-balloons.jpg
-#+NAME: wallpapers/0197_girl-balcony-red-balloons.jpg
-[[./wallpapers/0197_girl-balcony-red-balloons.jpg]]
-
-**** 0198_girl-bed-cat-chill.jpg
-#+CAPTION: 0198_girl-bed-cat-chill.jpg
-#+NAME: wallpapers/0198_girl-bed-cat-chill.jpg
-[[./wallpapers/0198_girl-bed-cat-chill.jpg]]
-
-**** 0199_girl-cross-evil-glasses.jpg
-#+CAPTION: 0199_girl-cross-evil-glasses.jpg
-#+NAME: wallpapers/0199_girl-cross-evil-glasses.jpg
-[[./wallpapers/0199_girl-cross-evil-glasses.jpg]]
-
-**** 0200_girl-desk-chill-monitors.jpg
-#+CAPTION: 0200_girl-desk-chill-monitors.jpg
-#+NAME: wallpapers/0200_girl-desk-chill-monitors.jpg
-[[./wallpapers/0200_girl-desk-chill-monitors.jpg]]
-
-**** 0200_minimal-trees-sun-boy.png
-#+CAPTION: 0200_minimal-trees-sun-boy.png
-#+NAME: wallpapers/0200_minimal-trees-sun-boy.png
-[[./wallpapers/0200_minimal-trees-sun-boy.png]]
-
-**** 0201_girl-dog-hill-clouds.jpg
-#+CAPTION: 0201_girl-dog-hill-clouds.jpg
-#+NAME: wallpapers/0201_girl-dog-hill-clouds.jpg
-[[./wallpapers/0201_girl-dog-hill-clouds.jpg]]
-
-**** 0202_girl-flowers-red-insane.jpg
-#+CAPTION: 0202_girl-flowers-red-insane.jpg
-#+NAME: wallpapers/0202_girl-flowers-red-insane.jpg
-[[./wallpapers/0202_girl-flowers-red-insane.jpg]]
-
-**** 0203_girl-glasses-hand-necklace.jpg
-#+CAPTION: 0203_girl-glasses-hand-necklace.jpg
-#+NAME: wallpapers/0203_girl-glasses-hand-necklace.jpg
-[[./wallpapers/0203_girl-glasses-hand-necklace.jpg]]
-
-**** 0204_girl-glove-dark-sight.jpg
-#+CAPTION: 0204_girl-glove-dark-sight.jpg
-#+NAME: wallpapers/0204_girl-glove-dark-sight.jpg
-[[./wallpapers/0204_girl-glove-dark-sight.jpg]]
-
-**** 0205_girl-hate-mask-necklace.jpg
-#+CAPTION: 0205_girl-hate-mask-necklace.jpg
-#+NAME: wallpapers/0205_girl-hate-mask-necklace.jpg
-[[./wallpapers/0205_girl-hate-mask-necklace.jpg]]
-
-**** 0206_girl-sleep-lantern-night.jpg
-#+CAPTION: 0206_girl-sleep-lantern-night.jpg
-#+NAME: wallpapers/0206_girl-sleep-lantern-night.jpg
-[[./wallpapers/0206_girl-sleep-lantern-night.jpg]]
-
-**** 0207_girl-whale-balloons-cat.jpg
-#+CAPTION: 0207_girl-whale-balloons-cat.jpg
-#+NAME: wallpapers/0207_girl-whale-balloons-cat.jpg
-[[./wallpapers/0207_girl-whale-balloons-cat.jpg]]
-
-**** 0209_code-minimalist-hello-world.jpg
-#+CAPTION: 0209_code-minimalist-hello-world.jpg
-#+NAME: wallpapers/0209_code-minimalist-hello-world.jpg
-[[./wallpapers/0209_code-minimalist-hello-world.jpg]]
-
-**** 0210_hills-mist-house-bridge.jpg
-#+CAPTION: 0210_hills-mist-house-bridge.jpg
-#+NAME: wallpapers/0210_hills-mist-house-bridge.jpg
-[[./wallpapers/0210_hills-mist-house-bridge.jpg]]
-
-**** 0211_izuku-forest-mha.jpg
-#+CAPTION: 0211_izuku-forest-mha.jpg
-#+NAME: wallpapers/0211_izuku-forest-mha.jpg
-[[./wallpapers/0211_izuku-forest-mha.jpg]]
-
-**** 0212_luffy-young-alabasta.jpg
-#+CAPTION: 0212_luffy-young-alabasta.jpg
-#+NAME: wallpapers/0212_luffy-young-alabasta.jpg
-[[./wallpapers/0212_luffy-young-alabasta.jpg]]
-
-**** 0213_cloudy-evening-girl-rooftop.png
-#+CAPTION: 0213_cloudy-evening-girl-rooftop.png
-#+NAME: wallpapers/0213_cloudy-evening-girl-rooftop.png
-[[./wallpapers/0213_cloudy-evening-girl-rooftop.png]]
-
-**** 0214_pixel-cave-waterfall-dark.jpg
-#+CAPTION: 0214_pixel-cave-waterfall-dark.jpg
-#+NAME: wallpapers/0214_pixel-cave-waterfall-dark.jpg
-[[./wallpapers/0214_pixel-cave-waterfall-dark.jpg]]
-
-**** 0215_girl-hair-mask-open.jpg
-#+CAPTION: 0215_girl-hair-mask-open.jpg
-#+NAME: wallpapers/0215_girl-hair-mask-open.jpg
-[[./wallpapers/0215_girl-hair-mask-open.jpg]]
-
-**** 0216_bear-moon-minimalist-campfire.jpeg
-#+CAPTION: 0216_bear-moon-minimalist-campfire.jpeg
-#+NAME: wallpapers/0216_bear-moon-minimalist-campfire.jpeg
-[[./wallpapers/0216_bear-moon-minimalist-campfire.jpeg]]
-
-**** 0217_coffee-cat.png
-#+CAPTION: 0217_coffee-cat.png
-#+NAME: wallpapers/0217_coffee-cat.png
-[[./wallpapers/0217_coffee-cat.png]]
-
-**** 0218_trees-prince-sunset-breeze.png
-#+CAPTION: 0218_trees-prince-sunset-breeze.png
-#+NAME: wallpapers/0218_trees-prince-sunset-breeze.png
-[[./wallpapers/0218_trees-prince-sunset-breeze.png]]
-
-**** 0219_lake-fisherman-mist-house.jpg
-#+CAPTION: 0219_lake-fisherman-mist-house.jpg
-#+NAME: wallpapers/0219_lake-fisherman-mist-house.jpg
-[[./wallpapers/0219_lake-fisherman-mist-house.jpg]]
-
-**** 0220_girl-bus-rain-night.jpg
-#+CAPTION: 0220_girl-bus-rain-night.jpg
-#+NAME: wallpapers/0220_girl-bus-rain-night.jpg
-[[./wallpapers/0220_girl-bus-rain-night.jpg]]
-
-**** 0221_girl-arch-hoodie.png
-#+CAPTION: 0221_girl-arch-hoodie.png
-#+NAME: wallpapers/0221_girl-arch-hoodie.png
-[[./wallpapers/0221_girl-arch-hoodie.png]]
-
-**** 0222_girl-barefoot-raincoat-longhair.png
-#+CAPTION: 0222_girl-barefoot-raincoat-longhair.png
-#+NAME: wallpapers/0222_girl-barefoot-raincoat-longhair.png
-[[./wallpapers/0222_girl-barefoot-raincoat-longhair.png]]
-
-**** 0223_girl-cookie-gray.png
-#+CAPTION: 0223_girl-cookie-gray.png
-#+NAME: wallpapers/0223_girl-cookie-gray.png
-[[./wallpapers/0223_girl-cookie-gray.png]]
-
-**** 0224_girl-demon-heart-red.png
-#+CAPTION: 0224_girl-demon-heart-red.png
-#+NAME: wallpapers/0224_girl-demon-heart-red.png
-[[./wallpapers/0224_girl-demon-heart-red.png]]
-
-**** 0225_girl-hoodie-cat-ears.png
-#+CAPTION: 0225_girl-hoodie-cat-ears.png
-#+NAME: wallpapers/0225_girl-hoodie-cat-ears.png
-[[./wallpapers/0225_girl-hoodie-cat-ears.png]]
-
-**** 0226_girl-katana-ribbon-short-hair.png
-#+CAPTION: 0226_girl-katana-ribbon-short-hair.png
-#+NAME: wallpapers/0226_girl-katana-ribbon-short-hair.png
-[[./wallpapers/0226_girl-katana-ribbon-short-hair.png]]
-
-**** 0227_girl-mask-red-uniform.png
-#+CAPTION: 0227_girl-mask-red-uniform.png
-#+NAME: wallpapers/0227_girl-mask-red-uniform.png
-[[./wallpapers/0227_girl-mask-red-uniform.png]]
-
-**** 0228_girl-academia-himiko-white-black.png
-#+CAPTION: 0228_girl-academia-himiko-white-black.png
-#+NAME: wallpapers/0228_girl-academia-himiko-white-black.png
-[[./wallpapers/0228_girl-academia-himiko-white-black.png]]
-
-**** 0229_alita-girl-gunm.jpg
-#+CAPTION: 0229_alita-girl-gunm.jpg
-#+NAME: wallpapers/0229_alita-girl-gunm.jpg
-[[./wallpapers/0229_alita-girl-gunm.jpg]]
-
-**** 0230_girl-peace-bracelets-white.png
-#+CAPTION: 0230_girl-peace-bracelets-white.png
-#+NAME: wallpapers/0230_girl-peace-bracelets-white.png
-[[./wallpapers/0230_girl-peace-bracelets-white.png]]
-
-**** 0231_girl-readhead-hat-emojis.jpg
-#+CAPTION: 0231_girl-readhead-hat-emojis.jpg
-#+NAME: wallpapers/0231_girl-readhead-hat-emojis.jpg
-[[./wallpapers/0231_girl-readhead-hat-emojis.jpg]]
-
-**** 0232_girl-sepia-street-blur.png
-#+CAPTION: 0232_girl-sepia-street-blur.png
-#+NAME: wallpapers/0232_girl-sepia-street-blur.png
-[[./wallpapers/0232_girl-sepia-street-blur.png]]
-
-**** 0233_foulouscopie-leo-flag-crowd.png
-#+CAPTION: 0233_foulouscopie-leo-flag-crowd.png
-#+NAME: wallpapers/0233_foulouscopie-leo-flag-crowd.png
-[[./wallpapers/0233_foulouscopie-leo-flag-crowd.png]]
-
-**** 0234_nord-minimalist-snow-mountain.png
-#+CAPTION: 0234_nord-minimalist-snow-mountain.png
-#+NAME: wallpapers/0234_nord-minimalist-snow-mountain.png
-[[./wallpapers/0234_nord-minimalist-snow-mountain.png]]
-
-**** 0235_tree-red-lake-rainbow.png
-#+CAPTION: 0235_tree-red-lake-rainbow.png
-#+NAME: wallpapers/0235_tree-red-lake-rainbow.png
-[[./wallpapers/0235_tree-red-lake-rainbow.png]]
-
-**** 0236_girl-cat-grass-uniform.jpg
-#+CAPTION: 0236_girl-cat-grass-uniform.jpg
-#+NAME: wallpapers/0236_girl-cat-grass-uniform.jpg
-[[./wallpapers/0236_girl-cat-grass-uniform.jpg]]
-
-**** 0237_girl-arm-auburn-glance.jpg
-#+CAPTION: 0237_girl-arm-auburn-glance.jpg
-#+NAME: wallpapers/0237_girl-arm-auburn-glance.jpg
-[[./wallpapers/0237_girl-arm-auburn-glance.jpg]]
-
-**** 0238_clouds-mountain-hotairballoon-cartoon-moon.png
-#+CAPTION: 0238_clouds-mountain-hotairballoon-cartoon-moon.png
-#+NAME: wallpapers/0238_clouds-mountain-hotairballoon-cartoon-moon.png
-[[./wallpapers/0238_clouds-mountain-hotairballoon-cartoon-moon.png]]
-
-**** 0239_astronaut-planet-station-stars.jpg
-#+CAPTION: 0239_astronaut-planet-station-stars.jpg
-#+NAME: wallpapers/0239_astronaut-planet-station-stars.jpg
-[[./wallpapers/0239_astronaut-planet-station-stars.jpg]]
-
-**** 0240_hand-robot-sphere-reflexion.jpg
-#+CAPTION: 0240_hand-robot-sphere-reflexion.jpg
-#+NAME: wallpapers/0240_hand-robot-sphere-reflexion.jpg
-[[./wallpapers/0240_hand-robot-sphere-reflexion.jpg]]
-
-**** 0241_stars-minimalist-expression.jpg
-#+CAPTION: 0241_stars-minimalist-expression.jpg
-#+NAME: wallpapers/0241_stars-minimalist-expression.jpg
-[[./wallpapers/0241_stars-minimalist-expression.jpg]]
-
-**** 0242_characters-panes-bright-eyes.png
-#+CAPTION: 0242_characters-panes-bright-eyes.png
-#+NAME: wallpapers/0242_characters-panes-bright-eyes.png
-[[./wallpapers/0242_characters-panes-bright-eyes.png]]
-
-**** 0243_couple-car-tent-freedom.png
-#+CAPTION: 0243_couple-car-tent-freedom.png
-#+NAME: wallpapers/0243_couple-car-tent-freedom.png
-[[./wallpapers/0243_couple-car-tent-freedom.png]]
-
-**** 0244_sunset-boat-minimalist-vibrant.png
-#+CAPTION: 0244_sunset-boat-minimalist-vibrant.png
-#+NAME: wallpapers/0244_sunset-boat-minimalist-vibrant.png
-[[./wallpapers/0244_sunset-boat-minimalist-vibrant.png]]
-
-**** 0245_forest-campsite-forest-sunrise.jpg
-#+CAPTION: 0245_forest-campsite-forest-sunrise.jpg
-#+NAME: wallpapers/0245_forest-campsite-forest-sunrise.jpg
-[[./wallpapers/0245_forest-campsite-forest-sunrise.jpg]]
-
-**** 0246_dracula-bats-moon.png
-#+CAPTION: 0246_dracula-bats-moon.png
-#+NAME: wallpapers/0246_dracula-bats-moon.png
-[[./wallpapers/0246_dracula-bats-moon.png]]
-
-**** 0247_space-spoutnik-minimalist-spheres.png
-#+CAPTION: 0247_space-spoutnik-minimalist-spheres.png
-#+NAME: wallpapers/0247_space-spoutnik-minimalist-spheres.png
-[[./wallpapers/0247_space-spoutnik-minimalist-spheres.png]]
-
-**** 0248_dune-minimalist-worm-desert.jpg
-#+CAPTION: 0248_dune-minimalist-worm-desert.jpg
-#+NAME: wallpapers/0248_dune-minimalist-worm-desert.jpg
-[[./wallpapers/0248_dune-minimalist-worm-desert.jpg]]
+#+NAME: wallpapers/abstract/0177_abstract-shapes-sunset.png
+[[./wallpapers/abstract/0177_abstract-shapes-sunset.png]]
 
 **** 0249_abstract-colors-contourline-minimal.png
 #+CAPTION: 0249_abstract-colors-contourline-minimal.png
-#+NAME: wallpapers/0249_abstract-colors-contourline-minimal.png
-[[./wallpapers/0249_abstract-colors-contourline-minimal.png]]
-
-**** 0250_8-bit-day-minimalist.jpg
-#+CAPTION: 0250_8-bit-day-minimalist.jpg
-#+NAME: wallpapers/0250_8-bit-day-minimalist.jpg
-[[./wallpapers/0250_8-bit-day-minimalist.jpg]]
-
-**** 0251_girl-sniper-blow-white.jpg
-#+CAPTION: 0251_girl-sniper-blow-white.jpg
-#+NAME: wallpapers/0251_girl-sniper-blow-white.jpg
-[[./wallpapers/0251_girl-sniper-blow-white.jpg]]
-
-**** 0252_abandonned-sign-purple-sky.png
-#+CAPTION: 0252_abandonned-sign-purple-sky.png
-#+NAME: wallpapers/0252_abandonned-sign-purple-sky.png
-[[./wallpapers/0252_abandonned-sign-purple-sky.png]]
-
-**** 0253_arch-familly-logos-cattpuccin.png
-#+CAPTION: 0253_arch-familly-logos-cattpuccin.png
-#+NAME: wallpapers/0253_arch-familly-logos-cattpuccin.png
-[[./wallpapers/0253_arch-familly-logos-cattpuccin.png]]
-
-**** 0254_blur-city-night-crowd.png
-#+CAPTION: 0254_blur-city-night-crowd.png
-#+NAME: wallpapers/0254_blur-city-night-crowd.png
-[[./wallpapers/0254_blur-city-night-crowd.png]]
-
-**** 0255_fisheye-anime-bull-room.png
-#+CAPTION: 0255_fisheye-anime-bull-room.png
-#+NAME: wallpapers/0255_fisheye-anime-bull-room.png
-[[./wallpapers/0255_fisheye-anime-bull-room.png]]
+#+NAME: wallpapers/abstract/0249_abstract-colors-contourline-minimal.png
+[[./wallpapers/abstract/0249_abstract-colors-contourline-minimal.png]]
 
 **** 0256_hexagon-abstract-red-metal.png
 #+CAPTION: 0256_hexagon-abstract-red-metal.png
-#+NAME: wallpapers/0256_hexagon-abstract-red-metal.png
-[[./wallpapers/0256_hexagon-abstract-red-metal.png]]
+#+NAME: wallpapers/abstract/0256_hexagon-abstract-red-metal.png
+[[./wallpapers/abstract/0256_hexagon-abstract-red-metal.png]]
 
 **** 0257_hexagon-neon-3d-hologram.png
 #+CAPTION: 0257_hexagon-neon-3d-hologram.png
-#+NAME: wallpapers/0257_hexagon-neon-3d-hologram.png
-[[./wallpapers/0257_hexagon-neon-3d-hologram.png]]
-
-**** 0258_minimal-bonsai-ascii-dark.png
-#+CAPTION: 0258_minimal-bonsai-ascii-dark.png
-#+NAME: wallpapers/0258_minimal-bonsai-ascii-dark.png
-[[./wallpapers/0258_minimal-bonsai-ascii-dark.png]]
-
-**** 0259_minimal-planets-stars-space.png
-#+CAPTION: 0259_minimal-planets-stars-space.png
-#+NAME: wallpapers/0259_minimal-planets-stars-space.png
-[[./wallpapers/0259_minimal-planets-stars-space.png]]
-
-**** 0260_minimalist-pixelart-city-night.png
-#+CAPTION: 0260_minimalist-pixelart-city-night.png
-#+NAME: wallpapers/0260_minimalist-pixelart-city-night.png
-[[./wallpapers/0260_minimalist-pixelart-city-night.png]]
-
-**** 0261_pastel-painting-couple-landscape.png
-#+CAPTION: 0261_pastel-painting-couple-landscape.png
-#+NAME: wallpapers/0261_pastel-painting-couple-landscape.png
-[[./wallpapers/0261_pastel-painting-couple-landscape.png]]
-
-**** 0262_sunset-sky-pink-trees.png
-#+CAPTION: 0262_sunset-sky-pink-trees.png
-#+NAME: wallpapers/0262_sunset-sky-pink-trees.png
-[[./wallpapers/0262_sunset-sky-pink-trees.png]]
-
-**** 0263_anime-street-cat-night.png
-#+CAPTION: 0263_anime-street-cat-night.png
-#+NAME: wallpapers/0263_anime-street-cat-night.png
-[[./wallpapers/0263_anime-street-cat-night.png]]
-
-**** 0264_minimal-link-green-waker.png
-#+CAPTION: 0264_minimal-link-green-waker.png
-#+NAME: wallpapers/0264_minimal-link-green-waker.png
-[[./wallpapers/0264_minimal-link-green-waker.png]]
-
-**** 0265_arch-light-blue-minimal.png
-#+CAPTION: 0265_arch-light-blue-minimal.png
-#+NAME: wallpapers/0265_arch-light-blue-minimal.png
-[[./wallpapers/0265_arch-light-blue-minimal.png]]
-
-**** 0266_arch-lime-minimal-logo.png
-#+CAPTION: 0266_arch-lime-minimal-logo.png
-#+NAME: wallpapers/0266_arch-lime-minimal-logo.png
-[[./wallpapers/0266_arch-lime-minimal-logo.png]]
-
-**** 0267_arch-pink-logo-minimal.png
-#+CAPTION: 0267_arch-pink-logo-minimal.png
-#+NAME: wallpapers/0267_arch-pink-logo-minimal.png
-[[./wallpapers/0267_arch-pink-logo-minimal.png]]
-
-**** 0268_arch-logo-minimal-marine.png
-#+CAPTION: 0268_arch-logo-minimal-marine.png
-#+NAME: wallpapers/0268_arch-logo-minimal-marine.png
-[[./wallpapers/0268_arch-logo-minimal-marine.png]]
-
-**** 0269_arch-logo-cyan-minimal.png
-#+CAPTION: 0269_arch-logo-cyan-minimal.png
-#+NAME: wallpapers/0269_arch-logo-cyan-minimal.png
-[[./wallpapers/0269_arch-logo-cyan-minimal.png]]
-
-**** 0270_sky-grey-desert-men.png
-#+CAPTION: 0270_sky-grey-desert-men.png
-#+NAME: wallpapers/0270_sky-grey-desert-men.png
-[[./wallpapers/0270_sky-grey-desert-men.png]]
-
-**** 0271_girl-anime-pink-skyscraper.png
-#+CAPTION: 0271_girl-anime-pink-skyscraper.png
-#+NAME: wallpapers/0271_girl-anime-pink-skyscraper.png
-[[./wallpapers/0271_girl-anime-pink-skyscraper.png]]
-
-**** 0272_anime-girl-pink-night.jpg
-#+CAPTION: 0272_anime-girl-pink-night.jpg
-#+NAME: wallpapers/0272_anime-girl-pink-night.jpg
-[[./wallpapers/0272_anime-girl-pink-night.jpg]]
-
-**** 0273_girl-sky-water-clouds.jpg
-#+CAPTION: 0273_girl-sky-water-clouds.jpg
-#+NAME: wallpapers/0273_girl-sky-water-clouds.jpg
-[[./wallpapers/0273_girl-sky-water-clouds.jpg]]
-
-**** 0274_arch-logo-black-black.png
-#+CAPTION: 0274_arch-logo-black-black.png
-#+NAME: wallpapers/0274_arch-logo-black-black.png
-[[./wallpapers/0274_arch-logo-black-black.png]]
-
-**** 0275_arch-logo-black-blue.png
-#+CAPTION: 0275_arch-logo-black-blue.png
-#+NAME: wallpapers/0275_arch-logo-black-blue.png
-[[./wallpapers/0275_arch-logo-black-blue.png]]
-
-**** 0276_arch-logo-black-orange.png
-#+CAPTION: 0276_arch-logo-black-orange.png
-#+NAME: wallpapers/0276_arch-logo-black-orange.png
-[[./wallpapers/0276_arch-logo-black-orange.png]]
-
-**** 0277_joke-garden-animals-onion.png
-#+CAPTION: 0277_joke-garden-animals-onion.png
-#+NAME: wallpapers/0277_joke-garden-animals-onion.png
-[[./wallpapers/0277_joke-garden-animals-onion.png]]
-
-**** 0278_street-anime-rain-dawn.png
-#+CAPTION: 0278_street-anime-rain-dawn.png
-#+NAME: wallpapers/0278_street-anime-rain-dawn.png
-[[./wallpapers/0278_street-anime-rain-dawn.png]]
-
-**** 0279_plane-vibrant-sunset-pink.jpg
-#+CAPTION: 0279_plane-vibrant-sunset-pink.jpg
-#+NAME: wallpapers/0279_plane-vibrant-sunset-pink.jpg
-[[./wallpapers/0279_plane-vibrant-sunset-pink.jpg]]
-
-**** 0280_minimal-solarized-evil-clock.png
-#+CAPTION: 0280_minimal-solarized-evil-clock.png
-#+NAME: wallpapers/0280_minimal-solarized-evil-clock.png
-[[./wallpapers/0280_minimal-solarized-evil-clock.png]]
-
-**** 0281_minimal-moon-plane-shadow.jpg
-#+CAPTION: 0281_minimal-moon-plane-shadow.jpg
-#+NAME: wallpapers/0281_minimal-moon-plane-shadow.jpg
-[[./wallpapers/0281_minimal-moon-plane-shadow.jpg]]
-
-**** 0282_paint-dark-flame-red.png
-#+CAPTION: 0282_paint-dark-flame-red.png
-#+NAME: wallpapers/0282_paint-dark-flame-red.png
-[[./wallpapers/0282_paint-dark-flame-red.png]]
-
-**** 0283_solarized-heart-kernel-blue.png
-#+CAPTION: 0283_solarized-heart-kernel-blue.png
-#+NAME: wallpapers/0283_solarized-heart-kernel-blue.png
-[[./wallpapers/0283_solarized-heart-kernel-blue.png]]
+#+NAME: wallpapers/abstract/0257_hexagon-neon-3d-hologram.png
+[[./wallpapers/abstract/0257_hexagon-neon-3d-hologram.png]]
 
 **** 0284_orange-equanimity-geometric-granular.jpg
 #+CAPTION: 0284_orange-equanimity-geometric-granular.jpg
-#+NAME: wallpapers/0284_orange-equanimity-geometric-granular.jpg
-[[./wallpapers/0284_orange-equanimity-geometric-granular.jpg]]
-
-**** 0285_flowers_pastel_blur_zen.jpg
-#+CAPTION: 0285_flowers_pastel_blur_zen.jpg
-#+NAME: wallpapers/0285_flowers_pastel_blur_zen.jpg
-[[./wallpapers/0285_flowers_pastel_blur_zen.jpg]]
-
-**** 0286_linux-tux-stripes-gruvbox.png
-#+CAPTION: 0286_linux-tux-stripes-gruvbox.png
-#+NAME: wallpapers/0286_linux-tux-stripes-gruvbox.png
-[[./wallpapers/0286_linux-tux-stripes-gruvbox.png]]
-
-**** 0287_alena_aenami-bluehour-electric-tower.jpeg
-#+CAPTION: 0287_alena_aenami-bluehour-electric-tower.jpeg
-#+NAME: wallpapers/0287_alena_aenami-bluehour-electric-tower.jpeg
-[[./wallpapers/0287_alena_aenami-bluehour-electric-tower.jpeg]]
-
-**** 0288_alena_aenami-budapest-bridge-river.jpeg
-#+CAPTION: 0288_alena_aenami-budapest-bridge-river.jpeg
-#+NAME: wallpapers/0288_alena_aenami-budapest-bridge-river.jpeg
-[[./wallpapers/0288_alena_aenami-budapest-bridge-river.jpeg]]
-
-**** 0289_alena_aenami-cloud-shapes-house.jpeg
-#+CAPTION: 0289_alena_aenami-cloud-shapes-house.jpeg
-#+NAME: wallpapers/0289_alena_aenami-cloud-shapes-house.jpeg
-[[./wallpapers/0289_alena_aenami-cloud-shapes-house.jpeg]]
-
-**** 0290_alena_aenami-cold-city-cables.jpeg
-#+CAPTION: 0290_alena_aenami-cold-city-cables.jpeg
-#+NAME: wallpapers/0290_alena_aenami-cold-city-cables.jpeg
-[[./wallpapers/0290_alena_aenami-cold-city-cables.jpeg]]
-
-**** 0291_alena_aenami-crater-lake-birds.jpeg
-#+CAPTION: 0291_alena_aenami-crater-lake-birds.jpeg
-#+NAME: wallpapers/0291_alena_aenami-crater-lake-birds.jpeg
-[[./wallpapers/0291_alena_aenami-crater-lake-birds.jpeg]]
-
-**** 0292_anime-cloud-sky-room.png
-#+CAPTION: 0292_anime-cloud-sky-room.png
-#+NAME: wallpapers/0292_anime-cloud-sky-room.png
-[[./wallpapers/0292_anime-cloud-sky-room.png]]
-
-**** 0293_anime-girl-night-phone.jpeg
-#+CAPTION: 0293_anime-girl-night-phone.jpeg
-#+NAME: wallpapers/0293_anime-girl-night-phone.jpeg
-[[./wallpapers/0293_anime-girl-night-phone.jpeg]]
-
-**** 0294_city-neon-night-skyscrapers.png
-#+CAPTION: 0294_city-neon-night-skyscrapers.png
-#+NAME: wallpapers/0294_city-neon-night-skyscrapers.png
-[[./wallpapers/0294_city-neon-night-skyscrapers.png]]
-
-**** 0295_fantasy-horse-cherry-blossom.png
-#+CAPTION: 0295_fantasy-horse-cherry-blossom.png
-#+NAME: wallpapers/0295_fantasy-horse-cherry-blossom.png
-[[./wallpapers/0295_fantasy-horse-cherry-blossom.png]]
-
-**** 0296_girl-pool-plane-towel.jpg
-#+CAPTION: 0296_girl-pool-plane-towel.jpg
-#+NAME: wallpapers/0296_girl-pool-plane-towel.jpg
-[[./wallpapers/0296_girl-pool-plane-towel.jpg]]
-
-**** 0297_pastel-paint-cloud-girl.png
-#+CAPTION: 0297_pastel-paint-cloud-girl.png
-#+NAME: wallpapers/0297_pastel-paint-cloud-girl.png
-[[./wallpapers/0297_pastel-paint-cloud-girl.png]]
-
-**** 0298_sunset-minimalist-lake-trees.png
-#+CAPTION: 0298_sunset-minimalist-lake-trees.png
-#+NAME: wallpapers/0298_sunset-minimalist-lake-trees.png
-[[./wallpapers/0298_sunset-minimalist-lake-trees.png]]
-
-**** 0299_anime-girl-artistic-sunset.2.jpg
-#+CAPTION: 0299_anime-girl-artistic-sunset.2.jpg
-#+NAME: wallpapers/0299_anime-girl-artistic-sunset.2.jpg
-[[./wallpapers/0299_anime-girl-artistic-sunset.2.jpg]]
-
-**** 0300_anime-girl-artistic-sunset.jpg
-#+CAPTION: 0300_anime-girl-artistic-sunset.jpg
-#+NAME: wallpapers/0300_anime-girl-artistic-sunset.jpg
-[[./wallpapers/0300_anime-girl-artistic-sunset.jpg]]
-
-**** 0301_anime-girl-pink-hand.jpg
-#+CAPTION: 0301_anime-girl-pink-hand.jpg
-#+NAME: wallpapers/0301_anime-girl-pink-hand.jpg
-[[./wallpapers/0301_anime-girl-pink-hand.jpg]]
-
-**** 0302_anime-girl-white-back.jpg
-#+CAPTION: 0302_anime-girl-white-back.jpg
-#+NAME: wallpapers/0302_anime-girl-white-back.jpg
-[[./wallpapers/0302_anime-girl-white-back.jpg]]
-
-**** 0303_night-stars-comet-minimalist.jpg
-#+CAPTION: 0303_night-stars-comet-minimalist.jpg
-#+NAME: wallpapers/0303_night-stars-comet-minimalist.jpg
-[[./wallpapers/0303_night-stars-comet-minimalist.jpg]]
-
-**** 0304_pink-minimalist-hot-air-balloon-forest.png
-#+CAPTION: 0304_pink-minimalist-hot-air-balloon-forest.png
-#+NAME: wallpapers/0304_pink-minimalist-hot-air-balloon-forest.png
-[[./wallpapers/0304_pink-minimalist-hot-air-balloon-forest.png]]
-
-**** 0305_truck-man-lake-minimalist.jpg
-#+CAPTION: 0305_truck-man-lake-minimalist.jpg
-#+NAME: wallpapers/0305_truck-man-lake-minimalist.jpg
-[[./wallpapers/0305_truck-man-lake-minimalist.jpg]]
+#+NAME: wallpapers/abstract/0284_orange-equanimity-geometric-granular.jpg
+[[./wallpapers/abstract/0284_orange-equanimity-geometric-granular.jpg]]
 
 **** 0306_abstract-minimalist-maze-colors.jpg
 #+CAPTION: 0306_abstract-minimalist-maze-colors.jpg
-#+NAME: wallpapers/0306_abstract-minimalist-maze-colors.jpg
-[[./wallpapers/0306_abstract-minimalist-maze-colors.jpg]]
-
-**** 0307_anime-beach-night-sea.jpg
-#+CAPTION: 0307_anime-beach-night-sea.jpg
-#+NAME: wallpapers/0307_anime-beach-night-sea.jpg
-[[./wallpapers/0307_anime-beach-night-sea.jpg]]
-
-**** 0308_anime-boy-fence-hand.png
-#+CAPTION: 0308_anime-boy-fence-hand.png
-#+NAME: wallpapers/0308_anime-boy-fence-hand.png
-[[./wallpapers/0308_anime-boy-fence-hand.png]]
-
-**** 0309_anime-children-rail-post.jpg
-#+CAPTION: 0309_anime-children-rail-post.jpg
-#+NAME: wallpapers/0309_anime-children-rail-post.jpg
-[[./wallpapers/0309_anime-children-rail-post.jpg]]
-
-**** 0310_anime-couple-yellow-particles.png
-#+CAPTION: 0310_anime-couple-yellow-particles.png
-#+NAME: wallpapers/0310_anime-couple-yellow-particles.png
-[[./wallpapers/0310_anime-couple-yellow-particles.png]]
-
-**** 0311_anime-desk-radio-plants.jpg
-#+CAPTION: 0311_anime-desk-radio-plants.jpg
-#+NAME: wallpapers/0311_anime-desk-radio-plants.jpg
-[[./wallpapers/0311_anime-desk-radio-plants.jpg]]
-
-**** 0312_anime-girl-asuna-sao.jpg
-#+CAPTION: 0312_anime-girl-asuna-sao.jpg
-#+NAME: wallpapers/0312_anime-girl-asuna-sao.jpg
-[[./wallpapers/0312_anime-girl-asuna-sao.jpg]]
-
-**** 0313_anime-girl-bed-awakening.jpg
-#+CAPTION: 0313_anime-girl-bed-awakening.jpg
-#+NAME: wallpapers/0313_anime-girl-bed-awakening.jpg
-[[./wallpapers/0313_anime-girl-bed-awakening.jpg]]
-
-**** 0314_anime-girl-blackwhite-gun.jpg
-#+CAPTION: 0314_anime-girl-blackwhite-gun.jpg
-#+NAME: wallpapers/0314_anime-girl-blackwhite-gun.jpg
-[[./wallpapers/0314_anime-girl-blackwhite-gun.jpg]]
-
-**** 0315_anime-girl-blackwhite-gun2.jpg
-#+CAPTION: 0315_anime-girl-blackwhite-gun2.jpg
-#+NAME: wallpapers/0315_anime-girl-blackwhite-gun2.jpg
-[[./wallpapers/0315_anime-girl-blackwhite-gun2.jpg]]
-
-**** 0316_anime-girl-blackwhite-hair.png
-#+CAPTION: 0316_anime-girl-blackwhite-hair.png
-#+NAME: wallpapers/0316_anime-girl-blackwhite-hair.png
-[[./wallpapers/0316_anime-girl-blackwhite-hair.png]]
-
-**** 0317_anime-girl-broom-blood.jpg
-#+CAPTION: 0317_anime-girl-broom-blood.jpg
-#+NAME: wallpapers/0317_anime-girl-broom-blood.jpg
-[[./wallpapers/0317_anime-girl-broom-blood.jpg]]
-
-**** 0318_anime-girl-cat-wink.jpg
-#+CAPTION: 0318_anime-girl-cat-wink.jpg
-#+NAME: wallpapers/0318_anime-girl-cat-wink.jpg
-[[./wallpapers/0318_anime-girl-cat-wink.jpg]]
-
-**** 0319_anime-girl-cloud-sky.jpg
-#+CAPTION: 0319_anime-girl-cloud-sky.jpg
-#+NAME: wallpapers/0319_anime-girl-cloud-sky.jpg
-[[./wallpapers/0319_anime-girl-cloud-sky.jpg]]
-
-**** 0320_anime-girl-cross-hair.jpg
-#+CAPTION: 0320_anime-girl-cross-hair.jpg
-#+NAME: wallpapers/0320_anime-girl-cross-hair.jpg
-[[./wallpapers/0320_anime-girl-cross-hair.jpg]]
-
-**** 0321_anime-girl-desk-night.png
-#+CAPTION: 0321_anime-girl-desk-night.png
-#+NAME: wallpapers/0321_anime-girl-desk-night.png
-[[./wallpapers/0321_anime-girl-desk-night.png]]
-
-**** 0322_anime-girl-dress-colors.jpg
-#+CAPTION: 0322_anime-girl-dress-colors.jpg
-#+NAME: wallpapers/0322_anime-girl-dress-colors.jpg
-[[./wallpapers/0322_anime-girl-dress-colors.jpg]]
-
-**** 0323_anime-girl-fedora-hat.png
-#+CAPTION: 0323_anime-girl-fedora-hat.png
-#+NAME: wallpapers/0323_anime-girl-fedora-hat.png
-[[./wallpapers/0323_anime-girl-fedora-hat.png]]
-
-**** 0324_anime-girl-gun-herself.jpg
-#+CAPTION: 0324_anime-girl-gun-herself.jpg
-#+NAME: wallpapers/0324_anime-girl-gun-herself.jpg
-[[./wallpapers/0324_anime-girl-gun-herself.jpg]]
-
-**** 0325_anime-girl-hair-bed.jpg
-#+CAPTION: 0325_anime-girl-hair-bed.jpg
-#+NAME: wallpapers/0325_anime-girl-hair-bed.jpg
-[[./wallpapers/0325_anime-girl-hair-bed.jpg]]
-
-**** 0326_anime-girl-hair-blackwhite.jpg
-#+CAPTION: 0326_anime-girl-hair-blackwhite.jpg
-#+NAME: wallpapers/0326_anime-girl-hair-blackwhite.jpg
-[[./wallpapers/0326_anime-girl-hair-blackwhite.jpg]]
-
-**** 0327_anime-girl-hand-openmouth.jpg
-#+CAPTION: 0327_anime-girl-hand-openmouth.jpg
-#+NAME: wallpapers/0327_anime-girl-hand-openmouth.jpg
-[[./wallpapers/0327_anime-girl-hand-openmouth.jpg]]
-
-**** 0328_anime-girl-hatsune-miku.jpg
-#+CAPTION: 0328_anime-girl-hatsune-miku.jpg
-#+NAME: wallpapers/0328_anime-girl-hatsune-miku.jpg
-[[./wallpapers/0328_anime-girl-hatsune-miku.jpg]]
-
-**** 0329_anime-girl-kimono-festival.jpg
-#+CAPTION: 0329_anime-girl-kimono-festival.jpg
-#+NAME: wallpapers/0329_anime-girl-kimono-festival.jpg
-[[./wallpapers/0329_anime-girl-kimono-festival.jpg]]
-
-**** 0330_anime-girl-neon-rain.jpg
-#+CAPTION: 0330_anime-girl-neon-rain.jpg
-#+NAME: wallpapers/0330_anime-girl-neon-rain.jpg
-[[./wallpapers/0330_anime-girl-neon-rain.jpg]]
-
-**** 0331_anime-girl-puddle-mirror.jpg
-#+CAPTION: 0331_anime-girl-puddle-mirror.jpg
-#+NAME: wallpapers/0331_anime-girl-puddle-mirror.jpg
-[[./wallpapers/0331_anime-girl-puddle-mirror.jpg]]
-
-**** 0332_anime-girl-rain-umbrella.jpg
-#+CAPTION: 0332_anime-girl-rain-umbrella.jpg
-#+NAME: wallpapers/0332_anime-girl-rain-umbrella.jpg
-[[./wallpapers/0332_anime-girl-rain-umbrella.jpg]]
-
-**** 0333_anime-girl-red-circle.jpg
-#+CAPTION: 0333_anime-girl-red-circle.jpg
-#+NAME: wallpapers/0333_anime-girl-red-circle.jpg
-[[./wallpapers/0333_anime-girl-red-circle.jpg]]
-
-**** 0334_anime-girl-robot-light.jpg
-#+CAPTION: 0334_anime-girl-robot-light.jpg
-#+NAME: wallpapers/0334_anime-girl-robot-light.jpg
-[[./wallpapers/0334_anime-girl-robot-light.jpg]]
-
-**** 0335_anime-girl-snow-abandonned.jpg
-#+CAPTION: 0335_anime-girl-snow-abandonned.jpg
-#+NAME: wallpapers/0335_anime-girl-snow-abandonned.jpg
-[[./wallpapers/0335_anime-girl-snow-abandonned.jpg]]
-
-**** 0336_anime-girl-stars-cake.png
-#+CAPTION: 0336_anime-girl-stars-cake.png
-#+NAME: wallpapers/0336_anime-girl-stars-cake.png
-[[./wallpapers/0336_anime-girl-stars-cake.png]]
-
-**** 0337_anime-girl-sword-blood.jpg
-#+CAPTION: 0337_anime-girl-sword-blood.jpg
-#+NAME: wallpapers/0337_anime-girl-sword-blood.jpg
-[[./wallpapers/0337_anime-girl-sword-blood.jpg]]
-
-**** 0338_anime-girl-tongue-googles.jpg
-#+CAPTION: 0338_anime-girl-tongue-googles.jpg
-#+NAME: wallpapers/0338_anime-girl-tongue-googles.jpg
-[[./wallpapers/0338_anime-girl-tongue-googles.jpg]]
-
-**** 0339_anime-girl-train-night.jpg
-#+CAPTION: 0339_anime-girl-train-night.jpg
-#+NAME: wallpapers/0339_anime-girl-train-night.jpg
-[[./wallpapers/0339_anime-girl-train-night.jpg]]
-
-**** 0340_anime-girl-v-jump.png
-#+CAPTION: 0340_anime-girl-v-jump.png
-#+NAME: wallpapers/0340_anime-girl-v-jump.png
-[[./wallpapers/0340_anime-girl-v-jump.png]]
-
-**** 0341_anime-girl-violin-passion.jpg
-#+CAPTION: 0341_anime-girl-violin-passion.jpg
-#+NAME: wallpapers/0341_anime-girl-violin-passion.jpg
-[[./wallpapers/0341_anime-girl-violin-passion.jpg]]
-
-**** 0342_anime-girl-windmills-electricity.jpg
-#+CAPTION: 0342_anime-girl-windmills-electricity.jpg
-#+NAME: wallpapers/0342_anime-girl-windmills-electricity.jpg
-[[./wallpapers/0342_anime-girl-windmills-electricity.jpg]]
-
-**** 0343_anime-girl-wolf-rain.jpg
-#+CAPTION: 0343_anime-girl-wolf-rain.jpg
-#+NAME: wallpapers/0343_anime-girl-wolf-rain.jpg
-[[./wallpapers/0343_anime-girl-wolf-rain.jpg]]
-
-**** 0344_anime-girl-work-road.jpg
-#+CAPTION: 0344_anime-girl-work-road.jpg
-#+NAME: wallpapers/0344_anime-girl-work-road.jpg
-[[./wallpapers/0344_anime-girl-work-road.jpg]]
-
-**** 0345_anime-monster-mist-grey.jpg
-#+CAPTION: 0345_anime-monster-mist-grey.jpg
-#+NAME: wallpapers/0345_anime-monster-mist-grey.jpg
-[[./wallpapers/0345_anime-monster-mist-grey.jpg]]
-
-**** 0346_anime-river-leaf-man.jpg
-#+CAPTION: 0346_anime-river-leaf-man.jpg
-#+NAME: wallpapers/0346_anime-river-leaf-man.jpg
-[[./wallpapers/0346_anime-river-leaf-man.jpg]]
-
-**** 0347_city-night-street-store.jpg
-#+CAPTION: 0347_city-night-street-store.jpg
-#+NAME: wallpapers/0347_city-night-street-store.jpg
-[[./wallpapers/0347_city-night-street-store.jpg]]
-
-**** 0348_city-train-buildings-lights.jpg
-#+CAPTION: 0348_city-train-buildings-lights.jpg
-#+NAME: wallpapers/0348_city-train-buildings-lights.jpg
-[[./wallpapers/0348_city-train-buildings-lights.jpg]]
-
-**** 0349_couple-bridge-river-sunrise.jpg
-#+CAPTION: 0349_couple-bridge-river-sunrise.jpg
-#+NAME: wallpapers/0349_couple-bridge-river-sunrise.jpg
-[[./wallpapers/0349_couple-bridge-river-sunrise.jpg]]
-
-**** 0350_desert-night-neon-ruins.jpg
-#+CAPTION: 0350_desert-night-neon-ruins.jpg
-#+NAME: wallpapers/0350_desert-night-neon-ruins.jpg
-[[./wallpapers/0350_desert-night-neon-ruins.jpg]]
-
-**** 0351_drawing-firepit-shelter-smoke.jpg
-#+CAPTION: 0351_drawing-firepit-shelter-smoke.jpg
-#+NAME: wallpapers/0351_drawing-firepit-shelter-smoke.jpg
-[[./wallpapers/0351_drawing-firepit-shelter-smoke.jpg]]
-
-**** 0352_drawing-strawhat-dog-mountains.jpg
-#+CAPTION: 0352_drawing-strawhat-dog-mountains.jpg
-#+NAME: wallpapers/0352_drawing-strawhat-dog-mountains.jpg
-[[./wallpapers/0352_drawing-strawhat-dog-mountains.jpg]]
-
-**** 0353_forest-boat-mist-sunlight.jpg
-#+CAPTION: 0353_forest-boat-mist-sunlight.jpg
-#+NAME: wallpapers/0353_forest-boat-mist-sunlight.jpg
-[[./wallpapers/0353_forest-boat-mist-sunlight.jpg]]
-
-**** 0354_forest-mist-samurai-birds.jpg
-#+CAPTION: 0354_forest-mist-samurai-birds.jpg
-#+NAME: wallpapers/0354_forest-mist-samurai-birds.jpg
-[[./wallpapers/0354_forest-mist-samurai-birds.jpg]]
-
-**** 0355_girl-headphones-desk-sunlight.png
-#+CAPTION: 0355_girl-headphones-desk-sunlight.png
-#+NAME: wallpapers/0355_girl-headphones-desk-sunlight.png
-[[./wallpapers/0355_girl-headphones-desk-sunlight.png]]
-
-**** 0356_girl-ninja-turles-apriloneil.jpg
-#+CAPTION: 0356_girl-ninja-turles-apriloneil.jpg
-#+NAME: wallpapers/0356_girl-ninja-turles-apriloneil.jpg
-[[./wallpapers/0356_girl-ninja-turles-apriloneil.jpg]]
-
-**** 0357_girl-shadow-sunrise-crane.jpg
-#+CAPTION: 0357_girl-shadow-sunrise-crane.jpg
-#+NAME: wallpapers/0357_girl-shadow-sunrise-crane.jpg
-[[./wallpapers/0357_girl-shadow-sunrise-crane.jpg]]
-
-**** 0358_girl-sniper-exmachina-blaze.jpg
-#+CAPTION: 0358_girl-sniper-exmachina-blaze.jpg
-#+NAME: wallpapers/0358_girl-sniper-exmachina-blaze.jpg
-[[./wallpapers/0358_girl-sniper-exmachina-blaze.jpg]]
-
-**** 0359_grass-effect-bloom-nature.jpg
-#+CAPTION: 0359_grass-effect-bloom-nature.jpg
-#+NAME: wallpapers/0359_grass-effect-bloom-nature.jpg
-[[./wallpapers/0359_grass-effect-bloom-nature.jpg]]
-
-**** 0360_gruvbox-japanese-bento-sushi.png
-#+CAPTION: 0360_gruvbox-japanese-bento-sushi.png
-#+NAME: wallpapers/0360_gruvbox-japanese-bento-sushi.png
-[[./wallpapers/0360_gruvbox-japanese-bento-sushi.png]]
-
-**** 0361_moon-samurai-mystical-ancient.png
-#+CAPTION: 0361_moon-samurai-mystical-ancient.png
-#+NAME: wallpapers/0361_moon-samurai-mystical-ancient.png
-[[./wallpapers/0361_moon-samurai-mystical-ancient.png]]
-
-**** 0362_neon-girl-skeleton-heart.png
-#+CAPTION: 0362_neon-girl-skeleton-heart.png
-#+NAME: wallpapers/0362_neon-girl-skeleton-heart.png
-[[./wallpapers/0362_neon-girl-skeleton-heart.png]]
-
-**** 0363_new-york-rooftop-neon-sign.jpg
-#+CAPTION: 0363_new-york-rooftop-neon-sign.jpg
-#+NAME: wallpapers/0363_new-york-rooftop-neon-sign.jpg
-[[./wallpapers/0363_new-york-rooftop-neon-sign.jpg]]
-
-**** 0364_night-lights-road-bloom.jpg
-#+CAPTION: 0364_night-lights-road-bloom.jpg
-#+NAME: wallpapers/0364_night-lights-road-bloom.jpg
-[[./wallpapers/0364_night-lights-road-bloom.jpg]]
-
-**** 0365_paint-beach-sun-clouds.png
-#+CAPTION: 0365_paint-beach-sun-clouds.png
-#+NAME: wallpapers/0365_paint-beach-sun-clouds.png
-[[./wallpapers/0365_paint-beach-sun-clouds.png]]
-
-**** 0366_paint-girl-hairband-arms.png
-#+CAPTION: 0366_paint-girl-hairband-arms.png
-#+NAME: wallpapers/0366_paint-girl-hairband-arms.png
-[[./wallpapers/0366_paint-girl-hairband-arms.png]]
-
-**** 0367_panda-light-tree-blossom.jpg
-#+CAPTION: 0367_panda-light-tree-blossom.jpg
-#+NAME: wallpapers/0367_panda-light-tree-blossom.jpg
-[[./wallpapers/0367_panda-light-tree-blossom.jpg]]
-
-**** 0368_panda-samurai-blossom-temple.png
-#+CAPTION: 0368_panda-samurai-blossom-temple.png
-#+NAME: wallpapers/0368_panda-samurai-blossom-temple.png
-[[./wallpapers/0368_panda-samurai-blossom-temple.png]]
-
-**** 0369_pixelart-knight-sword-flame.png
-#+CAPTION: 0369_pixelart-knight-sword-flame.png
-#+NAME: wallpapers/0369_pixelart-knight-sword-flame.png
-[[./wallpapers/0369_pixelart-knight-sword-flame.png]]
-
-**** 0370_pokemon-center-8bit-retro.png
-#+CAPTION: 0370_pokemon-center-8bit-retro.png
-#+NAME: wallpapers/0370_pokemon-center-8bit-retro.png
-[[./wallpapers/0370_pokemon-center-8bit-retro.png]]
-
-**** 0371_pokemon-evolution-ghosts-purple.png
-#+CAPTION: 0371_pokemon-evolution-ghosts-purple.png
-#+NAME: wallpapers/0371_pokemon-evolution-ghosts-purple.png
-[[./wallpapers/0371_pokemon-evolution-ghosts-purple.png]]
-
-**** 0372_samurai-moon-night-mountains.png
-#+CAPTION: 0372_samurai-moon-night-mountains.png
-#+NAME: wallpapers/0372_samurai-moon-night-mountains.png
-[[./wallpapers/0372_samurai-moon-night-mountains.png]]
-
-**** 0373_snk-mikasa-anime-girl.jpg
-#+CAPTION: 0373_snk-mikasa-anime-girl.jpg
-#+NAME: wallpapers/0373_snk-mikasa-anime-girl.jpg
-[[./wallpapers/0373_snk-mikasa-anime-girl.jpg]]
-
-**** 0374_strips-blackwhite-body-legs.png
-#+CAPTION: 0374_strips-blackwhite-body-legs.png
-#+NAME: wallpapers/0374_strips-blackwhite-body-legs.png
-[[./wallpapers/0374_strips-blackwhite-body-legs.png]]
-
-**** 0375_sunrise-city-skyscrapers-mountains.png
-#+CAPTION: 0375_sunrise-city-skyscrapers-mountains.png
-#+NAME: wallpapers/0375_sunrise-city-skyscrapers-mountains.png
-[[./wallpapers/0375_sunrise-city-skyscrapers-mountains.png]]
-
-**** 0376_sunrise-van-road-clouds.png
-#+CAPTION: 0376_sunrise-van-road-clouds.png
-#+NAME: wallpapers/0376_sunrise-van-road-clouds.png
-[[./wallpapers/0376_sunrise-van-road-clouds.png]]
+#+NAME: wallpapers/abstract/0306_abstract-minimalist-maze-colors.jpg
+[[./wallpapers/abstract/0306_abstract-minimalist-maze-colors.jpg]]
+
+**** 0017_code-minimalist-exit.png
+#+CAPTION: 0017_code-minimalist-exit.png
+#+NAME: wallpapers/fun-tech/0017_code-minimalist-exit.png
+[[./wallpapers/fun-tech/0017_code-minimalist-exit.png]]
+
+**** 0037_ubuntu-black-minimalist.png
+#+CAPTION: 0037_ubuntu-black-minimalist.png
+#+NAME: wallpapers/fun-tech/0037_ubuntu-black-minimalist.png
+[[./wallpapers/fun-tech/0037_ubuntu-black-minimalist.png]]
+
+**** 0045_arch-red-minimalist.png
+#+CAPTION: 0045_arch-red-minimalist.png
+#+NAME: wallpapers/fun-tech/0045_arch-red-minimalist.png
+[[./wallpapers/fun-tech/0045_arch-red-minimalist.png]]
+
+**** 0051_minimalist-cloud-storage-bits.png
+#+CAPTION: 0051_minimalist-cloud-storage-bits.png
+#+NAME: wallpapers/fun-tech/0051_minimalist-cloud-storage-bits.png
+[[./wallpapers/fun-tech/0051_minimalist-cloud-storage-bits.png]]
+
+**** 0066_linux-tux-penguin.png
+#+CAPTION: 0066_linux-tux-penguin.png
+#+NAME: wallpapers/fun-tech/0066_linux-tux-penguin.png
+[[./wallpapers/fun-tech/0066_linux-tux-penguin.png]]
+
+**** 0067_code-minimalist-joke-sudormrfslash.png
+#+CAPTION: 0067_code-minimalist-joke-sudormrfslash.png
+#+NAME: wallpapers/fun-tech/0067_code-minimalist-joke-sudormrfslash.png
+[[./wallpapers/fun-tech/0067_code-minimalist-joke-sudormrfslash.png]]
+
+**** 0075_arch-bats-moon-minimalist.png
+#+CAPTION: 0075_arch-bats-moon-minimalist.png
+#+NAME: wallpapers/fun-tech/0075_arch-bats-moon-minimalist.png
+[[./wallpapers/fun-tech/0075_arch-bats-moon-minimalist.png]]
+
+**** 0091_crash-bluescreen-joke.png
+#+CAPTION: 0091_crash-bluescreen-joke.png
+#+NAME: wallpapers/fun-tech/0091_crash-bluescreen-joke.png
+[[./wallpapers/fun-tech/0091_crash-bluescreen-joke.png]]
+
+**** 0119_arch-linux-logo-purple.png
+#+CAPTION: 0119_arch-linux-logo-purple.png
+#+NAME: wallpapers/fun-tech/0119_arch-linux-logo-purple.png
+[[./wallpapers/fun-tech/0119_arch-linux-logo-purple.png]]
+
+**** 0124_logo-minimalist-cup-battery.jpg
+#+CAPTION: 0124_logo-minimalist-cup-battery.jpg
+#+NAME: wallpapers/fun-tech/0124_logo-minimalist-cup-battery.jpg
+[[./wallpapers/fun-tech/0124_logo-minimalist-cup-battery.jpg]]
+
+**** 0136_circuit-electronics-chips.png
+#+CAPTION: 0136_circuit-electronics-chips.png
+#+NAME: wallpapers/fun-tech/0136_circuit-electronics-chips.png
+[[./wallpapers/fun-tech/0136_circuit-electronics-chips.png]]
+
+**** 0159_vim-keys-cheatsheet.png
+#+CAPTION: 0159_vim-keys-cheatsheet.png
+#+NAME: wallpapers/fun-tech/0159_vim-keys-cheatsheet.png
+[[./wallpapers/fun-tech/0159_vim-keys-cheatsheet.png]]
+
+**** 0162_anonymous-mask-strip-minimalist.jpg
+#+CAPTION: 0162_anonymous-mask-strip-minimalist.jpg
+#+NAME: wallpapers/fun-tech/0162_anonymous-mask-strip-minimalist.jpg
+[[./wallpapers/fun-tech/0162_anonymous-mask-strip-minimalist.jpg]]
+
+**** 0168_solar-system-objects-sheet.jpg
+#+CAPTION: 0168_solar-system-objects-sheet.jpg
+#+NAME: wallpapers/fun-tech/0168_solar-system-objects-sheet.jpg
+[[./wallpapers/fun-tech/0168_solar-system-objects-sheet.jpg]]
+
+**** 0187_windows-panic-fuck.png
+#+CAPTION: 0187_windows-panic-fuck.png
+#+NAME: wallpapers/fun-tech/0187_windows-panic-fuck.png
+[[./wallpapers/fun-tech/0187_windows-panic-fuck.png]]
+
+**** 0195_electronics-sheet.jpg
+#+CAPTION: 0195_electronics-sheet.jpg
+#+NAME: wallpapers/fun-tech/0195_electronics-sheet.jpg
+[[./wallpapers/fun-tech/0195_electronics-sheet.jpg]]
+
+**** 0209_code-minimalist-hello-world.jpg
+#+CAPTION: 0209_code-minimalist-hello-world.jpg
+#+NAME: wallpapers/fun-tech/0209_code-minimalist-hello-world.jpg
+[[./wallpapers/fun-tech/0209_code-minimalist-hello-world.jpg]]
+
+**** 0241_stars-minimalist-expression.jpg
+#+CAPTION: 0241_stars-minimalist-expression.jpg
+#+NAME: wallpapers/fun-tech/0241_stars-minimalist-expression.jpg
+[[./wallpapers/fun-tech/0241_stars-minimalist-expression.jpg]]
+
+**** 0246_dracula-bats-moon.png
+#+CAPTION: 0246_dracula-bats-moon.png
+#+NAME: wallpapers/fun-tech/0246_dracula-bats-moon.png
+[[./wallpapers/fun-tech/0246_dracula-bats-moon.png]]
+
+**** 0258_minimal-bonsai-ascii-dark.png
+#+CAPTION: 0258_minimal-bonsai-ascii-dark.png
+#+NAME: wallpapers/fun-tech/0258_minimal-bonsai-ascii-dark.png
+[[./wallpapers/fun-tech/0258_minimal-bonsai-ascii-dark.png]]
+
+**** 0265_arch-light-blue-minimal.png
+#+CAPTION: 0265_arch-light-blue-minimal.png
+#+NAME: wallpapers/fun-tech/0265_arch-light-blue-minimal.png
+[[./wallpapers/fun-tech/0265_arch-light-blue-minimal.png]]
+
+**** 0266_arch-lime-minimal-logo.png
+#+CAPTION: 0266_arch-lime-minimal-logo.png
+#+NAME: wallpapers/fun-tech/0266_arch-lime-minimal-logo.png
+[[./wallpapers/fun-tech/0266_arch-lime-minimal-logo.png]]
+
+**** 0267_arch-pink-logo-minimal.png
+#+CAPTION: 0267_arch-pink-logo-minimal.png
+#+NAME: wallpapers/fun-tech/0267_arch-pink-logo-minimal.png
+[[./wallpapers/fun-tech/0267_arch-pink-logo-minimal.png]]
+
+**** 0268_arch-logo-minimal-marine.png
+#+CAPTION: 0268_arch-logo-minimal-marine.png
+#+NAME: wallpapers/fun-tech/0268_arch-logo-minimal-marine.png
+[[./wallpapers/fun-tech/0268_arch-logo-minimal-marine.png]]
+
+**** 0269_arch-logo-cyan-minimal.png
+#+CAPTION: 0269_arch-logo-cyan-minimal.png
+#+NAME: wallpapers/fun-tech/0269_arch-logo-cyan-minimal.png
+[[./wallpapers/fun-tech/0269_arch-logo-cyan-minimal.png]]
+
+**** 0274_arch-logo-black-black.png
+#+CAPTION: 0274_arch-logo-black-black.png
+#+NAME: wallpapers/fun-tech/0274_arch-logo-black-black.png
+[[./wallpapers/fun-tech/0274_arch-logo-black-black.png]]
+
+**** 0275_arch-logo-black-blue.png
+#+CAPTION: 0275_arch-logo-black-blue.png
+#+NAME: wallpapers/fun-tech/0275_arch-logo-black-blue.png
+[[./wallpapers/fun-tech/0275_arch-logo-black-blue.png]]
+
+**** 0276_arch-logo-black-orange.png
+#+CAPTION: 0276_arch-logo-black-orange.png
+#+NAME: wallpapers/fun-tech/0276_arch-logo-black-orange.png
+[[./wallpapers/fun-tech/0276_arch-logo-black-orange.png]]
+
+**** 0277_joke-garden-animals-onion.png
+#+CAPTION: 0277_joke-garden-animals-onion.png
+#+NAME: wallpapers/fun-tech/0277_joke-garden-animals-onion.png
+[[./wallpapers/fun-tech/0277_joke-garden-animals-onion.png]]
+
+**** 0283_solarized-heart-kernel-blue.png
+#+CAPTION: 0283_solarized-heart-kernel-blue.png
+#+NAME: wallpapers/fun-tech/0283_solarized-heart-kernel-blue.png
+[[./wallpapers/fun-tech/0283_solarized-heart-kernel-blue.png]]
+
+**** 0286_linux-tux-stripes-gruvbox.png
+#+CAPTION: 0286_linux-tux-stripes-gruvbox.png
+#+NAME: wallpapers/fun-tech/0286_linux-tux-stripes-gruvbox.png
+[[./wallpapers/fun-tech/0286_linux-tux-stripes-gruvbox.png]]
 
 **** 0377_windows-pepe-neon-blue.png
 #+CAPTION: 0377_windows-pepe-neon-blue.png
-#+NAME: wallpapers/0377_windows-pepe-neon-blue.png
-[[./wallpapers/0377_windows-pepe-neon-blue.png]]
+#+NAME: wallpapers/fun-tech/0377_windows-pepe-neon-blue.png
+[[./wallpapers/fun-tech/0377_windows-pepe-neon-blue.png]]
+
+**** 0001_city-grey-paint.jpg
+#+CAPTION: 0001_city-grey-paint.jpg
+#+NAME: wallpapers/other/0001_city-grey-paint.jpg
+[[./wallpapers/other/0001_city-grey-paint.jpg]]
+
+**** 0002_fir-valley-drawing-minimal.jpg
+#+CAPTION: 0002_fir-valley-drawing-minimal.jpg
+#+NAME: wallpapers/other/0002_fir-valley-drawing-minimal.jpg
+[[./wallpapers/other/0002_fir-valley-drawing-minimal.jpg]]
+
+**** 0004_mountain-birds-drawing-minimal.jpg
+#+CAPTION: 0004_mountain-birds-drawing-minimal.jpg
+#+NAME: wallpapers/other/0004_mountain-birds-drawing-minimal.jpg
+[[./wallpapers/other/0004_mountain-birds-drawing-minimal.jpg]]
+
+**** 0008_night-city-blur-cars.jpg
+#+CAPTION: 0008_night-city-blur-cars.jpg
+#+NAME: wallpapers/other/0008_night-city-blur-cars.jpg
+[[./wallpapers/other/0008_night-city-blur-cars.jpg]]
+
+**** 0010_paper-city-minimal-art.jpg
+#+CAPTION: 0010_paper-city-minimal-art.jpg
+#+NAME: wallpapers/other/0010_paper-city-minimal-art.jpg
+[[./wallpapers/other/0010_paper-city-minimal-art.jpg]]
+
+**** 0011_vibrant-city-drawing-minimal.jpg
+#+CAPTION: 0011_vibrant-city-drawing-minimal.jpg
+#+NAME: wallpapers/other/0011_vibrant-city-drawing-minimal.jpg
+[[./wallpapers/other/0011_vibrant-city-drawing-minimal.jpg]]
+
+**** 0012_vibrant-couple-paint.jpg
+#+CAPTION: 0012_vibrant-couple-paint.jpg
+#+NAME: wallpapers/other/0012_vibrant-couple-paint.jpg
+[[./wallpapers/other/0012_vibrant-couple-paint.jpg]]
+
+**** 0013_vibrant-sunset-tree.jpg
+#+CAPTION: 0013_vibrant-sunset-tree.jpg
+#+NAME: wallpapers/other/0013_vibrant-sunset-tree.jpg
+[[./wallpapers/other/0013_vibrant-sunset-tree.jpg]]
+
+**** 0018_sunset-deer-vibrant.jpg
+#+CAPTION: 0018_sunset-deer-vibrant.jpg
+#+NAME: wallpapers/other/0018_sunset-deer-vibrant.jpg
+[[./wallpapers/other/0018_sunset-deer-vibrant.jpg]]
+
+**** 0020_rocket-launch-minimalist.jpg
+#+CAPTION: 0020_rocket-launch-minimalist.jpg
+#+NAME: wallpapers/other/0020_rocket-launch-minimalist.jpg
+[[./wallpapers/other/0020_rocket-launch-minimalist.jpg]]
+
+**** 0024_space-astronaut-stars.png
+#+CAPTION: 0024_space-astronaut-stars.png
+#+NAME: wallpapers/other/0024_space-astronaut-stars.png
+[[./wallpapers/other/0024_space-astronaut-stars.png]]
+
+**** 0025_nature-mountain-bords-forest.jpg
+#+CAPTION: 0025_nature-mountain-bords-forest.jpg
+#+NAME: wallpapers/other/0025_nature-mountain-bords-forest.jpg
+[[./wallpapers/other/0025_nature-mountain-bords-forest.jpg]]
+
+**** 0027_night-city-lights-sunset.png
+#+CAPTION: 0027_night-city-lights-sunset.png
+#+NAME: wallpapers/other/0027_night-city-lights-sunset.png
+[[./wallpapers/other/0027_night-city-lights-sunset.png]]
+
+**** 0029_minimalist-abstract-woman-tree.png
+#+CAPTION: 0029_minimalist-abstract-woman-tree.png
+#+NAME: wallpapers/other/0029_minimalist-abstract-woman-tree.png
+[[./wallpapers/other/0029_minimalist-abstract-woman-tree.png]]
+
+**** 0031_colors-pink-city.png
+#+CAPTION: 0031_colors-pink-city.png
+#+NAME: wallpapers/other/0031_colors-pink-city.png
+[[./wallpapers/other/0031_colors-pink-city.png]]
+
+**** 0032_car-inside-wheel.jpg
+#+CAPTION: 0032_car-inside-wheel.jpg
+#+NAME: wallpapers/other/0032_car-inside-wheel.jpg
+[[./wallpapers/other/0032_car-inside-wheel.jpg]]
+
+**** 0033_lovely-spacecraft-planet-discovery.jpg
+#+CAPTION: 0033_lovely-spacecraft-planet-discovery.jpg
+#+NAME: wallpapers/other/0033_lovely-spacecraft-planet-discovery.jpg
+[[./wallpapers/other/0033_lovely-spacecraft-planet-discovery.jpg]]
+
+**** 0034_vibrant-outpost-waterfall-moon.png
+#+CAPTION: 0034_vibrant-outpost-waterfall-moon.png
+#+NAME: wallpapers/other/0034_vibrant-outpost-waterfall-moon.png
+[[./wallpapers/other/0034_vibrant-outpost-waterfall-moon.png]]
+
+**** 0036_nature-snow-owl-forest.png
+#+CAPTION: 0036_nature-snow-owl-forest.png
+#+NAME: wallpapers/other/0036_nature-snow-owl-forest.png
+[[./wallpapers/other/0036_nature-snow-owl-forest.png]]
+
+**** 0046_fantasy-mountain-outpost-man.png
+#+CAPTION: 0046_fantasy-mountain-outpost-man.png
+#+NAME: wallpapers/other/0046_fantasy-mountain-outpost-man.png
+[[./wallpapers/other/0046_fantasy-mountain-outpost-man.png]]
+
+**** 0068_desktop-vintage-technology-sunrays.jpg
+#+CAPTION: 0068_desktop-vintage-technology-sunrays.jpg
+#+NAME: wallpapers/other/0068_desktop-vintage-technology-sunrays.jpg
+[[./wallpapers/other/0068_desktop-vintage-technology-sunrays.jpg]]
+
+**** 0070_mountain-dusk-fire-forest.png
+#+CAPTION: 0070_mountain-dusk-fire-forest.png
+#+NAME: wallpapers/other/0070_mountain-dusk-fire-forest.png
+[[./wallpapers/other/0070_mountain-dusk-fire-forest.png]]
+
+**** 0071_vibrant-city.png
+#+CAPTION: 0071_vibrant-city.png
+#+NAME: wallpapers/other/0071_vibrant-city.png
+[[./wallpapers/other/0071_vibrant-city.png]]
+
+**** 0072_spacecraft-night-crash-firepit.jpg
+#+CAPTION: 0072_spacecraft-night-crash-firepit.jpg
+#+NAME: wallpapers/other/0072_spacecraft-night-crash-firepit.jpg
+[[./wallpapers/other/0072_spacecraft-night-crash-firepit.jpg]]
+
+**** 0073_nature-sunset-river-trees.png
+#+CAPTION: 0073_nature-sunset-river-trees.png
+#+NAME: wallpapers/other/0073_nature-sunset-river-trees.png
+[[./wallpapers/other/0073_nature-sunset-river-trees.png]]
+
+**** 0074_room-bed-chill-sunlight.png
+#+CAPTION: 0074_room-bed-chill-sunlight.png
+#+NAME: wallpapers/other/0074_room-bed-chill-sunlight.png
+[[./wallpapers/other/0074_room-bed-chill-sunlight.png]]
+
+**** 0078_audio-bunny-purple.png
+#+CAPTION: 0078_audio-bunny-purple.png
+#+NAME: wallpapers/other/0078_audio-bunny-purple.png
+[[./wallpapers/other/0078_audio-bunny-purple.png]]
+
+**** 0079_livingroom-clouds-sky.jpg
+#+CAPTION: 0079_livingroom-clouds-sky.jpg
+#+NAME: wallpapers/other/0079_livingroom-clouds-sky.jpg
+[[./wallpapers/other/0079_livingroom-clouds-sky.jpg]]
+
+**** 0081_city-blur-skyscrapper.png
+#+CAPTION: 0081_city-blur-skyscrapper.png
+#+NAME: wallpapers/other/0081_city-blur-skyscrapper.png
+[[./wallpapers/other/0081_city-blur-skyscrapper.png]]
+
+**** 0086_fantasy-tree-blossom-magic.png
+#+CAPTION: 0086_fantasy-tree-blossom-magic.png
+#+NAME: wallpapers/other/0086_fantasy-tree-blossom-magic.png
+[[./wallpapers/other/0086_fantasy-tree-blossom-magic.png]]
+
+**** 0096_sunset-vibrant-minimalist.jpg
+#+CAPTION: 0096_sunset-vibrant-minimalist.jpg
+#+NAME: wallpapers/other/0096_sunset-vibrant-minimalist.jpg
+[[./wallpapers/other/0096_sunset-vibrant-minimalist.jpg]]
+
+**** 0103_fantasy-landscape.jpg
+#+CAPTION: 0103_fantasy-landscape.jpg
+#+NAME: wallpapers/other/0103_fantasy-landscape.jpg
+[[./wallpapers/other/0103_fantasy-landscape.jpg]]
+
+**** 0105_strange-house-night-secret.jpg
+#+CAPTION: 0105_strange-house-night-secret.jpg
+#+NAME: wallpapers/other/0105_strange-house-night-secret.jpg
+[[./wallpapers/other/0105_strange-house-night-secret.jpg]]
+
+**** 0106_night-waterfall-forest-buses.jpg
+#+CAPTION: 0106_night-waterfall-forest-buses.jpg
+#+NAME: wallpapers/other/0106_night-waterfall-forest-buses.jpg
+[[./wallpapers/other/0106_night-waterfall-forest-buses.jpg]]
+
+**** 0116_hongkong-minimal-city-sunset.jpg
+#+CAPTION: 0116_hongkong-minimal-city-sunset.jpg
+#+NAME: wallpapers/other/0116_hongkong-minimal-city-sunset.jpg
+[[./wallpapers/other/0116_hongkong-minimal-city-sunset.jpg]]
+
+**** 0117_minimalist-abstract-woman-tree.png
+#+CAPTION: 0117_minimalist-abstract-woman-tree.png
+#+NAME: wallpapers/other/0117_minimalist-abstract-woman-tree.png
+[[./wallpapers/other/0117_minimalist-abstract-woman-tree.png]]
+
+**** 0118_astronaut-eye-tentacle-colors.jpeg
+#+CAPTION: 0118_astronaut-eye-tentacle-colors.jpeg
+#+NAME: wallpapers/other/0118_astronaut-eye-tentacle-colors.jpeg
+[[./wallpapers/other/0118_astronaut-eye-tentacle-colors.jpeg]]
+
+**** 0123_ismail-inceoglu-chaos-invoked.png
+#+CAPTION: 0123_ismail-inceoglu-chaos-invoked.png
+#+NAME: wallpapers/other/0123_ismail-inceoglu-chaos-invoked.png
+[[./wallpapers/other/0123_ismail-inceoglu-chaos-invoked.png]]
+
+**** 0125_minimalist-city-night-lights.png
+#+CAPTION: 0125_minimalist-city-night-lights.png
+#+NAME: wallpapers/other/0125_minimalist-city-night-lights.png
+[[./wallpapers/other/0125_minimalist-city-night-lights.png]]
+
+**** 0128_lamp-electricity-plug.jpg
+#+CAPTION: 0128_lamp-electricity-plug.jpg
+#+NAME: wallpapers/other/0128_lamp-electricity-plug.jpg
+[[./wallpapers/other/0128_lamp-electricity-plug.jpg]]
+
+**** 0129_spiderman.jpg
+#+CAPTION: 0129_spiderman.jpg
+#+NAME: wallpapers/other/0129_spiderman.jpg
+[[./wallpapers/other/0129_spiderman.jpg]]
+
+**** 0131_man-street-night-mist.jpg
+#+CAPTION: 0131_man-street-night-mist.jpg
+#+NAME: wallpapers/other/0131_man-street-night-mist.jpg
+[[./wallpapers/other/0131_man-street-night-mist.jpg]]
+
+**** 0133_minimal-mountain-sun.jpg
+#+CAPTION: 0133_minimal-mountain-sun.jpg
+#+NAME: wallpapers/other/0133_minimal-mountain-sun.jpg
+[[./wallpapers/other/0133_minimal-mountain-sun.jpg]]
+
+**** 0134_minimal-sunset.jpg
+#+CAPTION: 0134_minimal-sunset.jpg
+#+NAME: wallpapers/other/0134_minimal-sunset.jpg
+[[./wallpapers/other/0134_minimal-sunset.jpg]]
+
+**** 0137_outrun-skyscape-moon.jpg
+#+CAPTION: 0137_outrun-skyscape-moon.jpg
+#+NAME: wallpapers/other/0137_outrun-skyscape-moon.jpg
+[[./wallpapers/other/0137_outrun-skyscape-moon.jpg]]
+
+**** 0138_paint-woman-trance.png
+#+CAPTION: 0138_paint-woman-trance.png
+#+NAME: wallpapers/other/0138_paint-woman-trance.png
+[[./wallpapers/other/0138_paint-woman-trance.png]]
+
+**** 0140_photo-aloe-pot.jpeg
+#+CAPTION: 0140_photo-aloe-pot.jpeg
+#+NAME: wallpapers/other/0140_photo-aloe-pot.jpeg
+[[./wallpapers/other/0140_photo-aloe-pot.jpeg]]
+
+**** 0144_redmoon.jpg
+#+CAPTION: 0144_redmoon.jpg
+#+NAME: wallpapers/other/0144_redmoon.jpg
+[[./wallpapers/other/0144_redmoon.jpg]]
+
+**** 0146_fantasy-forest-leaves.jpeg
+#+CAPTION: 0146_fantasy-forest-leaves.jpeg
+#+NAME: wallpapers/other/0146_fantasy-forest-leaves.jpeg
+[[./wallpapers/other/0146_fantasy-forest-leaves.jpeg]]
+
+**** 0147_spacecraft-harbour-vessel.png
+#+CAPTION: 0147_spacecraft-harbour-vessel.png
+#+NAME: wallpapers/other/0147_spacecraft-harbour-vessel.png
+[[./wallpapers/other/0147_spacecraft-harbour-vessel.png]]
+
+**** 0148_simple-mountain-minimalism-black.png
+#+CAPTION: 0148_simple-mountain-minimalism-black.png
+#+NAME: wallpapers/other/0148_simple-mountain-minimalism-black.png
+[[./wallpapers/other/0148_simple-mountain-minimalism-black.png]]
+
+**** 0150_space-kurzgesagt-solar-system.png
+#+CAPTION: 0150_space-kurzgesagt-solar-system.png
+#+NAME: wallpapers/other/0150_space-kurzgesagt-solar-system.png
+[[./wallpapers/other/0150_space-kurzgesagt-solar-system.png]]
+
+**** 0153_sunset-mountain-lake.jpg
+#+CAPTION: 0153_sunset-mountain-lake.jpg
+#+NAME: wallpapers/other/0153_sunset-mountain-lake.jpg
+[[./wallpapers/other/0153_sunset-mountain-lake.jpg]]
+
+**** 0155_tools-benchmark-book.jpg
+#+CAPTION: 0155_tools-benchmark-book.jpg
+#+NAME: wallpapers/other/0155_tools-benchmark-book.jpg
+[[./wallpapers/other/0155_tools-benchmark-book.jpg]]
+
+**** 0156_car-shore-moon-night.png
+#+CAPTION: 0156_car-shore-moon-night.png
+#+NAME: wallpapers/other/0156_car-shore-moon-night.png
+[[./wallpapers/other/0156_car-shore-moon-night.png]]
+
+**** 0157_car-moon-night-mountain.png
+#+CAPTION: 0157_car-moon-night-mountain.png
+#+NAME: wallpapers/other/0157_car-moon-night-mountain.png
+[[./wallpapers/other/0157_car-moon-night-mountain.png]]
+
+**** 0158_astronaut-jelly-fish-light.jpeg
+#+CAPTION: 0158_astronaut-jelly-fish-light.jpeg
+#+NAME: wallpapers/other/0158_astronaut-jelly-fish-light.jpeg
+[[./wallpapers/other/0158_astronaut-jelly-fish-light.jpeg]]
+
+**** 0163_astronaut-rainbow-flowers.jpg
+#+CAPTION: 0163_astronaut-rainbow-flowers.jpg
+#+NAME: wallpapers/other/0163_astronaut-rainbow-flowers.jpg
+[[./wallpapers/other/0163_astronaut-rainbow-flowers.jpg]]
+
+**** 0164_minimalist-trees-birds-sunrise.jpg
+#+CAPTION: 0164_minimalist-trees-birds-sunrise.jpg
+#+NAME: wallpapers/other/0164_minimalist-trees-birds-sunrise.jpg
+[[./wallpapers/other/0164_minimalist-trees-birds-sunrise.jpg]]
+
+**** 0167_white-dragon-fantasy.jpg
+#+CAPTION: 0167_white-dragon-fantasy.jpg
+#+NAME: wallpapers/other/0167_white-dragon-fantasy.jpg
+[[./wallpapers/other/0167_white-dragon-fantasy.jpg]]
+
+**** 0169_man-blackhole-pit.jpg
+#+CAPTION: 0169_man-blackhole-pit.jpg
+#+NAME: wallpapers/other/0169_man-blackhole-pit.jpg
+[[./wallpapers/other/0169_man-blackhole-pit.jpg]]
+
+**** 0170_space-harbour-industrial.jpg
+#+CAPTION: 0170_space-harbour-industrial.jpg
+#+NAME: wallpapers/other/0170_space-harbour-industrial.jpg
+[[./wallpapers/other/0170_space-harbour-industrial.jpg]]
+
+**** 0171_photo-pilot-leaves.jpg
+#+CAPTION: 0171_photo-pilot-leaves.jpg
+#+NAME: wallpapers/other/0171_photo-pilot-leaves.jpg
+[[./wallpapers/other/0171_photo-pilot-leaves.jpg]]
+
+**** 0172_hills-couple-sunset-clouds.jpg
+#+CAPTION: 0172_hills-couple-sunset-clouds.jpg
+#+NAME: wallpapers/other/0172_hills-couple-sunset-clouds.jpg
+[[./wallpapers/other/0172_hills-couple-sunset-clouds.jpg]]
+
+**** 0174_scaphander-jelly-fish-blue.jpg
+#+CAPTION: 0174_scaphander-jelly-fish-blue.jpg
+#+NAME: wallpapers/other/0174_scaphander-jelly-fish-blue.jpg
+[[./wallpapers/other/0174_scaphander-jelly-fish-blue.jpg]]
+
+**** 0175_geometric-lion-warm-colors.png
+#+CAPTION: 0175_geometric-lion-warm-colors.png
+#+NAME: wallpapers/other/0175_geometric-lion-warm-colors.png
+[[./wallpapers/other/0175_geometric-lion-warm-colors.png]]
+
+**** 0176_wave-circle-minimalist.png
+#+CAPTION: 0176_wave-circle-minimalist.png
+#+NAME: wallpapers/other/0176_wave-circle-minimalist.png
+[[./wallpapers/other/0176_wave-circle-minimalist.png]]
+
+**** 0179_minimalist-person-city-sky.jpg
+#+CAPTION: 0179_minimalist-person-city-sky.jpg
+#+NAME: wallpapers/other/0179_minimalist-person-city-sky.jpg
+[[./wallpapers/other/0179_minimalist-person-city-sky.jpg]]
+
+**** 0180_city-japan-sushi-bridge.png
+#+CAPTION: 0180_city-japan-sushi-bridge.png
+#+NAME: wallpapers/other/0180_city-japan-sushi-bridge.png
+[[./wallpapers/other/0180_city-japan-sushi-bridge.png]]
+
+**** 0183_vibrant-neon-minimalist-owl.jpg
+#+CAPTION: 0183_vibrant-neon-minimalist-owl.jpg
+#+NAME: wallpapers/other/0183_vibrant-neon-minimalist-owl.jpg
+[[./wallpapers/other/0183_vibrant-neon-minimalist-owl.jpg]]
+
+**** 0184_pixel-traditional-building-hill.png
+#+CAPTION: 0184_pixel-traditional-building-hill.png
+#+NAME: wallpapers/other/0184_pixel-traditional-building-hill.png
+[[./wallpapers/other/0184_pixel-traditional-building-hill.png]]
+
+**** 0185_moon-sea-iceberg-minimalist.jpg
+#+CAPTION: 0185_moon-sea-iceberg-minimalist.jpg
+#+NAME: wallpapers/other/0185_moon-sea-iceberg-minimalist.jpg
+[[./wallpapers/other/0185_moon-sea-iceberg-minimalist.jpg]]
+
+**** 0188_outpost-forest-sunrise-bluesky.jpg
+#+CAPTION: 0188_outpost-forest-sunrise-bluesky.jpg
+#+NAME: wallpapers/other/0188_outpost-forest-sunrise-bluesky.jpg
+[[./wallpapers/other/0188_outpost-forest-sunrise-bluesky.jpg]]
+
+**** 0194_car-neon-tape-sunset.jpg
+#+CAPTION: 0194_car-neon-tape-sunset.jpg
+#+NAME: wallpapers/other/0194_car-neon-tape-sunset.jpg
+[[./wallpapers/other/0194_car-neon-tape-sunset.jpg]]
+
+**** 0196_fish-red-jar-sea.jpg
+#+CAPTION: 0196_fish-red-jar-sea.jpg
+#+NAME: wallpapers/other/0196_fish-red-jar-sea.jpg
+[[./wallpapers/other/0196_fish-red-jar-sea.jpg]]
+
+**** 0200_minimal-trees-sun-boy.png
+#+CAPTION: 0200_minimal-trees-sun-boy.png
+#+NAME: wallpapers/other/0200_minimal-trees-sun-boy.png
+[[./wallpapers/other/0200_minimal-trees-sun-boy.png]]
+
+**** 0216_bear-moon-minimalist-campfire.jpeg
+#+CAPTION: 0216_bear-moon-minimalist-campfire.jpeg
+#+NAME: wallpapers/other/0216_bear-moon-minimalist-campfire.jpeg
+[[./wallpapers/other/0216_bear-moon-minimalist-campfire.jpeg]]
+
+**** 0217_coffee-cat.png
+#+CAPTION: 0217_coffee-cat.png
+#+NAME: wallpapers/other/0217_coffee-cat.png
+[[./wallpapers/other/0217_coffee-cat.png]]
+
+**** 0219_lake-fisherman-mist-house.jpg
+#+CAPTION: 0219_lake-fisherman-mist-house.jpg
+#+NAME: wallpapers/other/0219_lake-fisherman-mist-house.jpg
+[[./wallpapers/other/0219_lake-fisherman-mist-house.jpg]]
+
+**** 0234_nord-minimalist-snow-mountain.png
+#+CAPTION: 0234_nord-minimalist-snow-mountain.png
+#+NAME: wallpapers/other/0234_nord-minimalist-snow-mountain.png
+[[./wallpapers/other/0234_nord-minimalist-snow-mountain.png]]
+
+**** 0238_clouds-mountain-hotairballoon-cartoon-moon.png
+#+CAPTION: 0238_clouds-mountain-hotairballoon-cartoon-moon.png
+#+NAME: wallpapers/other/0238_clouds-mountain-hotairballoon-cartoon-moon.png
+[[./wallpapers/other/0238_clouds-mountain-hotairballoon-cartoon-moon.png]]
+
+**** 0239_astronaut-planet-station-stars.jpg
+#+CAPTION: 0239_astronaut-planet-station-stars.jpg
+#+NAME: wallpapers/other/0239_astronaut-planet-station-stars.jpg
+[[./wallpapers/other/0239_astronaut-planet-station-stars.jpg]]
+
+**** 0240_hand-robot-sphere-reflexion.jpg
+#+CAPTION: 0240_hand-robot-sphere-reflexion.jpg
+#+NAME: wallpapers/other/0240_hand-robot-sphere-reflexion.jpg
+[[./wallpapers/other/0240_hand-robot-sphere-reflexion.jpg]]
+
+**** 0244_sunset-boat-minimalist-vibrant.png
+#+CAPTION: 0244_sunset-boat-minimalist-vibrant.png
+#+NAME: wallpapers/other/0244_sunset-boat-minimalist-vibrant.png
+[[./wallpapers/other/0244_sunset-boat-minimalist-vibrant.png]]
+
+**** 0245_forest-campsite-forest-sunrise.jpg
+#+CAPTION: 0245_forest-campsite-forest-sunrise.jpg
+#+NAME: wallpapers/other/0245_forest-campsite-forest-sunrise.jpg
+[[./wallpapers/other/0245_forest-campsite-forest-sunrise.jpg]]
+
+**** 0247_space-spoutnik-minimalist-spheres.png
+#+CAPTION: 0247_space-spoutnik-minimalist-spheres.png
+#+NAME: wallpapers/other/0247_space-spoutnik-minimalist-spheres.png
+[[./wallpapers/other/0247_space-spoutnik-minimalist-spheres.png]]
+
+**** 0248_dune-minimalist-worm-desert.jpg
+#+CAPTION: 0248_dune-minimalist-worm-desert.jpg
+#+NAME: wallpapers/other/0248_dune-minimalist-worm-desert.jpg
+[[./wallpapers/other/0248_dune-minimalist-worm-desert.jpg]]
+
+**** 0250_8-bit-day-minimalist.jpg
+#+CAPTION: 0250_8-bit-day-minimalist.jpg
+#+NAME: wallpapers/other/0250_8-bit-day-minimalist.jpg
+[[./wallpapers/other/0250_8-bit-day-minimalist.jpg]]
+
+**** 0252_abandonned-sign-purple-sky.png
+#+CAPTION: 0252_abandonned-sign-purple-sky.png
+#+NAME: wallpapers/other/0252_abandonned-sign-purple-sky.png
+[[./wallpapers/other/0252_abandonned-sign-purple-sky.png]]
+
+**** 0254_blur-city-night-crowd.png
+#+CAPTION: 0254_blur-city-night-crowd.png
+#+NAME: wallpapers/other/0254_blur-city-night-crowd.png
+[[./wallpapers/other/0254_blur-city-night-crowd.png]]
+
+**** 0259_minimal-planets-stars-space.png
+#+CAPTION: 0259_minimal-planets-stars-space.png
+#+NAME: wallpapers/other/0259_minimal-planets-stars-space.png
+[[./wallpapers/other/0259_minimal-planets-stars-space.png]]
+
+**** 0260_minimalist-pixelart-city-night.png
+#+CAPTION: 0260_minimalist-pixelart-city-night.png
+#+NAME: wallpapers/other/0260_minimalist-pixelart-city-night.png
+[[./wallpapers/other/0260_minimalist-pixelart-city-night.png]]
+
+**** 0261_pastel-painting-couple-landscape.png
+#+CAPTION: 0261_pastel-painting-couple-landscape.png
+#+NAME: wallpapers/other/0261_pastel-painting-couple-landscape.png
+[[./wallpapers/other/0261_pastel-painting-couple-landscape.png]]
+
+**** 0262_sunset-sky-pink-trees.png
+#+CAPTION: 0262_sunset-sky-pink-trees.png
+#+NAME: wallpapers/other/0262_sunset-sky-pink-trees.png
+[[./wallpapers/other/0262_sunset-sky-pink-trees.png]]
+
+**** 0263_anime-street-cat-night.png
+#+CAPTION: 0263_anime-street-cat-night.png
+#+NAME: wallpapers/other/0263_anime-street-cat-night.png
+[[./wallpapers/other/0263_anime-street-cat-night.png]]
+
+**** 0270_sky-grey-desert-men.png
+#+CAPTION: 0270_sky-grey-desert-men.png
+#+NAME: wallpapers/other/0270_sky-grey-desert-men.png
+[[./wallpapers/other/0270_sky-grey-desert-men.png]]
+
+**** 0278_street-anime-rain-dawn.png
+#+CAPTION: 0278_street-anime-rain-dawn.png
+#+NAME: wallpapers/other/0278_street-anime-rain-dawn.png
+[[./wallpapers/other/0278_street-anime-rain-dawn.png]]
+
+**** 0279_plane-vibrant-sunset-pink.jpg
+#+CAPTION: 0279_plane-vibrant-sunset-pink.jpg
+#+NAME: wallpapers/other/0279_plane-vibrant-sunset-pink.jpg
+[[./wallpapers/other/0279_plane-vibrant-sunset-pink.jpg]]
+
+**** 0280_minimal-solarized-evil-clock.png
+#+CAPTION: 0280_minimal-solarized-evil-clock.png
+#+NAME: wallpapers/other/0280_minimal-solarized-evil-clock.png
+[[./wallpapers/other/0280_minimal-solarized-evil-clock.png]]
+
+**** 0281_minimal-moon-plane-shadow.jpg
+#+CAPTION: 0281_minimal-moon-plane-shadow.jpg
+#+NAME: wallpapers/other/0281_minimal-moon-plane-shadow.jpg
+[[./wallpapers/other/0281_minimal-moon-plane-shadow.jpg]]
+
+**** 0282_paint-dark-flame-red.png
+#+CAPTION: 0282_paint-dark-flame-red.png
+#+NAME: wallpapers/other/0282_paint-dark-flame-red.png
+[[./wallpapers/other/0282_paint-dark-flame-red.png]]
+
+**** 0287_alena_aenami-bluehour-electric-tower.jpeg
+#+CAPTION: 0287_alena_aenami-bluehour-electric-tower.jpeg
+#+NAME: wallpapers/other/0287_alena_aenami-bluehour-electric-tower.jpeg
+[[./wallpapers/other/0287_alena_aenami-bluehour-electric-tower.jpeg]]
+
+**** 0288_alena_aenami-budapest-bridge-river.jpeg
+#+CAPTION: 0288_alena_aenami-budapest-bridge-river.jpeg
+#+NAME: wallpapers/other/0288_alena_aenami-budapest-bridge-river.jpeg
+[[./wallpapers/other/0288_alena_aenami-budapest-bridge-river.jpeg]]
+
+**** 0289_alena_aenami-cloud-shapes-house.jpeg
+#+CAPTION: 0289_alena_aenami-cloud-shapes-house.jpeg
+#+NAME: wallpapers/other/0289_alena_aenami-cloud-shapes-house.jpeg
+[[./wallpapers/other/0289_alena_aenami-cloud-shapes-house.jpeg]]
+
+**** 0290_alena_aenami-cold-city-cables.jpeg
+#+CAPTION: 0290_alena_aenami-cold-city-cables.jpeg
+#+NAME: wallpapers/other/0290_alena_aenami-cold-city-cables.jpeg
+[[./wallpapers/other/0290_alena_aenami-cold-city-cables.jpeg]]
+
+**** 0291_alena_aenami-crater-lake-birds.jpeg
+#+CAPTION: 0291_alena_aenami-crater-lake-birds.jpeg
+#+NAME: wallpapers/other/0291_alena_aenami-crater-lake-birds.jpeg
+[[./wallpapers/other/0291_alena_aenami-crater-lake-birds.jpeg]]
+
+**** 0296_girl-pool-plane-towel.jpg
+#+CAPTION: 0296_girl-pool-plane-towel.jpg
+#+NAME: wallpapers/other/0296_girl-pool-plane-towel.jpg
+[[./wallpapers/other/0296_girl-pool-plane-towel.jpg]]
+
+**** 0297_pastel-paint-cloud-girl.png
+#+CAPTION: 0297_pastel-paint-cloud-girl.png
+#+NAME: wallpapers/other/0297_pastel-paint-cloud-girl.png
+[[./wallpapers/other/0297_pastel-paint-cloud-girl.png]]
+
+**** 0298_sunset-minimalist-lake-trees.png
+#+CAPTION: 0298_sunset-minimalist-lake-trees.png
+#+NAME: wallpapers/other/0298_sunset-minimalist-lake-trees.png
+[[./wallpapers/other/0298_sunset-minimalist-lake-trees.png]]
+
+**** 0300_anime-girl-artistic-sunset.jpg
+#+CAPTION: 0300_anime-girl-artistic-sunset.jpg
+#+NAME: wallpapers/other/0300_anime-girl-artistic-sunset.jpg
+[[./wallpapers/other/0300_anime-girl-artistic-sunset.jpg]]
+
+**** 0303_night-stars-comet-minimalist.jpg
+#+CAPTION: 0303_night-stars-comet-minimalist.jpg
+#+NAME: wallpapers/other/0303_night-stars-comet-minimalist.jpg
+[[./wallpapers/other/0303_night-stars-comet-minimalist.jpg]]
+
+**** 0304_pink-minimalist-hot-air-balloon-forest.png
+#+CAPTION: 0304_pink-minimalist-hot-air-balloon-forest.png
+#+NAME: wallpapers/other/0304_pink-minimalist-hot-air-balloon-forest.png
+[[./wallpapers/other/0304_pink-minimalist-hot-air-balloon-forest.png]]
+
+**** 0305_truck-man-lake-minimalist.jpg
+#+CAPTION: 0305_truck-man-lake-minimalist.jpg
+#+NAME: wallpapers/other/0305_truck-man-lake-minimalist.jpg
+[[./wallpapers/other/0305_truck-man-lake-minimalist.jpg]]
+
+**** 0307_anime-beach-night-sea.jpg
+#+CAPTION: 0307_anime-beach-night-sea.jpg
+#+NAME: wallpapers/other/0307_anime-beach-night-sea.jpg
+[[./wallpapers/other/0307_anime-beach-night-sea.jpg]]
+
+**** 0350_desert-night-neon-ruins.jpg
+#+CAPTION: 0350_desert-night-neon-ruins.jpg
+#+NAME: wallpapers/other/0350_desert-night-neon-ruins.jpg
+[[./wallpapers/other/0350_desert-night-neon-ruins.jpg]]
+
+**** 0352_drawing-strawhat-dog-mountains.jpg
+#+CAPTION: 0352_drawing-strawhat-dog-mountains.jpg
+#+NAME: wallpapers/other/0352_drawing-strawhat-dog-mountains.jpg
+[[./wallpapers/other/0352_drawing-strawhat-dog-mountains.jpg]]
+
+**** 0353_forest-boat-mist-sunlight.jpg
+#+CAPTION: 0353_forest-boat-mist-sunlight.jpg
+#+NAME: wallpapers/other/0353_forest-boat-mist-sunlight.jpg
+[[./wallpapers/other/0353_forest-boat-mist-sunlight.jpg]]
+
+**** 0354_forest-mist-samurai-birds.jpg
+#+CAPTION: 0354_forest-mist-samurai-birds.jpg
+#+NAME: wallpapers/other/0354_forest-mist-samurai-birds.jpg
+[[./wallpapers/other/0354_forest-mist-samurai-birds.jpg]]
+
+**** 0360_gruvbox-japanese-bento-sushi.png
+#+CAPTION: 0360_gruvbox-japanese-bento-sushi.png
+#+NAME: wallpapers/other/0360_gruvbox-japanese-bento-sushi.png
+[[./wallpapers/other/0360_gruvbox-japanese-bento-sushi.png]]
+
+**** 0361_moon-samurai-mystical-ancient.png
+#+CAPTION: 0361_moon-samurai-mystical-ancient.png
+#+NAME: wallpapers/other/0361_moon-samurai-mystical-ancient.png
+[[./wallpapers/other/0361_moon-samurai-mystical-ancient.png]]
+
+**** 0365_paint-beach-sun-clouds.png
+#+CAPTION: 0365_paint-beach-sun-clouds.png
+#+NAME: wallpapers/other/0365_paint-beach-sun-clouds.png
+[[./wallpapers/other/0365_paint-beach-sun-clouds.png]]
+
+**** 0369_pixelart-knight-sword-flame.png
+#+CAPTION: 0369_pixelart-knight-sword-flame.png
+#+NAME: wallpapers/other/0369_pixelart-knight-sword-flame.png
+[[./wallpapers/other/0369_pixelart-knight-sword-flame.png]]
+
+**** 0370_pokemon-center-8bit-retro.png
+#+CAPTION: 0370_pokemon-center-8bit-retro.png
+#+NAME: wallpapers/other/0370_pokemon-center-8bit-retro.png
+[[./wallpapers/other/0370_pokemon-center-8bit-retro.png]]
+
+**** 0374_strips-blackwhite-body-legs.png
+#+CAPTION: 0374_strips-blackwhite-body-legs.png
+#+NAME: wallpapers/other/0374_strips-blackwhite-body-legs.png
+[[./wallpapers/other/0374_strips-blackwhite-body-legs.png]]
+
+**** 0376_sunrise-van-road-clouds.png
+#+CAPTION: 0376_sunrise-van-road-clouds.png
+#+NAME: wallpapers/other/0376_sunrise-van-road-clouds.png
+[[./wallpapers/other/0376_sunrise-van-road-clouds.png]]
+
+**** 0016_monster-anime-car.jpg
+#+CAPTION: 0016_monster-anime-car.jpg
+#+NAME: wallpapers/pop/0016_monster-anime-car.jpg
+[[./wallpapers/pop/0016_monster-anime-car.jpg]]
+
+**** 0022_god-symbol-abstract.png
+#+CAPTION: 0022_god-symbol-abstract.png
+#+NAME: wallpapers/pop/0022_god-symbol-abstract.png
+[[./wallpapers/pop/0022_god-symbol-abstract.png]]
+
+**** 0026_minimalist-red-pistolero-hood.png
+#+CAPTION: 0026_minimalist-red-pistolero-hood.png
+#+NAME: wallpapers/pop/0026_minimalist-red-pistolero-hood.png
+[[./wallpapers/pop/0026_minimalist-red-pistolero-hood.png]]
+
+**** 0030_minimalist-man-cherry-blossom.png
+#+CAPTION: 0030_minimalist-man-cherry-blossom.png
+#+NAME: wallpapers/pop/0030_minimalist-man-cherry-blossom.png
+[[./wallpapers/pop/0030_minimalist-man-cherry-blossom.png]]
+
+**** 0039_light-samurai-blackhair-sight.jpg
+#+CAPTION: 0039_light-samurai-blackhair-sight.jpg
+#+NAME: wallpapers/pop/0039_light-samurai-blackhair-sight.jpg
+[[./wallpapers/pop/0039_light-samurai-blackhair-sight.jpg]]
+
+**** 0041_luffy-one-piece-boundman.png
+#+CAPTION: 0041_luffy-one-piece-boundman.png
+#+NAME: wallpapers/pop/0041_luffy-one-piece-boundman.png
+[[./wallpapers/pop/0041_luffy-one-piece-boundman.png]]
+
+**** 0042_fantasy-mountain-night-city.png
+#+CAPTION: 0042_fantasy-mountain-night-city.png
+#+NAME: wallpapers/pop/0042_fantasy-mountain-night-city.png
+[[./wallpapers/pop/0042_fantasy-mountain-night-city.png]]
+
+**** 0043_tlof-elie-guitar-forest.jpg
+#+CAPTION: 0043_tlof-elie-guitar-forest.jpg
+#+NAME: wallpapers/pop/0043_tlof-elie-guitar-forest.jpg
+[[./wallpapers/pop/0043_tlof-elie-guitar-forest.jpg]]
+
+**** 0054_great-wave-80s.png
+#+CAPTION: 0054_great-wave-80s.png
+#+NAME: wallpapers/pop/0054_great-wave-80s.png
+[[./wallpapers/pop/0054_great-wave-80s.png]]
+
+**** 0056_night-city-rain-street.jpg
+#+CAPTION: 0056_night-city-rain-street.jpg
+#+NAME: wallpapers/pop/0056_night-city-rain-street.jpg
+[[./wallpapers/pop/0056_night-city-rain-street.jpg]]
+
+**** 0058_your-name-night-meteor.png
+#+CAPTION: 0058_your-name-night-meteor.png
+#+NAME: wallpapers/pop/0058_your-name-night-meteor.png
+[[./wallpapers/pop/0058_your-name-night-meteor.png]]
+
+**** 0069_abstract-joker-pop.jpg
+#+CAPTION: 0069_abstract-joker-pop.jpg
+#+NAME: wallpapers/pop/0069_abstract-joker-pop.jpg
+[[./wallpapers/pop/0069_abstract-joker-pop.jpg]]
+
+**** 0080_berserk-epic-fight-planet.jpg
+#+CAPTION: 0080_berserk-epic-fight-planet.jpg
+#+NAME: wallpapers/pop/0080_berserk-epic-fight-planet.jpg
+[[./wallpapers/pop/0080_berserk-epic-fight-planet.jpg]]
+
+**** 0097_man-street-game.jpg
+#+CAPTION: 0097_man-street-game.jpg
+#+NAME: wallpapers/pop/0097_man-street-game.jpg
+[[./wallpapers/pop/0097_man-street-game.jpg]]
+
+**** 0100_electric-pokemon-minimalist.png
+#+CAPTION: 0100_electric-pokemon-minimalist.png
+#+NAME: wallpapers/pop/0100_electric-pokemon-minimalist.png
+[[./wallpapers/pop/0100_electric-pokemon-minimalist.png]]
+
+**** 0110_future-game-nomansky.png
+#+CAPTION: 0110_future-game-nomansky.png
+#+NAME: wallpapers/pop/0110_future-game-nomansky.png
+[[./wallpapers/pop/0110_future-game-nomansky.png]]
+
+**** 0111_godzilla-kong-ricebowl.png
+#+CAPTION: 0111_godzilla-kong-ricebowl.png
+#+NAME: wallpapers/pop/0111_godzilla-kong-ricebowl.png
+[[./wallpapers/pop/0111_godzilla-kong-ricebowl.png]]
+
+**** 0114_sepia-street.png
+#+CAPTION: 0114_sepia-street.png
+#+NAME: wallpapers/pop/0114_sepia-street.png
+[[./wallpapers/pop/0114_sepia-street.png]]
+
+**** 0130_luffy-boundman-one-piece.jpeg
+#+CAPTION: 0130_luffy-boundman-one-piece.jpeg
+#+NAME: wallpapers/pop/0130_luffy-boundman-one-piece.jpeg
+[[./wallpapers/pop/0130_luffy-boundman-one-piece.jpeg]]
+
+**** 0165_groot-side-minimalist-light.png
+#+CAPTION: 0165_groot-side-minimalist-light.png
+#+NAME: wallpapers/pop/0165_groot-side-minimalist-light.png
+[[./wallpapers/pop/0165_groot-side-minimalist-light.png]]
+
+**** 0166_cyberpunk-panam-sunset-novacancy.png
+#+CAPTION: 0166_cyberpunk-panam-sunset-novacancy.png
+#+NAME: wallpapers/pop/0166_cyberpunk-panam-sunset-novacancy.png
+[[./wallpapers/pop/0166_cyberpunk-panam-sunset-novacancy.png]]
+
+**** 0182_neon-vibrant-darth-vader.jpg
+#+CAPTION: 0182_neon-vibrant-darth-vader.jpg
+#+NAME: wallpapers/pop/0182_neon-vibrant-darth-vader.jpg
+[[./wallpapers/pop/0182_neon-vibrant-darth-vader.jpg]]
+
+**** 0191_one-piece-sunny-light.jpg
+#+CAPTION: 0191_one-piece-sunny-light.jpg
+#+NAME: wallpapers/pop/0191_one-piece-sunny-light.jpg
+[[./wallpapers/pop/0191_one-piece-sunny-light.jpg]]
+
+**** 0192_moon-samurai-mountains.jpg
+#+CAPTION: 0192_moon-samurai-mountains.jpg
+#+NAME: wallpapers/pop/0192_moon-samurai-mountains.jpg
+[[./wallpapers/pop/0192_moon-samurai-mountains.jpg]]
+
+**** 0211_izuku-forest-mha.jpg
+#+CAPTION: 0211_izuku-forest-mha.jpg
+#+NAME: wallpapers/pop/0211_izuku-forest-mha.jpg
+[[./wallpapers/pop/0211_izuku-forest-mha.jpg]]
+
+**** 0212_luffy-young-alabasta.jpg
+#+CAPTION: 0212_luffy-young-alabasta.jpg
+#+NAME: wallpapers/pop/0212_luffy-young-alabasta.jpg
+[[./wallpapers/pop/0212_luffy-young-alabasta.jpg]]
+
+**** 0213_cloudy-evening-girl-rooftop.png
+#+CAPTION: 0213_cloudy-evening-girl-rooftop.png
+#+NAME: wallpapers/pop/0213_cloudy-evening-girl-rooftop.png
+[[./wallpapers/pop/0213_cloudy-evening-girl-rooftop.png]]
+
+**** 0218_trees-prince-sunset-breeze.png
+#+CAPTION: 0218_trees-prince-sunset-breeze.png
+#+NAME: wallpapers/pop/0218_trees-prince-sunset-breeze.png
+[[./wallpapers/pop/0218_trees-prince-sunset-breeze.png]]
+
+**** 0255_fisheye-anime-bull-room.png
+#+CAPTION: 0255_fisheye-anime-bull-room.png
+#+NAME: wallpapers/pop/0255_fisheye-anime-bull-room.png
+[[./wallpapers/pop/0255_fisheye-anime-bull-room.png]]
+
+**** 0264_minimal-link-green-waker.png
+#+CAPTION: 0264_minimal-link-green-waker.png
+#+NAME: wallpapers/pop/0264_minimal-link-green-waker.png
+[[./wallpapers/pop/0264_minimal-link-green-waker.png]]
+
+**** 0292_anime-cloud-sky-room.png
+#+CAPTION: 0292_anime-cloud-sky-room.png
+#+NAME: wallpapers/pop/0292_anime-cloud-sky-room.png
+[[./wallpapers/pop/0292_anime-cloud-sky-room.png]]
+
+**** 0311_anime-desk-radio-plants.jpg
+#+CAPTION: 0311_anime-desk-radio-plants.jpg
+#+NAME: wallpapers/pop/0311_anime-desk-radio-plants.jpg
+[[./wallpapers/pop/0311_anime-desk-radio-plants.jpg]]
+
+**** 0334_anime-girl-robot-light.jpg
+#+CAPTION: 0334_anime-girl-robot-light.jpg
+#+NAME: wallpapers/pop/0334_anime-girl-robot-light.jpg
+[[./wallpapers/pop/0334_anime-girl-robot-light.jpg]]
+
+**** 0335_anime-girl-snow-abandonned.jpg
+#+CAPTION: 0335_anime-girl-snow-abandonned.jpg
+#+NAME: wallpapers/pop/0335_anime-girl-snow-abandonned.jpg
+[[./wallpapers/pop/0335_anime-girl-snow-abandonned.jpg]]
+
+**** 0339_anime-girl-train-night.jpg
+#+CAPTION: 0339_anime-girl-train-night.jpg
+#+NAME: wallpapers/pop/0339_anime-girl-train-night.jpg
+[[./wallpapers/pop/0339_anime-girl-train-night.jpg]]
+
+**** 0346_anime-river-leaf-man.jpg
+#+CAPTION: 0346_anime-river-leaf-man.jpg
+#+NAME: wallpapers/pop/0346_anime-river-leaf-man.jpg
+[[./wallpapers/pop/0346_anime-river-leaf-man.jpg]]
+
+**** 0349_couple-bridge-river-sunrise.jpg
+#+CAPTION: 0349_couple-bridge-river-sunrise.jpg
+#+NAME: wallpapers/pop/0349_couple-bridge-river-sunrise.jpg
+[[./wallpapers/pop/0349_couple-bridge-river-sunrise.jpg]]
+
+**** 0351_drawing-firepit-shelter-smoke.jpg
+#+CAPTION: 0351_drawing-firepit-shelter-smoke.jpg
+#+NAME: wallpapers/pop/0351_drawing-firepit-shelter-smoke.jpg
+[[./wallpapers/pop/0351_drawing-firepit-shelter-smoke.jpg]]
+
+**** 0357_girl-shadow-sunrise-crane.jpg
+#+CAPTION: 0357_girl-shadow-sunrise-crane.jpg
+#+NAME: wallpapers/pop/0357_girl-shadow-sunrise-crane.jpg
+[[./wallpapers/pop/0357_girl-shadow-sunrise-crane.jpg]]
+
+**** 0367_panda-light-tree-blossom.jpg
+#+CAPTION: 0367_panda-light-tree-blossom.jpg
+#+NAME: wallpapers/pop/0367_panda-light-tree-blossom.jpg
+[[./wallpapers/pop/0367_panda-light-tree-blossom.jpg]]
+
+**** 0368_panda-samurai-blossom-temple.png
+#+CAPTION: 0368_panda-samurai-blossom-temple.png
+#+NAME: wallpapers/pop/0368_panda-samurai-blossom-temple.png
+[[./wallpapers/pop/0368_panda-samurai-blossom-temple.png]]
+
+**** 0371_pokemon-evolution-ghosts-purple.png
+#+CAPTION: 0371_pokemon-evolution-ghosts-purple.png
+#+NAME: wallpapers/pop/0371_pokemon-evolution-ghosts-purple.png
+[[./wallpapers/pop/0371_pokemon-evolution-ghosts-purple.png]]
+
+**** 0372_samurai-moon-night-mountains.png
+#+CAPTION: 0372_samurai-moon-night-mountains.png
+#+NAME: wallpapers/pop/0372_samurai-moon-night-mountains.png
+[[./wallpapers/pop/0372_samurai-moon-night-mountains.png]]
+
+**** 0003_grass-leaves-closeup-blur-nature.jpg
+#+CAPTION: 0003_grass-leaves-closeup-blur-nature.jpg
+#+NAME: wallpapers/real/0003_grass-leaves-closeup-blur-nature.jpg
+[[./wallpapers/real/0003_grass-leaves-closeup-blur-nature.jpg]]
+
+**** 0005_mountain-sunset-pink.jpg
+#+CAPTION: 0005_mountain-sunset-pink.jpg
+#+NAME: wallpapers/real/0005_mountain-sunset-pink.jpg
+[[./wallpapers/real/0005_mountain-sunset-pink.jpg]]
+
+**** 0006_nature-forest-fir-rain.jpg
+#+CAPTION: 0006_nature-forest-fir-rain.jpg
+#+NAME: wallpapers/real/0006_nature-forest-fir-rain.jpg
+[[./wallpapers/real/0006_nature-forest-fir-rain.jpg]]
+
+**** 0007_nature-forest-fir-sun.jpg
+#+CAPTION: 0007_nature-forest-fir-sun.jpg
+#+NAME: wallpapers/real/0007_nature-forest-fir-sun.jpg
+[[./wallpapers/real/0007_nature-forest-fir-sun.jpg]]
+
+**** 0009_night-sky-stars-aurora.jpg
+#+CAPTION: 0009_night-sky-stars-aurora.jpg
+#+NAME: wallpapers/real/0009_night-sky-stars-aurora.jpg
+[[./wallpapers/real/0009_night-sky-stars-aurora.jpg]]
+
+**** 0015_mountain-landscape-mist.jpg
+#+CAPTION: 0015_mountain-landscape-mist.jpg
+#+NAME: wallpapers/real/0015_mountain-landscape-mist.jpg
+[[./wallpapers/real/0015_mountain-landscape-mist.jpg]]
+
+**** 0021_night-city-lights.jpg
+#+CAPTION: 0021_night-city-lights.jpg
+#+NAME: wallpapers/real/0021_night-city-lights.jpg
+[[./wallpapers/real/0021_night-city-lights.jpg]]
+
+**** 0028_mountain-sun-nature-mist.jpg
+#+CAPTION: 0028_mountain-sun-nature-mist.jpg
+#+NAME: wallpapers/real/0028_mountain-sun-nature-mist.jpg
+[[./wallpapers/real/0028_mountain-sun-nature-mist.jpg]]
+
+**** 0050_nature-landscape-snow-mountain.jpg
+#+CAPTION: 0050_nature-landscape-snow-mountain.jpg
+#+NAME: wallpapers/real/0050_nature-landscape-snow-mountain.jpg
+[[./wallpapers/real/0050_nature-landscape-snow-mountain.jpg]]
+
+**** 0059_photo-bikes.jpg
+#+CAPTION: 0059_photo-bikes.jpg
+#+NAME: wallpapers/real/0059_photo-bikes.jpg
+[[./wallpapers/real/0059_photo-bikes.jpg]]
+
+**** 0082_lego-starwars-bike-chase.jpg
+#+CAPTION: 0082_lego-starwars-bike-chase.jpg
+#+NAME: wallpapers/real/0082_lego-starwars-bike-chase.jpg
+[[./wallpapers/real/0082_lego-starwars-bike-chase.jpg]]
+
+**** 0083_black-snow-winter-night.png
+#+CAPTION: 0083_black-snow-winter-night.png
+#+NAME: wallpapers/real/0083_black-snow-winter-night.png
+[[./wallpapers/real/0083_black-snow-winter-night.png]]
+
+**** 0089_tree-leaves-nature.jpg
+#+CAPTION: 0089_tree-leaves-nature.jpg
+#+NAME: wallpapers/real/0089_tree-leaves-nature.jpg
+[[./wallpapers/real/0089_tree-leaves-nature.jpg]]
+
+**** 0092_nature-landscape-mountain.jpg
+#+CAPTION: 0092_nature-landscape-mountain.jpg
+#+NAME: wallpapers/real/0092_nature-landscape-mountain.jpg
+[[./wallpapers/real/0092_nature-landscape-mountain.jpg]]
+
+**** 0101_dusk-night-mountain-dark.jpg
+#+CAPTION: 0101_dusk-night-mountain-dark.jpg
+#+NAME: wallpapers/real/0101_dusk-night-mountain-dark.jpg
+[[./wallpapers/real/0101_dusk-night-mountain-dark.jpg]]
+
+**** 0107_photo-flower-nature.jpg
+#+CAPTION: 0107_photo-flower-nature.jpg
+#+NAME: wallpapers/real/0107_photo-flower-nature.jpg
+[[./wallpapers/real/0107_photo-flower-nature.jpg]]
+
+**** 0112_green-aesthetic-leaves-nature.png
+#+CAPTION: 0112_green-aesthetic-leaves-nature.png
+#+NAME: wallpapers/real/0112_green-aesthetic-leaves-nature.png
+[[./wallpapers/real/0112_green-aesthetic-leaves-nature.png]]
+
+**** 0121_photo-nature-flower.png
+#+CAPTION: 0121_photo-nature-flower.png
+#+NAME: wallpapers/real/0121_photo-nature-flower.png
+[[./wallpapers/real/0121_photo-nature-flower.png]]
+
+**** 0122_photo-cameras-canon.jpg
+#+CAPTION: 0122_photo-cameras-canon.jpg
+#+NAME: wallpapers/real/0122_photo-cameras-canon.jpg
+[[./wallpapers/real/0122_photo-cameras-canon.jpg]]
+
+**** 0132_metin-celep-photo-mountain.jpg
+#+CAPTION: 0132_metin-celep-photo-mountain.jpg
+#+NAME: wallpapers/real/0132_metin-celep-photo-mountain.jpg
+[[./wallpapers/real/0132_metin-celep-photo-mountain.jpg]]
+
+**** 0135_nature-plants-bamboo-photo.jpg
+#+CAPTION: 0135_nature-plants-bamboo-photo.jpg
+#+NAME: wallpapers/real/0135_nature-plants-bamboo-photo.jpg
+[[./wallpapers/real/0135_nature-plants-bamboo-photo.jpg]]
+
+**** 0151_spring-waterfall-stone-fog.jpg
+#+CAPTION: 0151_spring-waterfall-stone-fog.jpg
+#+NAME: wallpapers/real/0151_spring-waterfall-stone-fog.jpg
+[[./wallpapers/real/0151_spring-waterfall-stone-fog.jpg]]
+
+**** 0152_city-landscape-traditional-building.jpg
+#+CAPTION: 0152_city-landscape-traditional-building.jpg
+#+NAME: wallpapers/real/0152_city-landscape-traditional-building.jpg
+[[./wallpapers/real/0152_city-landscape-traditional-building.jpg]]
+
+**** 0161_rail-sticks-train.jpg
+#+CAPTION: 0161_rail-sticks-train.jpg
+#+NAME: wallpapers/real/0161_rail-sticks-train.jpg
+[[./wallpapers/real/0161_rail-sticks-train.jpg]]
+
+**** 0173_photo-mountain-clouds-sunrise.jpg
+#+CAPTION: 0173_photo-mountain-clouds-sunrise.jpg
+#+NAME: wallpapers/real/0173_photo-mountain-clouds-sunrise.jpg
+[[./wallpapers/real/0173_photo-mountain-clouds-sunrise.jpg]]
+
+**** 0178_photo-mountain-lake-stars.jpg
+#+CAPTION: 0178_photo-mountain-lake-stars.jpg
+#+NAME: wallpapers/real/0178_photo-mountain-lake-stars.jpg
+[[./wallpapers/real/0178_photo-mountain-lake-stars.jpg]]
+
+**** 0181_photo-mountain-snow-forest.jpg
+#+CAPTION: 0181_photo-mountain-snow-forest.jpg
+#+NAME: wallpapers/real/0181_photo-mountain-snow-forest.jpg
+[[./wallpapers/real/0181_photo-mountain-snow-forest.jpg]]
+
+**** 0186_waterfall-forest-photo.jpg
+#+CAPTION: 0186_waterfall-forest-photo.jpg
+#+NAME: wallpapers/real/0186_waterfall-forest-photo.jpg
+[[./wallpapers/real/0186_waterfall-forest-photo.jpg]]
+
+**** 0189_photo-mountain-black.png
+#+CAPTION: 0189_photo-mountain-black.png
+#+NAME: wallpapers/real/0189_photo-mountain-black.png
+[[./wallpapers/real/0189_photo-mountain-black.png]]
+
+**** 0210_hills-mist-house-bridge.jpg
+#+CAPTION: 0210_hills-mist-house-bridge.jpg
+#+NAME: wallpapers/real/0210_hills-mist-house-bridge.jpg
+[[./wallpapers/real/0210_hills-mist-house-bridge.jpg]]
+
+**** 0235_tree-red-lake-rainbow.png
+#+CAPTION: 0235_tree-red-lake-rainbow.png
+#+NAME: wallpapers/real/0235_tree-red-lake-rainbow.png
+[[./wallpapers/real/0235_tree-red-lake-rainbow.png]]
+
+**** 0285_flowers_pastel_blur_zen.jpg
+#+CAPTION: 0285_flowers_pastel_blur_zen.jpg
+#+NAME: wallpapers/real/0285_flowers_pastel_blur_zen.jpg
+[[./wallpapers/real/0285_flowers_pastel_blur_zen.jpg]]
+
+**** 0348_city-train-buildings-lights.jpg
+#+CAPTION: 0348_city-train-buildings-lights.jpg
+#+NAME: wallpapers/real/0348_city-train-buildings-lights.jpg
+[[./wallpapers/real/0348_city-train-buildings-lights.jpg]]
+
+**** 0359_grass-effect-bloom-nature.jpg
+#+CAPTION: 0359_grass-effect-bloom-nature.jpg
+#+NAME: wallpapers/real/0359_grass-effect-bloom-nature.jpg
+[[./wallpapers/real/0359_grass-effect-bloom-nature.jpg]]
+
+**** 0363_new-york-rooftop-neon-sign.jpg
+#+CAPTION: 0363_new-york-rooftop-neon-sign.jpg
+#+NAME: wallpapers/real/0363_new-york-rooftop-neon-sign.jpg
+[[./wallpapers/real/0363_new-york-rooftop-neon-sign.jpg]]
+
+**** 0364_night-lights-road-bloom.jpg
+#+CAPTION: 0364_night-lights-road-bloom.jpg
+#+NAME: wallpapers/real/0364_night-lights-road-bloom.jpg
+[[./wallpapers/real/0364_night-lights-road-bloom.jpg]]
+
+**** 0375_sunrise-city-skyscrapers-mountains.png
+#+CAPTION: 0375_sunrise-city-skyscrapers-mountains.png
+#+NAME: wallpapers/real/0375_sunrise-city-skyscrapers-mountains.png
+[[./wallpapers/real/0375_sunrise-city-skyscrapers-mountains.png]]
+
+**** 0014_lofi-cat-chill-sleep.jpg
+#+CAPTION: 0014_lofi-cat-chill-sleep.jpg
+#+NAME: wallpapers/waifu/0014_lofi-cat-chill-sleep.jpg
+[[./wallpapers/waifu/0014_lofi-cat-chill-sleep.jpg]]
+
+**** 0019_girl-bed-balcony.png
+#+CAPTION: 0019_girl-bed-balcony.png
+#+NAME: wallpapers/waifu/0019_girl-bed-balcony.png
+[[./wallpapers/waifu/0019_girl-bed-balcony.png]]
+
+**** 0088_circuit-girls-components.jpg
+#+CAPTION: 0088_circuit-girls-components.jpg
+#+NAME: wallpapers/waifu/0088_circuit-girls-components.jpg
+[[./wallpapers/waifu/0088_circuit-girls-components.jpg]]
+
+**** 0090_arch-girl-tshirt.png
+#+CAPTION: 0090_arch-girl-tshirt.png
+#+NAME: wallpapers/waifu/0090_arch-girl-tshirt.png
+[[./wallpapers/waifu/0090_arch-girl-tshirt.png]]
+
+**** 0098_minimalist-person-wolf-mask.png
+#+CAPTION: 0098_minimalist-person-wolf-mask.png
+#+NAME: wallpapers/waifu/0098_minimalist-person-wolf-mask.png
+[[./wallpapers/waifu/0098_minimalist-person-wolf-mask.png]]
+
+**** 0104_girl-chill-headphones-street.png
+#+CAPTION: 0104_girl-chill-headphones-street.png
+#+NAME: wallpapers/waifu/0104_girl-chill-headphones-street.png
+[[./wallpapers/waifu/0104_girl-chill-headphones-street.png]]
+
+**** 0126_kitty-blue-grumpy-glasses.jpg
+#+CAPTION: 0126_kitty-blue-grumpy-glasses.jpg
+#+NAME: wallpapers/waifu/0126_kitty-blue-grumpy-glasses.jpg
+[[./wallpapers/waifu/0126_kitty-blue-grumpy-glasses.jpg]]
+
+**** 0127_girl-rain-koba-sewer.jpg
+#+CAPTION: 0127_girl-rain-koba-sewer.jpg
+#+NAME: wallpapers/waifu/0127_girl-rain-koba-sewer.jpg
+[[./wallpapers/waifu/0127_girl-rain-koba-sewer.jpg]]
+
+**** 0145_girl-anime-black-hair.jpg
+#+CAPTION: 0145_girl-anime-black-hair.jpg
+#+NAME: wallpapers/waifu/0145_girl-anime-black-hair.jpg
+[[./wallpapers/waifu/0145_girl-anime-black-hair.jpg]]
+
+**** 0193_girl-pink-hair-hand.png
+#+CAPTION: 0193_girl-pink-hair-hand.png
+#+NAME: wallpapers/waifu/0193_girl-pink-hair-hand.png
+[[./wallpapers/waifu/0193_girl-pink-hair-hand.png]]
+
+**** 0197_girl-balcony-red-balloons.jpg
+#+CAPTION: 0197_girl-balcony-red-balloons.jpg
+#+NAME: wallpapers/waifu/0197_girl-balcony-red-balloons.jpg
+[[./wallpapers/waifu/0197_girl-balcony-red-balloons.jpg]]
+
+**** 0198_girl-bed-cat-chill.jpg
+#+CAPTION: 0198_girl-bed-cat-chill.jpg
+#+NAME: wallpapers/waifu/0198_girl-bed-cat-chill.jpg
+[[./wallpapers/waifu/0198_girl-bed-cat-chill.jpg]]
+
+**** 0199_girl-cross-evil-glasses.jpg
+#+CAPTION: 0199_girl-cross-evil-glasses.jpg
+#+NAME: wallpapers/waifu/0199_girl-cross-evil-glasses.jpg
+[[./wallpapers/waifu/0199_girl-cross-evil-glasses.jpg]]
+
+**** 0200_girl-desk-chill-monitors.jpg
+#+CAPTION: 0200_girl-desk-chill-monitors.jpg
+#+NAME: wallpapers/waifu/0200_girl-desk-chill-monitors.jpg
+[[./wallpapers/waifu/0200_girl-desk-chill-monitors.jpg]]
+
+**** 0201_girl-dog-hill-clouds.jpg
+#+CAPTION: 0201_girl-dog-hill-clouds.jpg
+#+NAME: wallpapers/waifu/0201_girl-dog-hill-clouds.jpg
+[[./wallpapers/waifu/0201_girl-dog-hill-clouds.jpg]]
+
+**** 0202_girl-flowers-red-insane.jpg
+#+CAPTION: 0202_girl-flowers-red-insane.jpg
+#+NAME: wallpapers/waifu/0202_girl-flowers-red-insane.jpg
+[[./wallpapers/waifu/0202_girl-flowers-red-insane.jpg]]
+
+**** 0203_girl-glasses-hand-necklace.jpg
+#+CAPTION: 0203_girl-glasses-hand-necklace.jpg
+#+NAME: wallpapers/waifu/0203_girl-glasses-hand-necklace.jpg
+[[./wallpapers/waifu/0203_girl-glasses-hand-necklace.jpg]]
+
+**** 0204_girl-glove-dark-sight.jpg
+#+CAPTION: 0204_girl-glove-dark-sight.jpg
+#+NAME: wallpapers/waifu/0204_girl-glove-dark-sight.jpg
+[[./wallpapers/waifu/0204_girl-glove-dark-sight.jpg]]
+
+**** 0205_girl-hate-mask-necklace.jpg
+#+CAPTION: 0205_girl-hate-mask-necklace.jpg
+#+NAME: wallpapers/waifu/0205_girl-hate-mask-necklace.jpg
+[[./wallpapers/waifu/0205_girl-hate-mask-necklace.jpg]]
+
+**** 0206_girl-sleep-lantern-night.jpg
+#+CAPTION: 0206_girl-sleep-lantern-night.jpg
+#+NAME: wallpapers/waifu/0206_girl-sleep-lantern-night.jpg
+[[./wallpapers/waifu/0206_girl-sleep-lantern-night.jpg]]
+
+**** 0207_girl-whale-balloons-cat.jpg
+#+CAPTION: 0207_girl-whale-balloons-cat.jpg
+#+NAME: wallpapers/waifu/0207_girl-whale-balloons-cat.jpg
+[[./wallpapers/waifu/0207_girl-whale-balloons-cat.jpg]]
+
+**** 0215_girl-hair-mask-open.jpg
+#+CAPTION: 0215_girl-hair-mask-open.jpg
+#+NAME: wallpapers/waifu/0215_girl-hair-mask-open.jpg
+[[./wallpapers/waifu/0215_girl-hair-mask-open.jpg]]
+
+**** 0220_girl-bus-rain-night.jpg
+#+CAPTION: 0220_girl-bus-rain-night.jpg
+#+NAME: wallpapers/waifu/0220_girl-bus-rain-night.jpg
+[[./wallpapers/waifu/0220_girl-bus-rain-night.jpg]]
+
+**** 0221_girl-arch-hoodie.png
+#+CAPTION: 0221_girl-arch-hoodie.png
+#+NAME: wallpapers/waifu/0221_girl-arch-hoodie.png
+[[./wallpapers/waifu/0221_girl-arch-hoodie.png]]
+
+**** 0222_girl-barefoot-raincoat-longhair.png
+#+CAPTION: 0222_girl-barefoot-raincoat-longhair.png
+#+NAME: wallpapers/waifu/0222_girl-barefoot-raincoat-longhair.png
+[[./wallpapers/waifu/0222_girl-barefoot-raincoat-longhair.png]]
+
+**** 0223_girl-cookie-gray.png
+#+CAPTION: 0223_girl-cookie-gray.png
+#+NAME: wallpapers/waifu/0223_girl-cookie-gray.png
+[[./wallpapers/waifu/0223_girl-cookie-gray.png]]
+
+**** 0224_girl-demon-heart-red.png
+#+CAPTION: 0224_girl-demon-heart-red.png
+#+NAME: wallpapers/waifu/0224_girl-demon-heart-red.png
+[[./wallpapers/waifu/0224_girl-demon-heart-red.png]]
+
+**** 0225_girl-hoodie-cat-ears.png
+#+CAPTION: 0225_girl-hoodie-cat-ears.png
+#+NAME: wallpapers/waifu/0225_girl-hoodie-cat-ears.png
+[[./wallpapers/waifu/0225_girl-hoodie-cat-ears.png]]
+
+**** 0226_girl-katana-ribbon-short-hair.png
+#+CAPTION: 0226_girl-katana-ribbon-short-hair.png
+#+NAME: wallpapers/waifu/0226_girl-katana-ribbon-short-hair.png
+[[./wallpapers/waifu/0226_girl-katana-ribbon-short-hair.png]]
+
+**** 0227_girl-mask-red-uniform.png
+#+CAPTION: 0227_girl-mask-red-uniform.png
+#+NAME: wallpapers/waifu/0227_girl-mask-red-uniform.png
+[[./wallpapers/waifu/0227_girl-mask-red-uniform.png]]
+
+**** 0228_girl-academia-himiko-white-black.png
+#+CAPTION: 0228_girl-academia-himiko-white-black.png
+#+NAME: wallpapers/waifu/0228_girl-academia-himiko-white-black.png
+[[./wallpapers/waifu/0228_girl-academia-himiko-white-black.png]]
+
+**** 0229_alita-girl-gunm.jpg
+#+CAPTION: 0229_alita-girl-gunm.jpg
+#+NAME: wallpapers/waifu/0229_alita-girl-gunm.jpg
+[[./wallpapers/waifu/0229_alita-girl-gunm.jpg]]
+
+**** 0230_girl-peace-bracelets-white.png
+#+CAPTION: 0230_girl-peace-bracelets-white.png
+#+NAME: wallpapers/waifu/0230_girl-peace-bracelets-white.png
+[[./wallpapers/waifu/0230_girl-peace-bracelets-white.png]]
+
+**** 0231_girl-readhead-hat-emojis.jpg
+#+CAPTION: 0231_girl-readhead-hat-emojis.jpg
+#+NAME: wallpapers/waifu/0231_girl-readhead-hat-emojis.jpg
+[[./wallpapers/waifu/0231_girl-readhead-hat-emojis.jpg]]
+
+**** 0232_girl-sepia-street-blur.png
+#+CAPTION: 0232_girl-sepia-street-blur.png
+#+NAME: wallpapers/waifu/0232_girl-sepia-street-blur.png
+[[./wallpapers/waifu/0232_girl-sepia-street-blur.png]]
+
+**** 0236_girl-cat-grass-uniform.jpg
+#+CAPTION: 0236_girl-cat-grass-uniform.jpg
+#+NAME: wallpapers/waifu/0236_girl-cat-grass-uniform.jpg
+[[./wallpapers/waifu/0236_girl-cat-grass-uniform.jpg]]
+
+**** 0237_girl-arm-auburn-glance.jpg
+#+CAPTION: 0237_girl-arm-auburn-glance.jpg
+#+NAME: wallpapers/waifu/0237_girl-arm-auburn-glance.jpg
+[[./wallpapers/waifu/0237_girl-arm-auburn-glance.jpg]]
+
+**** 0242_characters-panes-bright-eyes.png
+#+CAPTION: 0242_characters-panes-bright-eyes.png
+#+NAME: wallpapers/waifu/0242_characters-panes-bright-eyes.png
+[[./wallpapers/waifu/0242_characters-panes-bright-eyes.png]]
+
+**** 0243_couple-car-tent-freedom.png
+#+CAPTION: 0243_couple-car-tent-freedom.png
+#+NAME: wallpapers/waifu/0243_couple-car-tent-freedom.png
+[[./wallpapers/waifu/0243_couple-car-tent-freedom.png]]
+
+**** 0251_girl-sniper-blow-white.jpg
+#+CAPTION: 0251_girl-sniper-blow-white.jpg
+#+NAME: wallpapers/waifu/0251_girl-sniper-blow-white.jpg
+[[./wallpapers/waifu/0251_girl-sniper-blow-white.jpg]]
+
+**** 0271_girl-anime-pink-skyscraper.png
+#+CAPTION: 0271_girl-anime-pink-skyscraper.png
+#+NAME: wallpapers/waifu/0271_girl-anime-pink-skyscraper.png
+[[./wallpapers/waifu/0271_girl-anime-pink-skyscraper.png]]
+
+**** 0272_anime-girl-pink-night.jpg
+#+CAPTION: 0272_anime-girl-pink-night.jpg
+#+NAME: wallpapers/waifu/0272_anime-girl-pink-night.jpg
+[[./wallpapers/waifu/0272_anime-girl-pink-night.jpg]]
+
+**** 0273_girl-sky-water-clouds.jpg
+#+CAPTION: 0273_girl-sky-water-clouds.jpg
+#+NAME: wallpapers/waifu/0273_girl-sky-water-clouds.jpg
+[[./wallpapers/waifu/0273_girl-sky-water-clouds.jpg]]
+
+**** 0293_anime-girl-night-phone.jpeg
+#+CAPTION: 0293_anime-girl-night-phone.jpeg
+#+NAME: wallpapers/waifu/0293_anime-girl-night-phone.jpeg
+[[./wallpapers/waifu/0293_anime-girl-night-phone.jpeg]]
+
+**** 0301_anime-girl-pink-hand.jpg
+#+CAPTION: 0301_anime-girl-pink-hand.jpg
+#+NAME: wallpapers/waifu/0301_anime-girl-pink-hand.jpg
+[[./wallpapers/waifu/0301_anime-girl-pink-hand.jpg]]
+
+**** 0302_anime-girl-white-back.jpg
+#+CAPTION: 0302_anime-girl-white-back.jpg
+#+NAME: wallpapers/waifu/0302_anime-girl-white-back.jpg
+[[./wallpapers/waifu/0302_anime-girl-white-back.jpg]]
+
+**** 0308_anime-boy-fence-hand.png
+#+CAPTION: 0308_anime-boy-fence-hand.png
+#+NAME: wallpapers/waifu/0308_anime-boy-fence-hand.png
+[[./wallpapers/waifu/0308_anime-boy-fence-hand.png]]
+
+**** 0310_anime-couple-yellow-particles.png
+#+CAPTION: 0310_anime-couple-yellow-particles.png
+#+NAME: wallpapers/waifu/0310_anime-couple-yellow-particles.png
+[[./wallpapers/waifu/0310_anime-couple-yellow-particles.png]]
+
+**** 0312_anime-girl-asuna-sao.jpg
+#+CAPTION: 0312_anime-girl-asuna-sao.jpg
+#+NAME: wallpapers/waifu/0312_anime-girl-asuna-sao.jpg
+[[./wallpapers/waifu/0312_anime-girl-asuna-sao.jpg]]
+
+**** 0313_anime-girl-bed-awakening.jpg
+#+CAPTION: 0313_anime-girl-bed-awakening.jpg
+#+NAME: wallpapers/waifu/0313_anime-girl-bed-awakening.jpg
+[[./wallpapers/waifu/0313_anime-girl-bed-awakening.jpg]]
+
+**** 0314_anime-girl-blackwhite-gun.jpg
+#+CAPTION: 0314_anime-girl-blackwhite-gun.jpg
+#+NAME: wallpapers/waifu/0314_anime-girl-blackwhite-gun.jpg
+[[./wallpapers/waifu/0314_anime-girl-blackwhite-gun.jpg]]
+
+**** 0315_anime-girl-blackwhite-gun2.jpg
+#+CAPTION: 0315_anime-girl-blackwhite-gun2.jpg
+#+NAME: wallpapers/waifu/0315_anime-girl-blackwhite-gun2.jpg
+[[./wallpapers/waifu/0315_anime-girl-blackwhite-gun2.jpg]]
+
+**** 0318_anime-girl-cat-wink.jpg
+#+CAPTION: 0318_anime-girl-cat-wink.jpg
+#+NAME: wallpapers/waifu/0318_anime-girl-cat-wink.jpg
+[[./wallpapers/waifu/0318_anime-girl-cat-wink.jpg]]
+
+**** 0319_anime-girl-cloud-sky.jpg
+#+CAPTION: 0319_anime-girl-cloud-sky.jpg
+#+NAME: wallpapers/waifu/0319_anime-girl-cloud-sky.jpg
+[[./wallpapers/waifu/0319_anime-girl-cloud-sky.jpg]]
+
+**** 0321_anime-girl-desk-night.png
+#+CAPTION: 0321_anime-girl-desk-night.png
+#+NAME: wallpapers/waifu/0321_anime-girl-desk-night.png
+[[./wallpapers/waifu/0321_anime-girl-desk-night.png]]
+
+**** 0322_anime-girl-dress-colors.jpg
+#+CAPTION: 0322_anime-girl-dress-colors.jpg
+#+NAME: wallpapers/waifu/0322_anime-girl-dress-colors.jpg
+[[./wallpapers/waifu/0322_anime-girl-dress-colors.jpg]]
+
+**** 0323_anime-girl-fedora-hat.png
+#+CAPTION: 0323_anime-girl-fedora-hat.png
+#+NAME: wallpapers/waifu/0323_anime-girl-fedora-hat.png
+[[./wallpapers/waifu/0323_anime-girl-fedora-hat.png]]
+
+**** 0324_anime-girl-gun-herself.jpg
+#+CAPTION: 0324_anime-girl-gun-herself.jpg
+#+NAME: wallpapers/waifu/0324_anime-girl-gun-herself.jpg
+[[./wallpapers/waifu/0324_anime-girl-gun-herself.jpg]]
+
+**** 0325_anime-girl-hair-bed.jpg
+#+CAPTION: 0325_anime-girl-hair-bed.jpg
+#+NAME: wallpapers/waifu/0325_anime-girl-hair-bed.jpg
+[[./wallpapers/waifu/0325_anime-girl-hair-bed.jpg]]
+
+**** 0327_anime-girl-hand-openmouth.jpg
+#+CAPTION: 0327_anime-girl-hand-openmouth.jpg
+#+NAME: wallpapers/waifu/0327_anime-girl-hand-openmouth.jpg
+[[./wallpapers/waifu/0327_anime-girl-hand-openmouth.jpg]]
+
+**** 0328_anime-girl-hatsune-miku.jpg
+#+CAPTION: 0328_anime-girl-hatsune-miku.jpg
+#+NAME: wallpapers/waifu/0328_anime-girl-hatsune-miku.jpg
+[[./wallpapers/waifu/0328_anime-girl-hatsune-miku.jpg]]
+
+**** 0329_anime-girl-kimono-festival.jpg
+#+CAPTION: 0329_anime-girl-kimono-festival.jpg
+#+NAME: wallpapers/waifu/0329_anime-girl-kimono-festival.jpg
+[[./wallpapers/waifu/0329_anime-girl-kimono-festival.jpg]]
+
+**** 0330_anime-girl-neon-rain.jpg
+#+CAPTION: 0330_anime-girl-neon-rain.jpg
+#+NAME: wallpapers/waifu/0330_anime-girl-neon-rain.jpg
+[[./wallpapers/waifu/0330_anime-girl-neon-rain.jpg]]
+
+**** 0331_anime-girl-puddle-mirror.jpg
+#+CAPTION: 0331_anime-girl-puddle-mirror.jpg
+#+NAME: wallpapers/waifu/0331_anime-girl-puddle-mirror.jpg
+[[./wallpapers/waifu/0331_anime-girl-puddle-mirror.jpg]]
+
+**** 0333_anime-girl-red-circle.jpg
+#+CAPTION: 0333_anime-girl-red-circle.jpg
+#+NAME: wallpapers/waifu/0333_anime-girl-red-circle.jpg
+[[./wallpapers/waifu/0333_anime-girl-red-circle.jpg]]
+
+**** 0336_anime-girl-stars-cake.png
+#+CAPTION: 0336_anime-girl-stars-cake.png
+#+NAME: wallpapers/waifu/0336_anime-girl-stars-cake.png
+[[./wallpapers/waifu/0336_anime-girl-stars-cake.png]]
+
+**** 0337_anime-girl-sword-blood.jpg
+#+CAPTION: 0337_anime-girl-sword-blood.jpg
+#+NAME: wallpapers/waifu/0337_anime-girl-sword-blood.jpg
+[[./wallpapers/waifu/0337_anime-girl-sword-blood.jpg]]
+
+**** 0338_anime-girl-tongue-googles.jpg
+#+CAPTION: 0338_anime-girl-tongue-googles.jpg
+#+NAME: wallpapers/waifu/0338_anime-girl-tongue-googles.jpg
+[[./wallpapers/waifu/0338_anime-girl-tongue-googles.jpg]]
+
+**** 0340_anime-girl-v-jump.png
+#+CAPTION: 0340_anime-girl-v-jump.png
+#+NAME: wallpapers/waifu/0340_anime-girl-v-jump.png
+[[./wallpapers/waifu/0340_anime-girl-v-jump.png]]
+
+**** 0341_anime-girl-violin-passion.jpg
+#+CAPTION: 0341_anime-girl-violin-passion.jpg
+#+NAME: wallpapers/waifu/0341_anime-girl-violin-passion.jpg
+[[./wallpapers/waifu/0341_anime-girl-violin-passion.jpg]]
+
+**** 0342_anime-girl-windmills-electricity.jpg
+#+CAPTION: 0342_anime-girl-windmills-electricity.jpg
+#+NAME: wallpapers/waifu/0342_anime-girl-windmills-electricity.jpg
+[[./wallpapers/waifu/0342_anime-girl-windmills-electricity.jpg]]
+
+**** 0343_anime-girl-wolf-rain.jpg
+#+CAPTION: 0343_anime-girl-wolf-rain.jpg
+#+NAME: wallpapers/waifu/0343_anime-girl-wolf-rain.jpg
+[[./wallpapers/waifu/0343_anime-girl-wolf-rain.jpg]]
+
+**** 0355_girl-headphones-desk-sunlight.png
+#+CAPTION: 0355_girl-headphones-desk-sunlight.png
+#+NAME: wallpapers/waifu/0355_girl-headphones-desk-sunlight.png
+[[./wallpapers/waifu/0355_girl-headphones-desk-sunlight.png]]
+
+**** 0356_girl-ninja-turles-apriloneil.jpg
+#+CAPTION: 0356_girl-ninja-turles-apriloneil.jpg
+#+NAME: wallpapers/waifu/0356_girl-ninja-turles-apriloneil.jpg
+[[./wallpapers/waifu/0356_girl-ninja-turles-apriloneil.jpg]]
+
+**** 0358_girl-sniper-exmachina-blaze.jpg
+#+CAPTION: 0358_girl-sniper-exmachina-blaze.jpg
+#+NAME: wallpapers/waifu/0358_girl-sniper-exmachina-blaze.jpg
+[[./wallpapers/waifu/0358_girl-sniper-exmachina-blaze.jpg]]
+
+**** 0362_neon-girl-skeleton-heart.png
+#+CAPTION: 0362_neon-girl-skeleton-heart.png
+#+NAME: wallpapers/waifu/0362_neon-girl-skeleton-heart.png
+[[./wallpapers/waifu/0362_neon-girl-skeleton-heart.png]]
+
+**** 0366_paint-girl-hairband-arms.png
+#+CAPTION: 0366_paint-girl-hairband-arms.png
+#+NAME: wallpapers/waifu/0366_paint-girl-hairband-arms.png
+[[./wallpapers/waifu/0366_paint-girl-hairband-arms.png]]
+
+**** 0373_snk-mikasa-anime-girl.jpg
+#+CAPTION: 0373_snk-mikasa-anime-girl.jpg
+#+NAME: wallpapers/waifu/0373_snk-mikasa-anime-girl.jpg
+[[./wallpapers/waifu/0373_snk-mikasa-anime-girl.jpg]]
 
