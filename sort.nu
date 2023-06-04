@@ -2,7 +2,7 @@
 
 def main [
     directory: path
-    --destinations: list<path> = [other trash real waifu abstract fun-tech]
+    --destinations: list<path> = [other trash real waifu abstract fun-tech pop art]
 ] {
     $destinations | each {|destination|
         mkdir $destination
