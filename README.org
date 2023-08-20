@@ -1719,3 +1719,8 @@ If you stumble upon art or photos that you own or that you know and show that sp
 #+NAME: wallpapers/waifu/0373_snk-mikasa-anime-girl.jpg
 [[./wallpapers/waifu/0373_snk-mikasa-anime-girl.jpg]]
 
+**** japanase-street-neon.png
+#+CAPTION: japanase-street-neon.png
+#+NAME: wallpapers/waifu/japanase-street-neon.png
+[[./wallpapers/waifu/japanase-street-neon.png]]
+
