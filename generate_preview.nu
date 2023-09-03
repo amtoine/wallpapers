@@ -44,10 +44,10 @@ def main [] {
     ls wallpapers/ | sort-by type | each {|it|
         match $it.type {
             "dir" => {
-                $"- [[($it.name)#readme][($it.name)]]\n" | save --force --append $README
-
                 let readme = $it.name | path join $README
                 "" | save --force $readme
+
+                $"- [[blob/main/($readme)][($it.name)]]\n" | save --force --append $README
 
                 ls ($it.name | path join "**/*") | where type == file | each {|file|
                     print -n $"(ansi erase_line)($file.name)\r"

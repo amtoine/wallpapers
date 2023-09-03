@@ -24,9 +24,9 @@ These wallpapers come from the internet. Diffusion and usage rights are not know
 If you stumble upon art or photos that you own or that you know and show that special rights have to be used to use or share them, *let me known and I will remove them immediately and without question!*
 
 ** Gallery
-- [[wallpapers/abstract#readme][wallpapers/abstract]]
-- [[wallpapers/fun-tech#readme][wallpapers/fun-tech]]
-- [[wallpapers/other#readme][wallpapers/other]]
-- [[wallpapers/pop#readme][wallpapers/pop]]
-- [[wallpapers/real#readme][wallpapers/real]]
-- [[wallpapers/waifu#readme][wallpapers/waifu]]
+- [[blob/main/wallpapers/abstract/README.org][wallpapers/abstract]]
+- [[blob/main/wallpapers/fun-tech/README.org][wallpapers/fun-tech]]
+- [[blob/main/wallpapers/other/README.org][wallpapers/other]]
+- [[blob/main/wallpapers/pop/README.org][wallpapers/pop]]
+- [[blob/main/wallpapers/real/README.org][wallpapers/real]]
+- [[blob/main/wallpapers/waifu/README.org][wallpapers/waifu]]
