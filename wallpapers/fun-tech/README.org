@@ -1,0 +1,165 @@
+**** 0017_code-minimalist-exit.png
+#+CAPTION: 0017_code-minimalist-exit.png
+#+NAME: wallpapers/fun-tech/0017_code-minimalist-exit.png
+[[./wallpapers/fun-tech/0017_code-minimalist-exit.png]]
+
+**** 0037_ubuntu-black-minimalist.png
+#+CAPTION: 0037_ubuntu-black-minimalist.png
+#+NAME: wallpapers/fun-tech/0037_ubuntu-black-minimalist.png
+[[./wallpapers/fun-tech/0037_ubuntu-black-minimalist.png]]
+
+**** 0045_arch-red-minimalist.png
+#+CAPTION: 0045_arch-red-minimalist.png
+#+NAME: wallpapers/fun-tech/0045_arch-red-minimalist.png
+[[./wallpapers/fun-tech/0045_arch-red-minimalist.png]]
+
+**** 0051_minimalist-cloud-storage-bits.png
+#+CAPTION: 0051_minimalist-cloud-storage-bits.png
+#+NAME: wallpapers/fun-tech/0051_minimalist-cloud-storage-bits.png
+[[./wallpapers/fun-tech/0051_minimalist-cloud-storage-bits.png]]
+
+**** 0066_linux-tux-penguin.png
+#+CAPTION: 0066_linux-tux-penguin.png
+#+NAME: wallpapers/fun-tech/0066_linux-tux-penguin.png
+[[./wallpapers/fun-tech/0066_linux-tux-penguin.png]]
+
+**** 0067_code-minimalist-joke-sudormrfslash.png
+#+CAPTION: 0067_code-minimalist-joke-sudormrfslash.png
+#+NAME: wallpapers/fun-tech/0067_code-minimalist-joke-sudormrfslash.png
+[[./wallpapers/fun-tech/0067_code-minimalist-joke-sudormrfslash.png]]
+
+**** 0075_arch-bats-moon-minimalist.png
+#+CAPTION: 0075_arch-bats-moon-minimalist.png
+#+NAME: wallpapers/fun-tech/0075_arch-bats-moon-minimalist.png
+[[./wallpapers/fun-tech/0075_arch-bats-moon-minimalist.png]]
+
+**** 0091_crash-bluescreen-joke.png
+#+CAPTION: 0091_crash-bluescreen-joke.png
+#+NAME: wallpapers/fun-tech/0091_crash-bluescreen-joke.png
+[[./wallpapers/fun-tech/0091_crash-bluescreen-joke.png]]
+
+**** 0119_arch-linux-logo-purple.png
+#+CAPTION: 0119_arch-linux-logo-purple.png
+#+NAME: wallpapers/fun-tech/0119_arch-linux-logo-purple.png
+[[./wallpapers/fun-tech/0119_arch-linux-logo-purple.png]]
+
+**** 0124_logo-minimalist-cup-battery.jpg
+#+CAPTION: 0124_logo-minimalist-cup-battery.jpg
+#+NAME: wallpapers/fun-tech/0124_logo-minimalist-cup-battery.jpg
+[[./wallpapers/fun-tech/0124_logo-minimalist-cup-battery.jpg]]
+
+**** 0136_circuit-electronics-chips.png
+#+CAPTION: 0136_circuit-electronics-chips.png
+#+NAME: wallpapers/fun-tech/0136_circuit-electronics-chips.png
+[[./wallpapers/fun-tech/0136_circuit-electronics-chips.png]]
+
+**** 0159_vim-keys-cheatsheet.png
+#+CAPTION: 0159_vim-keys-cheatsheet.png
+#+NAME: wallpapers/fun-tech/0159_vim-keys-cheatsheet.png
+[[./wallpapers/fun-tech/0159_vim-keys-cheatsheet.png]]
+
+**** 0162_anonymous-mask-strip-minimalist.jpg
+#+CAPTION: 0162_anonymous-mask-strip-minimalist.jpg
+#+NAME: wallpapers/fun-tech/0162_anonymous-mask-strip-minimalist.jpg
+[[./wallpapers/fun-tech/0162_anonymous-mask-strip-minimalist.jpg]]
+
+**** 0168_solar-system-objects-sheet.jpg
+#+CAPTION: 0168_solar-system-objects-sheet.jpg
+#+NAME: wallpapers/fun-tech/0168_solar-system-objects-sheet.jpg
+[[./wallpapers/fun-tech/0168_solar-system-objects-sheet.jpg]]
+
+**** 0187_windows-panic-fuck.png
+#+CAPTION: 0187_windows-panic-fuck.png
+#+NAME: wallpapers/fun-tech/0187_windows-panic-fuck.png
+[[./wallpapers/fun-tech/0187_windows-panic-fuck.png]]
+
+**** 0195_electronics-sheet.jpg
+#+CAPTION: 0195_electronics-sheet.jpg
+#+NAME: wallpapers/fun-tech/0195_electronics-sheet.jpg
+[[./wallpapers/fun-tech/0195_electronics-sheet.jpg]]
+
+**** 0209_code-minimalist-hello-world.jpg
+#+CAPTION: 0209_code-minimalist-hello-world.jpg
+#+NAME: wallpapers/fun-tech/0209_code-minimalist-hello-world.jpg
+[[./wallpapers/fun-tech/0209_code-minimalist-hello-world.jpg]]
+
+**** 0241_stars-minimalist-expression.jpg
+#+CAPTION: 0241_stars-minimalist-expression.jpg
+#+NAME: wallpapers/fun-tech/0241_stars-minimalist-expression.jpg
+[[./wallpapers/fun-tech/0241_stars-minimalist-expression.jpg]]
+
+**** 0246_dracula-bats-moon.png
+#+CAPTION: 0246_dracula-bats-moon.png
+#+NAME: wallpapers/fun-tech/0246_dracula-bats-moon.png
+[[./wallpapers/fun-tech/0246_dracula-bats-moon.png]]
+
+**** 0258_minimal-bonsai-ascii-dark.png
+#+CAPTION: 0258_minimal-bonsai-ascii-dark.png
+#+NAME: wallpapers/fun-tech/0258_minimal-bonsai-ascii-dark.png
+[[./wallpapers/fun-tech/0258_minimal-bonsai-ascii-dark.png]]
+
+**** 0265_arch-light-blue-minimal.png
+#+CAPTION: 0265_arch-light-blue-minimal.png
+#+NAME: wallpapers/fun-tech/0265_arch-light-blue-minimal.png
+[[./wallpapers/fun-tech/0265_arch-light-blue-minimal.png]]
+
+**** 0266_arch-lime-minimal-logo.png
+#+CAPTION: 0266_arch-lime-minimal-logo.png
+#+NAME: wallpapers/fun-tech/0266_arch-lime-minimal-logo.png
+[[./wallpapers/fun-tech/0266_arch-lime-minimal-logo.png]]
+
+**** 0267_arch-pink-logo-minimal.png
+#+CAPTION: 0267_arch-pink-logo-minimal.png
+#+NAME: wallpapers/fun-tech/0267_arch-pink-logo-minimal.png
+[[./wallpapers/fun-tech/0267_arch-pink-logo-minimal.png]]
+
+**** 0268_arch-logo-minimal-marine.png
+#+CAPTION: 0268_arch-logo-minimal-marine.png
+#+NAME: wallpapers/fun-tech/0268_arch-logo-minimal-marine.png
+[[./wallpapers/fun-tech/0268_arch-logo-minimal-marine.png]]
+
+**** 0269_arch-logo-cyan-minimal.png
+#+CAPTION: 0269_arch-logo-cyan-minimal.png
+#+NAME: wallpapers/fun-tech/0269_arch-logo-cyan-minimal.png
+[[./wallpapers/fun-tech/0269_arch-logo-cyan-minimal.png]]
+
+**** 0274_arch-logo-black-black.png
+#+CAPTION: 0274_arch-logo-black-black.png
+#+NAME: wallpapers/fun-tech/0274_arch-logo-black-black.png
+[[./wallpapers/fun-tech/0274_arch-logo-black-black.png]]
+
+**** 0275_arch-logo-black-blue.png
+#+CAPTION: 0275_arch-logo-black-blue.png
+#+NAME: wallpapers/fun-tech/0275_arch-logo-black-blue.png
+[[./wallpapers/fun-tech/0275_arch-logo-black-blue.png]]
+
+**** 0276_arch-logo-black-orange.png
+#+CAPTION: 0276_arch-logo-black-orange.png
+#+NAME: wallpapers/fun-tech/0276_arch-logo-black-orange.png
+[[./wallpapers/fun-tech/0276_arch-logo-black-orange.png]]
+
+**** 0277_joke-garden-animals-onion.png
+#+CAPTION: 0277_joke-garden-animals-onion.png
+#+NAME: wallpapers/fun-tech/0277_joke-garden-animals-onion.png
+[[./wallpapers/fun-tech/0277_joke-garden-animals-onion.png]]
+
+**** 0283_solarized-heart-kernel-blue.png
+#+CAPTION: 0283_solarized-heart-kernel-blue.png
+#+NAME: wallpapers/fun-tech/0283_solarized-heart-kernel-blue.png
+[[./wallpapers/fun-tech/0283_solarized-heart-kernel-blue.png]]
+
+**** 0286_linux-tux-stripes-gruvbox.png
+#+CAPTION: 0286_linux-tux-stripes-gruvbox.png
+#+NAME: wallpapers/fun-tech/0286_linux-tux-stripes-gruvbox.png
+[[./wallpapers/fun-tech/0286_linux-tux-stripes-gruvbox.png]]
+
+**** 0377_windows-pepe-neon-blue.png
+#+CAPTION: 0377_windows-pepe-neon-blue.png
+#+NAME: wallpapers/fun-tech/0377_windows-pepe-neon-blue.png
+[[./wallpapers/fun-tech/0377_windows-pepe-neon-blue.png]]
+
+**** README.org
+#+CAPTION: README.org
+#+NAME: wallpapers/fun-tech/README.org
+[[./wallpapers/fun-tech/README.org]]
+
