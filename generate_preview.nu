@@ -44,7 +44,7 @@ def main [] {
     ls wallpapers/ | sort-by type | each {|it|
         match $it.type {
             "dir" => {
-                preview $it.name $"($it.name)#readme" --level 3 | save --force --append $README
+                $"- [[($it.name)][($it.name)#readme]]\n" | save --force --append $README
 
                 let readme = $it.name | path join $README
                 "" | save --force $readme
