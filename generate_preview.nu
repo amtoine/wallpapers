@@ -28,9 +28,9 @@ If you stumble upon art or photos that you own or that you know and show that sp
 
 ** Gallery"
 
-def preview [filename: path]: nothing -> string {
+def preview [filename: path, --level: int = 4]: nothing -> string {
     [
-        $"**** ($filename | path basename)"
+        $"('*' * $level) ($filename | path basename)"
         $"#+CAPTION: ($filename | path basename)"
         $"#+NAME: ($filename)"
         $"[[./($filename)]]\n\n"
@@ -41,10 +41,31 @@ def preview [filename: path]: nothing -> string {
 def main [] {
     $README_HEADER ++ "\n" | save --force $README
 
-    ls wallpapers/**/* | where type == file | each {|file|
-        print -n $"(ansi erase_line)($file.name)\r"
+    ls wallpapers/ | sort-by type | each {|it|
+        match $it.type {
+            "dir" => {
+                [
+                    $"*** ($it.name)"
+                    $"#+CAPTION: ($it.name)"
+                    $"#+NAME: ($it.name)"
+                    $"[[./($it.name)]]\n\n"
+                ]
+                | str join "\n"
+                | save --force --append $README
 
-        preview $file.name | save --force --append $README
+                let readme = $it.name | path join $README
+                "" | save --force $readme
+
+                ls ($it.name | path join "**/*") | where type == file | each {|file|
+                    print -n $"(ansi erase_line)($file.name)\r"
+
+                    preview $file.name | save --force --append $readme
+                }
+            },
+            "file" => {
+                preview $it.name | save --force --append $README
+            },
+        }
     }
 
     null
