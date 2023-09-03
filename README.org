@@ -929,6 +929,26 @@ If you stumble upon art or photos that you own or that you know and show that sp
 #+NAME: wallpapers/other/0376_sunrise-van-road-clouds.png
 [[./wallpapers/other/0376_sunrise-van-road-clouds.png]]
 
+**** 0377_red-fantasy-landscape.jpg
+#+CAPTION: 0377_red-fantasy-landscape.jpg
+#+NAME: wallpapers/other/0377_red-fantasy-landscape.jpg
+[[./wallpapers/other/0377_red-fantasy-landscape.jpg]]
+
+**** 0378_blue-fantasy-landscape.jpg
+#+CAPTION: 0378_blue-fantasy-landscape.jpg
+#+NAME: wallpapers/other/0378_blue-fantasy-landscape.jpg
+[[./wallpapers/other/0378_blue-fantasy-landscape.jpg]]
+
+**** 0379_fantastic-clouds-and-a-house.jpg
+#+CAPTION: 0379_fantastic-clouds-and-a-house.jpg
+#+NAME: wallpapers/other/0379_fantastic-clouds-and-a-house.jpg
+[[./wallpapers/other/0379_fantastic-clouds-and-a-house.jpg]]
+
+**** 0380_blue-sunrise-on-mars-by-macrebisz.jpg
+#+CAPTION: 0380_blue-sunrise-on-mars-by-macrebisz.jpg
+#+NAME: wallpapers/other/0380_blue-sunrise-on-mars-by-macrebisz.jpg
+[[./wallpapers/other/0380_blue-sunrise-on-mars-by-macrebisz.jpg]]
+
 **** 0016_monster-anime-car.jpg
 #+CAPTION: 0016_monster-anime-car.jpg
 #+NAME: wallpapers/pop/0016_monster-anime-car.jpg
@@ -1328,6 +1348,16 @@ If you stumble upon art or photos that you own or that you know and show that sp
 #+CAPTION: 0375_sunrise-city-skyscrapers-mountains.png
 #+NAME: wallpapers/real/0375_sunrise-city-skyscrapers-mountains.png
 [[./wallpapers/real/0375_sunrise-city-skyscrapers-mountains.png]]
+
+**** 0376_mountain-dreamscape.jpg
+#+CAPTION: 0376_mountain-dreamscape.jpg
+#+NAME: wallpapers/real/0376_mountain-dreamscape.jpg
+[[./wallpapers/real/0376_mountain-dreamscape.jpg]]
+
+**** 0377_spectacular-evening-sky-illustration.jpg
+#+CAPTION: 0377_spectacular-evening-sky-illustration.jpg
+#+NAME: wallpapers/real/0377_spectacular-evening-sky-illustration.jpg
+[[./wallpapers/real/0377_spectacular-evening-sky-illustration.jpg]]
 
 **** 0014_lofi-cat-chill-sleep.jpg
 #+CAPTION: 0014_lofi-cat-chill-sleep.jpg
