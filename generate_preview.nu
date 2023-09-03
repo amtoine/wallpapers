@@ -1,5 +1,6 @@
 #!/usr/bin/env nu
 
+const README = "README.org"
 const README_HEADER = "* wallpapers
 
 A gallery of wallpapers for goats.
@@ -28,18 +29,23 @@ If you stumble upon art or photos that you own or that you know and show that sp
 ** Gallery"
 
 def main [] {
-    $README_HEADER | save --force README.org
-    "\n" | save --force --append README.org
+    $README_HEADER ++ "\n" | save --force $README
 
     ls wallpapers/**/* | where type == file | each {|file|
         print -n $"(ansi erase_line)($file.name)\r"
 
-        let wallpaper = ($file.name | path basename)
-        [
+        let wallpaper = $file.name | path basename
+
+        let preview = [
             $"**** ($wallpaper)"
             $"#+CAPTION: ($wallpaper)"
             $"#+NAME: ($file.name)"
             $"[[./($file.name)]]\n\n"
-        ] | str join "\n" | save --force --append README.org
-    } | ignore
+        ]
+        | str join "\n"
+
+        $preview | save --force --append $README
+    }
+
+    null
 }
