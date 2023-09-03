@@ -24,33 +24,33 @@ These wallpapers come from the internet. Diffusion and usage rights are not know
 If you stumble upon art or photos that you own or that you know and show that special rights have to be used to use or share them, *let me known and I will remove them immediately and without question!*
 
 ** Gallery
-*** wallpapers/abstract
-#+CAPTION: wallpapers/abstract
+*** wallpapers/abstract#readme
+#+CAPTION: wallpapers/abstract#readme
 #+NAME: wallpapers/abstract
 [[./wallpapers/abstract]]
 
-*** wallpapers/fun-tech
-#+CAPTION: wallpapers/fun-tech
+*** wallpapers/fun-tech#readme
+#+CAPTION: wallpapers/fun-tech#readme
 #+NAME: wallpapers/fun-tech
 [[./wallpapers/fun-tech]]
 
-*** wallpapers/other
-#+CAPTION: wallpapers/other
+*** wallpapers/other#readme
+#+CAPTION: wallpapers/other#readme
 #+NAME: wallpapers/other
 [[./wallpapers/other]]
 
-*** wallpapers/pop
-#+CAPTION: wallpapers/pop
+*** wallpapers/pop#readme
+#+CAPTION: wallpapers/pop#readme
 #+NAME: wallpapers/pop
 [[./wallpapers/pop]]
 
-*** wallpapers/real
-#+CAPTION: wallpapers/real
+*** wallpapers/real#readme
+#+CAPTION: wallpapers/real#readme
 #+NAME: wallpapers/real
 [[./wallpapers/real]]
 
-*** wallpapers/waifu
-#+CAPTION: wallpapers/waifu
+*** wallpapers/waifu#readme
+#+CAPTION: wallpapers/waifu#readme
 #+NAME: wallpapers/waifu
 [[./wallpapers/waifu]]
 
