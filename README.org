@@ -1724,3 +1724,8 @@ If you stumble upon art or photos that you own or that you know and show that sp
 #+NAME: wallpapers/waifu/japanase-street-neon.png
 [[./wallpapers/waifu/japanase-street-neon.png]]
 
+**** red-head-crop-top.png
+#+CAPTION: red-head-crop-top.png
+#+NAME: wallpapers/waifu/red-head-crop-top.png
+[[./wallpapers/waifu/red-head-crop-top.png]]
+
