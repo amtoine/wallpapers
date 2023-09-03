@@ -28,23 +28,23 @@ If you stumble upon art or photos that you own or that you know and show that sp
 
 ** Gallery"
 
+def preview [filename: path]: nothing -> string {
+    [
+        $"**** ($filename | path basename)"
+        $"#+CAPTION: ($filename | path basename)"
+        $"#+NAME: ($filename)"
+        $"[[./($filename)]]\n\n"
+    ]
+    | str join "\n"
+}
+
 def main [] {
     $README_HEADER ++ "\n" | save --force $README
 
     ls wallpapers/**/* | where type == file | each {|file|
         print -n $"(ansi erase_line)($file.name)\r"
 
-        let wallpaper = $file.name | path basename
-
-        let preview = [
-            $"**** ($wallpaper)"
-            $"#+CAPTION: ($wallpaper)"
-            $"#+NAME: ($file.name)"
-            $"[[./($file.name)]]\n\n"
-        ]
-        | str join "\n"
-
-        $preview | save --force --append $README
+        preview $file.name | save --force --append $README
     }
 
     null
