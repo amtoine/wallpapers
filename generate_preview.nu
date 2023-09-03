@@ -47,7 +47,7 @@ def main [] {
                 let readme = $it.name | path join $README
                 "" | save --force $readme
 
-                $"- [[blob/main/($readme)][($it.name)]]\n" | save --force --append $README
+                $"- [[($readme)][($it.name)]]\n" | save --force --append $README
 
                 ls ($it.name | path join "**/*") | where type == file | each {|file|
                     print -n $"(ansi erase_line)($file.name)\r"
