@@ -52,7 +52,7 @@ def main [] {
                 ls ($it.name | path join "**/*") | where type == file | each {|file|
                     print -n $"(ansi erase_line)($file.name)\r"
 
-                    preview $file.name ($file.name | path basename) --level 2
+                    preview ($file.name | path basename) ($file.name | path basename) --level 2
                         | save --force --append $readme
                 }
             },

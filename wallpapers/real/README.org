@@ -1,200 +1,200 @@
 ** 0003_grass-leaves-closeup-blur-nature.jpg
 #+CAPTION: 0003_grass-leaves-closeup-blur-nature.jpg
-#+NAME: wallpapers/real/0003_grass-leaves-closeup-blur-nature.jpg
-[[./wallpapers/real/0003_grass-leaves-closeup-blur-nature.jpg]]
+#+NAME: 0003_grass-leaves-closeup-blur-nature.jpg
+[[./0003_grass-leaves-closeup-blur-nature.jpg]]
 
 ** 0005_mountain-sunset-pink.jpg
 #+CAPTION: 0005_mountain-sunset-pink.jpg
-#+NAME: wallpapers/real/0005_mountain-sunset-pink.jpg
-[[./wallpapers/real/0005_mountain-sunset-pink.jpg]]
+#+NAME: 0005_mountain-sunset-pink.jpg
+[[./0005_mountain-sunset-pink.jpg]]
 
 ** 0006_nature-forest-fir-rain.jpg
 #+CAPTION: 0006_nature-forest-fir-rain.jpg
-#+NAME: wallpapers/real/0006_nature-forest-fir-rain.jpg
-[[./wallpapers/real/0006_nature-forest-fir-rain.jpg]]
+#+NAME: 0006_nature-forest-fir-rain.jpg
+[[./0006_nature-forest-fir-rain.jpg]]
 
 ** 0007_nature-forest-fir-sun.jpg
 #+CAPTION: 0007_nature-forest-fir-sun.jpg
-#+NAME: wallpapers/real/0007_nature-forest-fir-sun.jpg
-[[./wallpapers/real/0007_nature-forest-fir-sun.jpg]]
+#+NAME: 0007_nature-forest-fir-sun.jpg
+[[./0007_nature-forest-fir-sun.jpg]]
 
 ** 0009_night-sky-stars-aurora.jpg
 #+CAPTION: 0009_night-sky-stars-aurora.jpg
-#+NAME: wallpapers/real/0009_night-sky-stars-aurora.jpg
-[[./wallpapers/real/0009_night-sky-stars-aurora.jpg]]
+#+NAME: 0009_night-sky-stars-aurora.jpg
+[[./0009_night-sky-stars-aurora.jpg]]
 
 ** 0015_mountain-landscape-mist.jpg
 #+CAPTION: 0015_mountain-landscape-mist.jpg
-#+NAME: wallpapers/real/0015_mountain-landscape-mist.jpg
-[[./wallpapers/real/0015_mountain-landscape-mist.jpg]]
+#+NAME: 0015_mountain-landscape-mist.jpg
+[[./0015_mountain-landscape-mist.jpg]]
 
 ** 0021_night-city-lights.jpg
 #+CAPTION: 0021_night-city-lights.jpg
-#+NAME: wallpapers/real/0021_night-city-lights.jpg
-[[./wallpapers/real/0021_night-city-lights.jpg]]
+#+NAME: 0021_night-city-lights.jpg
+[[./0021_night-city-lights.jpg]]
 
 ** 0028_mountain-sun-nature-mist.jpg
 #+CAPTION: 0028_mountain-sun-nature-mist.jpg
-#+NAME: wallpapers/real/0028_mountain-sun-nature-mist.jpg
-[[./wallpapers/real/0028_mountain-sun-nature-mist.jpg]]
+#+NAME: 0028_mountain-sun-nature-mist.jpg
+[[./0028_mountain-sun-nature-mist.jpg]]
 
 ** 0050_nature-landscape-snow-mountain.jpg
 #+CAPTION: 0050_nature-landscape-snow-mountain.jpg
-#+NAME: wallpapers/real/0050_nature-landscape-snow-mountain.jpg
-[[./wallpapers/real/0050_nature-landscape-snow-mountain.jpg]]
+#+NAME: 0050_nature-landscape-snow-mountain.jpg
+[[./0050_nature-landscape-snow-mountain.jpg]]
 
 ** 0059_photo-bikes.jpg
 #+CAPTION: 0059_photo-bikes.jpg
-#+NAME: wallpapers/real/0059_photo-bikes.jpg
-[[./wallpapers/real/0059_photo-bikes.jpg]]
+#+NAME: 0059_photo-bikes.jpg
+[[./0059_photo-bikes.jpg]]
 
 ** 0082_lego-starwars-bike-chase.jpg
 #+CAPTION: 0082_lego-starwars-bike-chase.jpg
-#+NAME: wallpapers/real/0082_lego-starwars-bike-chase.jpg
-[[./wallpapers/real/0082_lego-starwars-bike-chase.jpg]]
+#+NAME: 0082_lego-starwars-bike-chase.jpg
+[[./0082_lego-starwars-bike-chase.jpg]]
 
 ** 0083_black-snow-winter-night.png
 #+CAPTION: 0083_black-snow-winter-night.png
-#+NAME: wallpapers/real/0083_black-snow-winter-night.png
-[[./wallpapers/real/0083_black-snow-winter-night.png]]
+#+NAME: 0083_black-snow-winter-night.png
+[[./0083_black-snow-winter-night.png]]
 
 ** 0089_tree-leaves-nature.jpg
 #+CAPTION: 0089_tree-leaves-nature.jpg
-#+NAME: wallpapers/real/0089_tree-leaves-nature.jpg
-[[./wallpapers/real/0089_tree-leaves-nature.jpg]]
+#+NAME: 0089_tree-leaves-nature.jpg
+[[./0089_tree-leaves-nature.jpg]]
 
 ** 0092_nature-landscape-mountain.jpg
 #+CAPTION: 0092_nature-landscape-mountain.jpg
-#+NAME: wallpapers/real/0092_nature-landscape-mountain.jpg
-[[./wallpapers/real/0092_nature-landscape-mountain.jpg]]
+#+NAME: 0092_nature-landscape-mountain.jpg
+[[./0092_nature-landscape-mountain.jpg]]
 
 ** 0101_dusk-night-mountain-dark.jpg
 #+CAPTION: 0101_dusk-night-mountain-dark.jpg
-#+NAME: wallpapers/real/0101_dusk-night-mountain-dark.jpg
-[[./wallpapers/real/0101_dusk-night-mountain-dark.jpg]]
+#+NAME: 0101_dusk-night-mountain-dark.jpg
+[[./0101_dusk-night-mountain-dark.jpg]]
 
 ** 0107_photo-flower-nature.jpg
 #+CAPTION: 0107_photo-flower-nature.jpg
-#+NAME: wallpapers/real/0107_photo-flower-nature.jpg
-[[./wallpapers/real/0107_photo-flower-nature.jpg]]
+#+NAME: 0107_photo-flower-nature.jpg
+[[./0107_photo-flower-nature.jpg]]
 
 ** 0112_green-aesthetic-leaves-nature.png
 #+CAPTION: 0112_green-aesthetic-leaves-nature.png
-#+NAME: wallpapers/real/0112_green-aesthetic-leaves-nature.png
-[[./wallpapers/real/0112_green-aesthetic-leaves-nature.png]]
+#+NAME: 0112_green-aesthetic-leaves-nature.png
+[[./0112_green-aesthetic-leaves-nature.png]]
 
 ** 0121_photo-nature-flower.png
 #+CAPTION: 0121_photo-nature-flower.png
-#+NAME: wallpapers/real/0121_photo-nature-flower.png
-[[./wallpapers/real/0121_photo-nature-flower.png]]
+#+NAME: 0121_photo-nature-flower.png
+[[./0121_photo-nature-flower.png]]
 
 ** 0122_photo-cameras-canon.jpg
 #+CAPTION: 0122_photo-cameras-canon.jpg
-#+NAME: wallpapers/real/0122_photo-cameras-canon.jpg
-[[./wallpapers/real/0122_photo-cameras-canon.jpg]]
+#+NAME: 0122_photo-cameras-canon.jpg
+[[./0122_photo-cameras-canon.jpg]]
 
 ** 0132_metin-celep-photo-mountain.jpg
 #+CAPTION: 0132_metin-celep-photo-mountain.jpg
-#+NAME: wallpapers/real/0132_metin-celep-photo-mountain.jpg
-[[./wallpapers/real/0132_metin-celep-photo-mountain.jpg]]
+#+NAME: 0132_metin-celep-photo-mountain.jpg
+[[./0132_metin-celep-photo-mountain.jpg]]
 
 ** 0135_nature-plants-bamboo-photo.jpg
 #+CAPTION: 0135_nature-plants-bamboo-photo.jpg
-#+NAME: wallpapers/real/0135_nature-plants-bamboo-photo.jpg
-[[./wallpapers/real/0135_nature-plants-bamboo-photo.jpg]]
+#+NAME: 0135_nature-plants-bamboo-photo.jpg
+[[./0135_nature-plants-bamboo-photo.jpg]]
 
 ** 0151_spring-waterfall-stone-fog.jpg
 #+CAPTION: 0151_spring-waterfall-stone-fog.jpg
-#+NAME: wallpapers/real/0151_spring-waterfall-stone-fog.jpg
-[[./wallpapers/real/0151_spring-waterfall-stone-fog.jpg]]
+#+NAME: 0151_spring-waterfall-stone-fog.jpg
+[[./0151_spring-waterfall-stone-fog.jpg]]
 
 ** 0152_city-landscape-traditional-building.jpg
 #+CAPTION: 0152_city-landscape-traditional-building.jpg
-#+NAME: wallpapers/real/0152_city-landscape-traditional-building.jpg
-[[./wallpapers/real/0152_city-landscape-traditional-building.jpg]]
+#+NAME: 0152_city-landscape-traditional-building.jpg
+[[./0152_city-landscape-traditional-building.jpg]]
 
 ** 0161_rail-sticks-train.jpg
 #+CAPTION: 0161_rail-sticks-train.jpg
-#+NAME: wallpapers/real/0161_rail-sticks-train.jpg
-[[./wallpapers/real/0161_rail-sticks-train.jpg]]
+#+NAME: 0161_rail-sticks-train.jpg
+[[./0161_rail-sticks-train.jpg]]
 
 ** 0173_photo-mountain-clouds-sunrise.jpg
 #+CAPTION: 0173_photo-mountain-clouds-sunrise.jpg
-#+NAME: wallpapers/real/0173_photo-mountain-clouds-sunrise.jpg
-[[./wallpapers/real/0173_photo-mountain-clouds-sunrise.jpg]]
+#+NAME: 0173_photo-mountain-clouds-sunrise.jpg
+[[./0173_photo-mountain-clouds-sunrise.jpg]]
 
 ** 0178_photo-mountain-lake-stars.jpg
 #+CAPTION: 0178_photo-mountain-lake-stars.jpg
-#+NAME: wallpapers/real/0178_photo-mountain-lake-stars.jpg
-[[./wallpapers/real/0178_photo-mountain-lake-stars.jpg]]
+#+NAME: 0178_photo-mountain-lake-stars.jpg
+[[./0178_photo-mountain-lake-stars.jpg]]
 
 ** 0181_photo-mountain-snow-forest.jpg
 #+CAPTION: 0181_photo-mountain-snow-forest.jpg
-#+NAME: wallpapers/real/0181_photo-mountain-snow-forest.jpg
-[[./wallpapers/real/0181_photo-mountain-snow-forest.jpg]]
+#+NAME: 0181_photo-mountain-snow-forest.jpg
+[[./0181_photo-mountain-snow-forest.jpg]]
 
 ** 0186_waterfall-forest-photo.jpg
 #+CAPTION: 0186_waterfall-forest-photo.jpg
-#+NAME: wallpapers/real/0186_waterfall-forest-photo.jpg
-[[./wallpapers/real/0186_waterfall-forest-photo.jpg]]
+#+NAME: 0186_waterfall-forest-photo.jpg
+[[./0186_waterfall-forest-photo.jpg]]
 
 ** 0189_photo-mountain-black.png
 #+CAPTION: 0189_photo-mountain-black.png
-#+NAME: wallpapers/real/0189_photo-mountain-black.png
-[[./wallpapers/real/0189_photo-mountain-black.png]]
+#+NAME: 0189_photo-mountain-black.png
+[[./0189_photo-mountain-black.png]]
 
 ** 0210_hills-mist-house-bridge.jpg
 #+CAPTION: 0210_hills-mist-house-bridge.jpg
-#+NAME: wallpapers/real/0210_hills-mist-house-bridge.jpg
-[[./wallpapers/real/0210_hills-mist-house-bridge.jpg]]
+#+NAME: 0210_hills-mist-house-bridge.jpg
+[[./0210_hills-mist-house-bridge.jpg]]
 
 ** 0235_tree-red-lake-rainbow.png
 #+CAPTION: 0235_tree-red-lake-rainbow.png
-#+NAME: wallpapers/real/0235_tree-red-lake-rainbow.png
-[[./wallpapers/real/0235_tree-red-lake-rainbow.png]]
+#+NAME: 0235_tree-red-lake-rainbow.png
+[[./0235_tree-red-lake-rainbow.png]]
 
 ** 0285_flowers_pastel_blur_zen.jpg
 #+CAPTION: 0285_flowers_pastel_blur_zen.jpg
-#+NAME: wallpapers/real/0285_flowers_pastel_blur_zen.jpg
-[[./wallpapers/real/0285_flowers_pastel_blur_zen.jpg]]
+#+NAME: 0285_flowers_pastel_blur_zen.jpg
+[[./0285_flowers_pastel_blur_zen.jpg]]
 
 ** 0348_city-train-buildings-lights.jpg
 #+CAPTION: 0348_city-train-buildings-lights.jpg
-#+NAME: wallpapers/real/0348_city-train-buildings-lights.jpg
-[[./wallpapers/real/0348_city-train-buildings-lights.jpg]]
+#+NAME: 0348_city-train-buildings-lights.jpg
+[[./0348_city-train-buildings-lights.jpg]]
 
 ** 0359_grass-effect-bloom-nature.jpg
 #+CAPTION: 0359_grass-effect-bloom-nature.jpg
-#+NAME: wallpapers/real/0359_grass-effect-bloom-nature.jpg
-[[./wallpapers/real/0359_grass-effect-bloom-nature.jpg]]
+#+NAME: 0359_grass-effect-bloom-nature.jpg
+[[./0359_grass-effect-bloom-nature.jpg]]
 
 ** 0363_new-york-rooftop-neon-sign.jpg
 #+CAPTION: 0363_new-york-rooftop-neon-sign.jpg
-#+NAME: wallpapers/real/0363_new-york-rooftop-neon-sign.jpg
-[[./wallpapers/real/0363_new-york-rooftop-neon-sign.jpg]]
+#+NAME: 0363_new-york-rooftop-neon-sign.jpg
+[[./0363_new-york-rooftop-neon-sign.jpg]]
 
 ** 0364_night-lights-road-bloom.jpg
 #+CAPTION: 0364_night-lights-road-bloom.jpg
-#+NAME: wallpapers/real/0364_night-lights-road-bloom.jpg
-[[./wallpapers/real/0364_night-lights-road-bloom.jpg]]
+#+NAME: 0364_night-lights-road-bloom.jpg
+[[./0364_night-lights-road-bloom.jpg]]
 
 ** 0375_sunrise-city-skyscrapers-mountains.png
 #+CAPTION: 0375_sunrise-city-skyscrapers-mountains.png
-#+NAME: wallpapers/real/0375_sunrise-city-skyscrapers-mountains.png
-[[./wallpapers/real/0375_sunrise-city-skyscrapers-mountains.png]]
+#+NAME: 0375_sunrise-city-skyscrapers-mountains.png
+[[./0375_sunrise-city-skyscrapers-mountains.png]]
 
 ** 0376_mountain-dreamscape.jpg
 #+CAPTION: 0376_mountain-dreamscape.jpg
-#+NAME: wallpapers/real/0376_mountain-dreamscape.jpg
-[[./wallpapers/real/0376_mountain-dreamscape.jpg]]
+#+NAME: 0376_mountain-dreamscape.jpg
+[[./0376_mountain-dreamscape.jpg]]
 
 ** 0377_spectacular-evening-sky-illustration.jpg
 #+CAPTION: 0377_spectacular-evening-sky-illustration.jpg
-#+NAME: wallpapers/real/0377_spectacular-evening-sky-illustration.jpg
-[[./wallpapers/real/0377_spectacular-evening-sky-illustration.jpg]]
+#+NAME: 0377_spectacular-evening-sky-illustration.jpg
+[[./0377_spectacular-evening-sky-illustration.jpg]]
 
 ** README.org
 #+CAPTION: README.org
-#+NAME: wallpapers/real/README.org
-[[./wallpapers/real/README.org]]
+#+NAME: README.org
+[[./README.org]]
 

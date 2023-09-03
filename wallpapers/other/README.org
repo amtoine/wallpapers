@@ -1,650 +1,650 @@
 ** 0001_city-grey-paint.jpg
 #+CAPTION: 0001_city-grey-paint.jpg
-#+NAME: wallpapers/other/0001_city-grey-paint.jpg
-[[./wallpapers/other/0001_city-grey-paint.jpg]]
+#+NAME: 0001_city-grey-paint.jpg
+[[./0001_city-grey-paint.jpg]]
 
 ** 0002_fir-valley-drawing-minimal.jpg
 #+CAPTION: 0002_fir-valley-drawing-minimal.jpg
-#+NAME: wallpapers/other/0002_fir-valley-drawing-minimal.jpg
-[[./wallpapers/other/0002_fir-valley-drawing-minimal.jpg]]
+#+NAME: 0002_fir-valley-drawing-minimal.jpg
+[[./0002_fir-valley-drawing-minimal.jpg]]
 
 ** 0004_mountain-birds-drawing-minimal.jpg
 #+CAPTION: 0004_mountain-birds-drawing-minimal.jpg
-#+NAME: wallpapers/other/0004_mountain-birds-drawing-minimal.jpg
-[[./wallpapers/other/0004_mountain-birds-drawing-minimal.jpg]]
+#+NAME: 0004_mountain-birds-drawing-minimal.jpg
+[[./0004_mountain-birds-drawing-minimal.jpg]]
 
 ** 0008_night-city-blur-cars.jpg
 #+CAPTION: 0008_night-city-blur-cars.jpg
-#+NAME: wallpapers/other/0008_night-city-blur-cars.jpg
-[[./wallpapers/other/0008_night-city-blur-cars.jpg]]
+#+NAME: 0008_night-city-blur-cars.jpg
+[[./0008_night-city-blur-cars.jpg]]
 
 ** 0010_paper-city-minimal-art.jpg
 #+CAPTION: 0010_paper-city-minimal-art.jpg
-#+NAME: wallpapers/other/0010_paper-city-minimal-art.jpg
-[[./wallpapers/other/0010_paper-city-minimal-art.jpg]]
+#+NAME: 0010_paper-city-minimal-art.jpg
+[[./0010_paper-city-minimal-art.jpg]]
 
 ** 0011_vibrant-city-drawing-minimal.jpg
 #+CAPTION: 0011_vibrant-city-drawing-minimal.jpg
-#+NAME: wallpapers/other/0011_vibrant-city-drawing-minimal.jpg
-[[./wallpapers/other/0011_vibrant-city-drawing-minimal.jpg]]
+#+NAME: 0011_vibrant-city-drawing-minimal.jpg
+[[./0011_vibrant-city-drawing-minimal.jpg]]
 
 ** 0012_vibrant-couple-paint.jpg
 #+CAPTION: 0012_vibrant-couple-paint.jpg
-#+NAME: wallpapers/other/0012_vibrant-couple-paint.jpg
-[[./wallpapers/other/0012_vibrant-couple-paint.jpg]]
+#+NAME: 0012_vibrant-couple-paint.jpg
+[[./0012_vibrant-couple-paint.jpg]]
 
 ** 0013_vibrant-sunset-tree.jpg
 #+CAPTION: 0013_vibrant-sunset-tree.jpg
-#+NAME: wallpapers/other/0013_vibrant-sunset-tree.jpg
-[[./wallpapers/other/0013_vibrant-sunset-tree.jpg]]
+#+NAME: 0013_vibrant-sunset-tree.jpg
+[[./0013_vibrant-sunset-tree.jpg]]
 
 ** 0018_sunset-deer-vibrant.jpg
 #+CAPTION: 0018_sunset-deer-vibrant.jpg
-#+NAME: wallpapers/other/0018_sunset-deer-vibrant.jpg
-[[./wallpapers/other/0018_sunset-deer-vibrant.jpg]]
+#+NAME: 0018_sunset-deer-vibrant.jpg
+[[./0018_sunset-deer-vibrant.jpg]]
 
 ** 0020_rocket-launch-minimalist.jpg
 #+CAPTION: 0020_rocket-launch-minimalist.jpg
-#+NAME: wallpapers/other/0020_rocket-launch-minimalist.jpg
-[[./wallpapers/other/0020_rocket-launch-minimalist.jpg]]
+#+NAME: 0020_rocket-launch-minimalist.jpg
+[[./0020_rocket-launch-minimalist.jpg]]
 
 ** 0024_space-astronaut-stars.png
 #+CAPTION: 0024_space-astronaut-stars.png
-#+NAME: wallpapers/other/0024_space-astronaut-stars.png
-[[./wallpapers/other/0024_space-astronaut-stars.png]]
+#+NAME: 0024_space-astronaut-stars.png
+[[./0024_space-astronaut-stars.png]]
 
 ** 0025_nature-mountain-bords-forest.jpg
 #+CAPTION: 0025_nature-mountain-bords-forest.jpg
-#+NAME: wallpapers/other/0025_nature-mountain-bords-forest.jpg
-[[./wallpapers/other/0025_nature-mountain-bords-forest.jpg]]
+#+NAME: 0025_nature-mountain-bords-forest.jpg
+[[./0025_nature-mountain-bords-forest.jpg]]
 
 ** 0027_night-city-lights-sunset.png
 #+CAPTION: 0027_night-city-lights-sunset.png
-#+NAME: wallpapers/other/0027_night-city-lights-sunset.png
-[[./wallpapers/other/0027_night-city-lights-sunset.png]]
+#+NAME: 0027_night-city-lights-sunset.png
+[[./0027_night-city-lights-sunset.png]]
 
 ** 0029_minimalist-abstract-woman-tree.png
 #+CAPTION: 0029_minimalist-abstract-woman-tree.png
-#+NAME: wallpapers/other/0029_minimalist-abstract-woman-tree.png
-[[./wallpapers/other/0029_minimalist-abstract-woman-tree.png]]
+#+NAME: 0029_minimalist-abstract-woman-tree.png
+[[./0029_minimalist-abstract-woman-tree.png]]
 
 ** 0031_colors-pink-city.png
 #+CAPTION: 0031_colors-pink-city.png
-#+NAME: wallpapers/other/0031_colors-pink-city.png
-[[./wallpapers/other/0031_colors-pink-city.png]]
+#+NAME: 0031_colors-pink-city.png
+[[./0031_colors-pink-city.png]]
 
 ** 0032_car-inside-wheel.jpg
 #+CAPTION: 0032_car-inside-wheel.jpg
-#+NAME: wallpapers/other/0032_car-inside-wheel.jpg
-[[./wallpapers/other/0032_car-inside-wheel.jpg]]
+#+NAME: 0032_car-inside-wheel.jpg
+[[./0032_car-inside-wheel.jpg]]
 
 ** 0033_lovely-spacecraft-planet-discovery.jpg
 #+CAPTION: 0033_lovely-spacecraft-planet-discovery.jpg
-#+NAME: wallpapers/other/0033_lovely-spacecraft-planet-discovery.jpg
-[[./wallpapers/other/0033_lovely-spacecraft-planet-discovery.jpg]]
+#+NAME: 0033_lovely-spacecraft-planet-discovery.jpg
+[[./0033_lovely-spacecraft-planet-discovery.jpg]]
 
 ** 0034_vibrant-outpost-waterfall-moon.png
 #+CAPTION: 0034_vibrant-outpost-waterfall-moon.png
-#+NAME: wallpapers/other/0034_vibrant-outpost-waterfall-moon.png
-[[./wallpapers/other/0034_vibrant-outpost-waterfall-moon.png]]
+#+NAME: 0034_vibrant-outpost-waterfall-moon.png
+[[./0034_vibrant-outpost-waterfall-moon.png]]
 
 ** 0036_nature-snow-owl-forest.png
 #+CAPTION: 0036_nature-snow-owl-forest.png
-#+NAME: wallpapers/other/0036_nature-snow-owl-forest.png
-[[./wallpapers/other/0036_nature-snow-owl-forest.png]]
+#+NAME: 0036_nature-snow-owl-forest.png
+[[./0036_nature-snow-owl-forest.png]]
 
 ** 0046_fantasy-mountain-outpost-man.png
 #+CAPTION: 0046_fantasy-mountain-outpost-man.png
-#+NAME: wallpapers/other/0046_fantasy-mountain-outpost-man.png
-[[./wallpapers/other/0046_fantasy-mountain-outpost-man.png]]
+#+NAME: 0046_fantasy-mountain-outpost-man.png
+[[./0046_fantasy-mountain-outpost-man.png]]
 
 ** 0068_desktop-vintage-technology-sunrays.jpg
 #+CAPTION: 0068_desktop-vintage-technology-sunrays.jpg
-#+NAME: wallpapers/other/0068_desktop-vintage-technology-sunrays.jpg
-[[./wallpapers/other/0068_desktop-vintage-technology-sunrays.jpg]]
+#+NAME: 0068_desktop-vintage-technology-sunrays.jpg
+[[./0068_desktop-vintage-technology-sunrays.jpg]]
 
 ** 0070_mountain-dusk-fire-forest.png
 #+CAPTION: 0070_mountain-dusk-fire-forest.png
-#+NAME: wallpapers/other/0070_mountain-dusk-fire-forest.png
-[[./wallpapers/other/0070_mountain-dusk-fire-forest.png]]
+#+NAME: 0070_mountain-dusk-fire-forest.png
+[[./0070_mountain-dusk-fire-forest.png]]
 
 ** 0071_vibrant-city.png
 #+CAPTION: 0071_vibrant-city.png
-#+NAME: wallpapers/other/0071_vibrant-city.png
-[[./wallpapers/other/0071_vibrant-city.png]]
+#+NAME: 0071_vibrant-city.png
+[[./0071_vibrant-city.png]]
 
 ** 0072_spacecraft-night-crash-firepit.jpg
 #+CAPTION: 0072_spacecraft-night-crash-firepit.jpg
-#+NAME: wallpapers/other/0072_spacecraft-night-crash-firepit.jpg
-[[./wallpapers/other/0072_spacecraft-night-crash-firepit.jpg]]
+#+NAME: 0072_spacecraft-night-crash-firepit.jpg
+[[./0072_spacecraft-night-crash-firepit.jpg]]
 
 ** 0073_nature-sunset-river-trees.png
 #+CAPTION: 0073_nature-sunset-river-trees.png
-#+NAME: wallpapers/other/0073_nature-sunset-river-trees.png
-[[./wallpapers/other/0073_nature-sunset-river-trees.png]]
+#+NAME: 0073_nature-sunset-river-trees.png
+[[./0073_nature-sunset-river-trees.png]]
 
 ** 0074_room-bed-chill-sunlight.png
 #+CAPTION: 0074_room-bed-chill-sunlight.png
-#+NAME: wallpapers/other/0074_room-bed-chill-sunlight.png
-[[./wallpapers/other/0074_room-bed-chill-sunlight.png]]
+#+NAME: 0074_room-bed-chill-sunlight.png
+[[./0074_room-bed-chill-sunlight.png]]
 
 ** 0078_audio-bunny-purple.png
 #+CAPTION: 0078_audio-bunny-purple.png
-#+NAME: wallpapers/other/0078_audio-bunny-purple.png
-[[./wallpapers/other/0078_audio-bunny-purple.png]]
+#+NAME: 0078_audio-bunny-purple.png
+[[./0078_audio-bunny-purple.png]]
 
 ** 0079_livingroom-clouds-sky.jpg
 #+CAPTION: 0079_livingroom-clouds-sky.jpg
-#+NAME: wallpapers/other/0079_livingroom-clouds-sky.jpg
-[[./wallpapers/other/0079_livingroom-clouds-sky.jpg]]
+#+NAME: 0079_livingroom-clouds-sky.jpg
+[[./0079_livingroom-clouds-sky.jpg]]
 
 ** 0081_city-blur-skyscrapper.png
 #+CAPTION: 0081_city-blur-skyscrapper.png
-#+NAME: wallpapers/other/0081_city-blur-skyscrapper.png
-[[./wallpapers/other/0081_city-blur-skyscrapper.png]]
+#+NAME: 0081_city-blur-skyscrapper.png
+[[./0081_city-blur-skyscrapper.png]]
 
 ** 0086_fantasy-tree-blossom-magic.png
 #+CAPTION: 0086_fantasy-tree-blossom-magic.png
-#+NAME: wallpapers/other/0086_fantasy-tree-blossom-magic.png
-[[./wallpapers/other/0086_fantasy-tree-blossom-magic.png]]
+#+NAME: 0086_fantasy-tree-blossom-magic.png
+[[./0086_fantasy-tree-blossom-magic.png]]
 
 ** 0096_sunset-vibrant-minimalist.jpg
 #+CAPTION: 0096_sunset-vibrant-minimalist.jpg
-#+NAME: wallpapers/other/0096_sunset-vibrant-minimalist.jpg
-[[./wallpapers/other/0096_sunset-vibrant-minimalist.jpg]]
+#+NAME: 0096_sunset-vibrant-minimalist.jpg
+[[./0096_sunset-vibrant-minimalist.jpg]]
 
 ** 0103_fantasy-landscape.jpg
 #+CAPTION: 0103_fantasy-landscape.jpg
-#+NAME: wallpapers/other/0103_fantasy-landscape.jpg
-[[./wallpapers/other/0103_fantasy-landscape.jpg]]
+#+NAME: 0103_fantasy-landscape.jpg
+[[./0103_fantasy-landscape.jpg]]
 
 ** 0105_strange-house-night-secret.jpg
 #+CAPTION: 0105_strange-house-night-secret.jpg
-#+NAME: wallpapers/other/0105_strange-house-night-secret.jpg
-[[./wallpapers/other/0105_strange-house-night-secret.jpg]]
+#+NAME: 0105_strange-house-night-secret.jpg
+[[./0105_strange-house-night-secret.jpg]]
 
 ** 0106_night-waterfall-forest-buses.jpg
 #+CAPTION: 0106_night-waterfall-forest-buses.jpg
-#+NAME: wallpapers/other/0106_night-waterfall-forest-buses.jpg
-[[./wallpapers/other/0106_night-waterfall-forest-buses.jpg]]
+#+NAME: 0106_night-waterfall-forest-buses.jpg
+[[./0106_night-waterfall-forest-buses.jpg]]
 
 ** 0116_hongkong-minimal-city-sunset.jpg
 #+CAPTION: 0116_hongkong-minimal-city-sunset.jpg
-#+NAME: wallpapers/other/0116_hongkong-minimal-city-sunset.jpg
-[[./wallpapers/other/0116_hongkong-minimal-city-sunset.jpg]]
+#+NAME: 0116_hongkong-minimal-city-sunset.jpg
+[[./0116_hongkong-minimal-city-sunset.jpg]]
 
 ** 0117_minimalist-abstract-woman-tree.png
 #+CAPTION: 0117_minimalist-abstract-woman-tree.png
-#+NAME: wallpapers/other/0117_minimalist-abstract-woman-tree.png
-[[./wallpapers/other/0117_minimalist-abstract-woman-tree.png]]
+#+NAME: 0117_minimalist-abstract-woman-tree.png
+[[./0117_minimalist-abstract-woman-tree.png]]
 
 ** 0118_astronaut-eye-tentacle-colors.jpeg
 #+CAPTION: 0118_astronaut-eye-tentacle-colors.jpeg
-#+NAME: wallpapers/other/0118_astronaut-eye-tentacle-colors.jpeg
-[[./wallpapers/other/0118_astronaut-eye-tentacle-colors.jpeg]]
+#+NAME: 0118_astronaut-eye-tentacle-colors.jpeg
+[[./0118_astronaut-eye-tentacle-colors.jpeg]]
 
 ** 0123_ismail-inceoglu-chaos-invoked.png
 #+CAPTION: 0123_ismail-inceoglu-chaos-invoked.png
-#+NAME: wallpapers/other/0123_ismail-inceoglu-chaos-invoked.png
-[[./wallpapers/other/0123_ismail-inceoglu-chaos-invoked.png]]
+#+NAME: 0123_ismail-inceoglu-chaos-invoked.png
+[[./0123_ismail-inceoglu-chaos-invoked.png]]
 
 ** 0125_minimalist-city-night-lights.png
 #+CAPTION: 0125_minimalist-city-night-lights.png
-#+NAME: wallpapers/other/0125_minimalist-city-night-lights.png
-[[./wallpapers/other/0125_minimalist-city-night-lights.png]]
+#+NAME: 0125_minimalist-city-night-lights.png
+[[./0125_minimalist-city-night-lights.png]]
 
 ** 0128_lamp-electricity-plug.jpg
 #+CAPTION: 0128_lamp-electricity-plug.jpg
-#+NAME: wallpapers/other/0128_lamp-electricity-plug.jpg
-[[./wallpapers/other/0128_lamp-electricity-plug.jpg]]
+#+NAME: 0128_lamp-electricity-plug.jpg
+[[./0128_lamp-electricity-plug.jpg]]
 
 ** 0129_spiderman.jpg
 #+CAPTION: 0129_spiderman.jpg
-#+NAME: wallpapers/other/0129_spiderman.jpg
-[[./wallpapers/other/0129_spiderman.jpg]]
+#+NAME: 0129_spiderman.jpg
+[[./0129_spiderman.jpg]]
 
 ** 0131_man-street-night-mist.jpg
 #+CAPTION: 0131_man-street-night-mist.jpg
-#+NAME: wallpapers/other/0131_man-street-night-mist.jpg
-[[./wallpapers/other/0131_man-street-night-mist.jpg]]
+#+NAME: 0131_man-street-night-mist.jpg
+[[./0131_man-street-night-mist.jpg]]
 
 ** 0133_minimal-mountain-sun.jpg
 #+CAPTION: 0133_minimal-mountain-sun.jpg
-#+NAME: wallpapers/other/0133_minimal-mountain-sun.jpg
-[[./wallpapers/other/0133_minimal-mountain-sun.jpg]]
+#+NAME: 0133_minimal-mountain-sun.jpg
+[[./0133_minimal-mountain-sun.jpg]]
 
 ** 0134_minimal-sunset.jpg
 #+CAPTION: 0134_minimal-sunset.jpg
-#+NAME: wallpapers/other/0134_minimal-sunset.jpg
-[[./wallpapers/other/0134_minimal-sunset.jpg]]
+#+NAME: 0134_minimal-sunset.jpg
+[[./0134_minimal-sunset.jpg]]
 
 ** 0137_outrun-skyscape-moon.jpg
 #+CAPTION: 0137_outrun-skyscape-moon.jpg
-#+NAME: wallpapers/other/0137_outrun-skyscape-moon.jpg
-[[./wallpapers/other/0137_outrun-skyscape-moon.jpg]]
+#+NAME: 0137_outrun-skyscape-moon.jpg
+[[./0137_outrun-skyscape-moon.jpg]]
 
 ** 0138_paint-woman-trance.png
 #+CAPTION: 0138_paint-woman-trance.png
-#+NAME: wallpapers/other/0138_paint-woman-trance.png
-[[./wallpapers/other/0138_paint-woman-trance.png]]
+#+NAME: 0138_paint-woman-trance.png
+[[./0138_paint-woman-trance.png]]
 
 ** 0140_photo-aloe-pot.jpeg
 #+CAPTION: 0140_photo-aloe-pot.jpeg
-#+NAME: wallpapers/other/0140_photo-aloe-pot.jpeg
-[[./wallpapers/other/0140_photo-aloe-pot.jpeg]]
+#+NAME: 0140_photo-aloe-pot.jpeg
+[[./0140_photo-aloe-pot.jpeg]]
 
 ** 0144_redmoon.jpg
 #+CAPTION: 0144_redmoon.jpg
-#+NAME: wallpapers/other/0144_redmoon.jpg
-[[./wallpapers/other/0144_redmoon.jpg]]
+#+NAME: 0144_redmoon.jpg
+[[./0144_redmoon.jpg]]
 
 ** 0146_fantasy-forest-leaves.jpeg
 #+CAPTION: 0146_fantasy-forest-leaves.jpeg
-#+NAME: wallpapers/other/0146_fantasy-forest-leaves.jpeg
-[[./wallpapers/other/0146_fantasy-forest-leaves.jpeg]]
+#+NAME: 0146_fantasy-forest-leaves.jpeg
+[[./0146_fantasy-forest-leaves.jpeg]]
 
 ** 0147_spacecraft-harbour-vessel.png
 #+CAPTION: 0147_spacecraft-harbour-vessel.png
-#+NAME: wallpapers/other/0147_spacecraft-harbour-vessel.png
-[[./wallpapers/other/0147_spacecraft-harbour-vessel.png]]
+#+NAME: 0147_spacecraft-harbour-vessel.png
+[[./0147_spacecraft-harbour-vessel.png]]
 
 ** 0148_simple-mountain-minimalism-black.png
 #+CAPTION: 0148_simple-mountain-minimalism-black.png
-#+NAME: wallpapers/other/0148_simple-mountain-minimalism-black.png
-[[./wallpapers/other/0148_simple-mountain-minimalism-black.png]]
+#+NAME: 0148_simple-mountain-minimalism-black.png
+[[./0148_simple-mountain-minimalism-black.png]]
 
 ** 0150_space-kurzgesagt-solar-system.png
 #+CAPTION: 0150_space-kurzgesagt-solar-system.png
-#+NAME: wallpapers/other/0150_space-kurzgesagt-solar-system.png
-[[./wallpapers/other/0150_space-kurzgesagt-solar-system.png]]
+#+NAME: 0150_space-kurzgesagt-solar-system.png
+[[./0150_space-kurzgesagt-solar-system.png]]
 
 ** 0153_sunset-mountain-lake.jpg
 #+CAPTION: 0153_sunset-mountain-lake.jpg
-#+NAME: wallpapers/other/0153_sunset-mountain-lake.jpg
-[[./wallpapers/other/0153_sunset-mountain-lake.jpg]]
+#+NAME: 0153_sunset-mountain-lake.jpg
+[[./0153_sunset-mountain-lake.jpg]]
 
 ** 0155_tools-benchmark-book.jpg
 #+CAPTION: 0155_tools-benchmark-book.jpg
-#+NAME: wallpapers/other/0155_tools-benchmark-book.jpg
-[[./wallpapers/other/0155_tools-benchmark-book.jpg]]
+#+NAME: 0155_tools-benchmark-book.jpg
+[[./0155_tools-benchmark-book.jpg]]
 
 ** 0156_car-shore-moon-night.png
 #+CAPTION: 0156_car-shore-moon-night.png
-#+NAME: wallpapers/other/0156_car-shore-moon-night.png
-[[./wallpapers/other/0156_car-shore-moon-night.png]]
+#+NAME: 0156_car-shore-moon-night.png
+[[./0156_car-shore-moon-night.png]]
 
 ** 0157_car-moon-night-mountain.png
 #+CAPTION: 0157_car-moon-night-mountain.png
-#+NAME: wallpapers/other/0157_car-moon-night-mountain.png
-[[./wallpapers/other/0157_car-moon-night-mountain.png]]
+#+NAME: 0157_car-moon-night-mountain.png
+[[./0157_car-moon-night-mountain.png]]
 
 ** 0158_astronaut-jelly-fish-light.jpeg
 #+CAPTION: 0158_astronaut-jelly-fish-light.jpeg
-#+NAME: wallpapers/other/0158_astronaut-jelly-fish-light.jpeg
-[[./wallpapers/other/0158_astronaut-jelly-fish-light.jpeg]]
+#+NAME: 0158_astronaut-jelly-fish-light.jpeg
+[[./0158_astronaut-jelly-fish-light.jpeg]]
 
 ** 0163_astronaut-rainbow-flowers.jpg
 #+CAPTION: 0163_astronaut-rainbow-flowers.jpg
-#+NAME: wallpapers/other/0163_astronaut-rainbow-flowers.jpg
-[[./wallpapers/other/0163_astronaut-rainbow-flowers.jpg]]
+#+NAME: 0163_astronaut-rainbow-flowers.jpg
+[[./0163_astronaut-rainbow-flowers.jpg]]
 
 ** 0164_minimalist-trees-birds-sunrise.jpg
 #+CAPTION: 0164_minimalist-trees-birds-sunrise.jpg
-#+NAME: wallpapers/other/0164_minimalist-trees-birds-sunrise.jpg
-[[./wallpapers/other/0164_minimalist-trees-birds-sunrise.jpg]]
+#+NAME: 0164_minimalist-trees-birds-sunrise.jpg
+[[./0164_minimalist-trees-birds-sunrise.jpg]]
 
 ** 0167_white-dragon-fantasy.jpg
 #+CAPTION: 0167_white-dragon-fantasy.jpg
-#+NAME: wallpapers/other/0167_white-dragon-fantasy.jpg
-[[./wallpapers/other/0167_white-dragon-fantasy.jpg]]
+#+NAME: 0167_white-dragon-fantasy.jpg
+[[./0167_white-dragon-fantasy.jpg]]
 
 ** 0169_man-blackhole-pit.jpg
 #+CAPTION: 0169_man-blackhole-pit.jpg
-#+NAME: wallpapers/other/0169_man-blackhole-pit.jpg
-[[./wallpapers/other/0169_man-blackhole-pit.jpg]]
+#+NAME: 0169_man-blackhole-pit.jpg
+[[./0169_man-blackhole-pit.jpg]]
 
 ** 0170_space-harbour-industrial.jpg
 #+CAPTION: 0170_space-harbour-industrial.jpg
-#+NAME: wallpapers/other/0170_space-harbour-industrial.jpg
-[[./wallpapers/other/0170_space-harbour-industrial.jpg]]
+#+NAME: 0170_space-harbour-industrial.jpg
+[[./0170_space-harbour-industrial.jpg]]
 
 ** 0171_photo-pilot-leaves.jpg
 #+CAPTION: 0171_photo-pilot-leaves.jpg
-#+NAME: wallpapers/other/0171_photo-pilot-leaves.jpg
-[[./wallpapers/other/0171_photo-pilot-leaves.jpg]]
+#+NAME: 0171_photo-pilot-leaves.jpg
+[[./0171_photo-pilot-leaves.jpg]]
 
 ** 0172_hills-couple-sunset-clouds.jpg
 #+CAPTION: 0172_hills-couple-sunset-clouds.jpg
-#+NAME: wallpapers/other/0172_hills-couple-sunset-clouds.jpg
-[[./wallpapers/other/0172_hills-couple-sunset-clouds.jpg]]
+#+NAME: 0172_hills-couple-sunset-clouds.jpg
+[[./0172_hills-couple-sunset-clouds.jpg]]
 
 ** 0174_scaphander-jelly-fish-blue.jpg
 #+CAPTION: 0174_scaphander-jelly-fish-blue.jpg
-#+NAME: wallpapers/other/0174_scaphander-jelly-fish-blue.jpg
-[[./wallpapers/other/0174_scaphander-jelly-fish-blue.jpg]]
+#+NAME: 0174_scaphander-jelly-fish-blue.jpg
+[[./0174_scaphander-jelly-fish-blue.jpg]]
 
 ** 0175_geometric-lion-warm-colors.png
 #+CAPTION: 0175_geometric-lion-warm-colors.png
-#+NAME: wallpapers/other/0175_geometric-lion-warm-colors.png
-[[./wallpapers/other/0175_geometric-lion-warm-colors.png]]
+#+NAME: 0175_geometric-lion-warm-colors.png
+[[./0175_geometric-lion-warm-colors.png]]
 
 ** 0176_wave-circle-minimalist.png
 #+CAPTION: 0176_wave-circle-minimalist.png
-#+NAME: wallpapers/other/0176_wave-circle-minimalist.png
-[[./wallpapers/other/0176_wave-circle-minimalist.png]]
+#+NAME: 0176_wave-circle-minimalist.png
+[[./0176_wave-circle-minimalist.png]]
 
 ** 0179_minimalist-person-city-sky.jpg
 #+CAPTION: 0179_minimalist-person-city-sky.jpg
-#+NAME: wallpapers/other/0179_minimalist-person-city-sky.jpg
-[[./wallpapers/other/0179_minimalist-person-city-sky.jpg]]
+#+NAME: 0179_minimalist-person-city-sky.jpg
+[[./0179_minimalist-person-city-sky.jpg]]
 
 ** 0180_city-japan-sushi-bridge.png
 #+CAPTION: 0180_city-japan-sushi-bridge.png
-#+NAME: wallpapers/other/0180_city-japan-sushi-bridge.png
-[[./wallpapers/other/0180_city-japan-sushi-bridge.png]]
+#+NAME: 0180_city-japan-sushi-bridge.png
+[[./0180_city-japan-sushi-bridge.png]]
 
 ** 0183_vibrant-neon-minimalist-owl.jpg
 #+CAPTION: 0183_vibrant-neon-minimalist-owl.jpg
-#+NAME: wallpapers/other/0183_vibrant-neon-minimalist-owl.jpg
-[[./wallpapers/other/0183_vibrant-neon-minimalist-owl.jpg]]
+#+NAME: 0183_vibrant-neon-minimalist-owl.jpg
+[[./0183_vibrant-neon-minimalist-owl.jpg]]
 
 ** 0184_pixel-traditional-building-hill.png
 #+CAPTION: 0184_pixel-traditional-building-hill.png
-#+NAME: wallpapers/other/0184_pixel-traditional-building-hill.png
-[[./wallpapers/other/0184_pixel-traditional-building-hill.png]]
+#+NAME: 0184_pixel-traditional-building-hill.png
+[[./0184_pixel-traditional-building-hill.png]]
 
 ** 0185_moon-sea-iceberg-minimalist.jpg
 #+CAPTION: 0185_moon-sea-iceberg-minimalist.jpg
-#+NAME: wallpapers/other/0185_moon-sea-iceberg-minimalist.jpg
-[[./wallpapers/other/0185_moon-sea-iceberg-minimalist.jpg]]
+#+NAME: 0185_moon-sea-iceberg-minimalist.jpg
+[[./0185_moon-sea-iceberg-minimalist.jpg]]
 
 ** 0188_outpost-forest-sunrise-bluesky.jpg
 #+CAPTION: 0188_outpost-forest-sunrise-bluesky.jpg
-#+NAME: wallpapers/other/0188_outpost-forest-sunrise-bluesky.jpg
-[[./wallpapers/other/0188_outpost-forest-sunrise-bluesky.jpg]]
+#+NAME: 0188_outpost-forest-sunrise-bluesky.jpg
+[[./0188_outpost-forest-sunrise-bluesky.jpg]]
 
 ** 0194_car-neon-tape-sunset.jpg
 #+CAPTION: 0194_car-neon-tape-sunset.jpg
-#+NAME: wallpapers/other/0194_car-neon-tape-sunset.jpg
-[[./wallpapers/other/0194_car-neon-tape-sunset.jpg]]
+#+NAME: 0194_car-neon-tape-sunset.jpg
+[[./0194_car-neon-tape-sunset.jpg]]
 
 ** 0196_fish-red-jar-sea.jpg
 #+CAPTION: 0196_fish-red-jar-sea.jpg
-#+NAME: wallpapers/other/0196_fish-red-jar-sea.jpg
-[[./wallpapers/other/0196_fish-red-jar-sea.jpg]]
+#+NAME: 0196_fish-red-jar-sea.jpg
+[[./0196_fish-red-jar-sea.jpg]]
 
 ** 0200_minimal-trees-sun-boy.png
 #+CAPTION: 0200_minimal-trees-sun-boy.png
-#+NAME: wallpapers/other/0200_minimal-trees-sun-boy.png
-[[./wallpapers/other/0200_minimal-trees-sun-boy.png]]
+#+NAME: 0200_minimal-trees-sun-boy.png
+[[./0200_minimal-trees-sun-boy.png]]
 
 ** 0216_bear-moon-minimalist-campfire.jpeg
 #+CAPTION: 0216_bear-moon-minimalist-campfire.jpeg
-#+NAME: wallpapers/other/0216_bear-moon-minimalist-campfire.jpeg
-[[./wallpapers/other/0216_bear-moon-minimalist-campfire.jpeg]]
+#+NAME: 0216_bear-moon-minimalist-campfire.jpeg
+[[./0216_bear-moon-minimalist-campfire.jpeg]]
 
 ** 0217_coffee-cat.png
 #+CAPTION: 0217_coffee-cat.png
-#+NAME: wallpapers/other/0217_coffee-cat.png
-[[./wallpapers/other/0217_coffee-cat.png]]
+#+NAME: 0217_coffee-cat.png
+[[./0217_coffee-cat.png]]
 
 ** 0219_lake-fisherman-mist-house.jpg
 #+CAPTION: 0219_lake-fisherman-mist-house.jpg
-#+NAME: wallpapers/other/0219_lake-fisherman-mist-house.jpg
-[[./wallpapers/other/0219_lake-fisherman-mist-house.jpg]]
+#+NAME: 0219_lake-fisherman-mist-house.jpg
+[[./0219_lake-fisherman-mist-house.jpg]]
 
 ** 0234_nord-minimalist-snow-mountain.png
 #+CAPTION: 0234_nord-minimalist-snow-mountain.png
-#+NAME: wallpapers/other/0234_nord-minimalist-snow-mountain.png
-[[./wallpapers/other/0234_nord-minimalist-snow-mountain.png]]
+#+NAME: 0234_nord-minimalist-snow-mountain.png
+[[./0234_nord-minimalist-snow-mountain.png]]
 
 ** 0238_clouds-mountain-hotairballoon-cartoon-moon.png
 #+CAPTION: 0238_clouds-mountain-hotairballoon-cartoon-moon.png
-#+NAME: wallpapers/other/0238_clouds-mountain-hotairballoon-cartoon-moon.png
-[[./wallpapers/other/0238_clouds-mountain-hotairballoon-cartoon-moon.png]]
+#+NAME: 0238_clouds-mountain-hotairballoon-cartoon-moon.png
+[[./0238_clouds-mountain-hotairballoon-cartoon-moon.png]]
 
 ** 0239_astronaut-planet-station-stars.jpg
 #+CAPTION: 0239_astronaut-planet-station-stars.jpg
-#+NAME: wallpapers/other/0239_astronaut-planet-station-stars.jpg
-[[./wallpapers/other/0239_astronaut-planet-station-stars.jpg]]
+#+NAME: 0239_astronaut-planet-station-stars.jpg
+[[./0239_astronaut-planet-station-stars.jpg]]
 
 ** 0240_hand-robot-sphere-reflexion.jpg
 #+CAPTION: 0240_hand-robot-sphere-reflexion.jpg
-#+NAME: wallpapers/other/0240_hand-robot-sphere-reflexion.jpg
-[[./wallpapers/other/0240_hand-robot-sphere-reflexion.jpg]]
+#+NAME: 0240_hand-robot-sphere-reflexion.jpg
+[[./0240_hand-robot-sphere-reflexion.jpg]]
 
 ** 0244_sunset-boat-minimalist-vibrant.png
 #+CAPTION: 0244_sunset-boat-minimalist-vibrant.png
-#+NAME: wallpapers/other/0244_sunset-boat-minimalist-vibrant.png
-[[./wallpapers/other/0244_sunset-boat-minimalist-vibrant.png]]
+#+NAME: 0244_sunset-boat-minimalist-vibrant.png
+[[./0244_sunset-boat-minimalist-vibrant.png]]
 
 ** 0245_forest-campsite-forest-sunrise.jpg
 #+CAPTION: 0245_forest-campsite-forest-sunrise.jpg
-#+NAME: wallpapers/other/0245_forest-campsite-forest-sunrise.jpg
-[[./wallpapers/other/0245_forest-campsite-forest-sunrise.jpg]]
+#+NAME: 0245_forest-campsite-forest-sunrise.jpg
+[[./0245_forest-campsite-forest-sunrise.jpg]]
 
 ** 0247_space-spoutnik-minimalist-spheres.png
 #+CAPTION: 0247_space-spoutnik-minimalist-spheres.png
-#+NAME: wallpapers/other/0247_space-spoutnik-minimalist-spheres.png
-[[./wallpapers/other/0247_space-spoutnik-minimalist-spheres.png]]
+#+NAME: 0247_space-spoutnik-minimalist-spheres.png
+[[./0247_space-spoutnik-minimalist-spheres.png]]
 
 ** 0248_dune-minimalist-worm-desert.jpg
 #+CAPTION: 0248_dune-minimalist-worm-desert.jpg
-#+NAME: wallpapers/other/0248_dune-minimalist-worm-desert.jpg
-[[./wallpapers/other/0248_dune-minimalist-worm-desert.jpg]]
+#+NAME: 0248_dune-minimalist-worm-desert.jpg
+[[./0248_dune-minimalist-worm-desert.jpg]]
 
 ** 0250_8-bit-day-minimalist.jpg
 #+CAPTION: 0250_8-bit-day-minimalist.jpg
-#+NAME: wallpapers/other/0250_8-bit-day-minimalist.jpg
-[[./wallpapers/other/0250_8-bit-day-minimalist.jpg]]
+#+NAME: 0250_8-bit-day-minimalist.jpg
+[[./0250_8-bit-day-minimalist.jpg]]
 
 ** 0252_abandonned-sign-purple-sky.png
 #+CAPTION: 0252_abandonned-sign-purple-sky.png
-#+NAME: wallpapers/other/0252_abandonned-sign-purple-sky.png
-[[./wallpapers/other/0252_abandonned-sign-purple-sky.png]]
+#+NAME: 0252_abandonned-sign-purple-sky.png
+[[./0252_abandonned-sign-purple-sky.png]]
 
 ** 0254_blur-city-night-crowd.png
 #+CAPTION: 0254_blur-city-night-crowd.png
-#+NAME: wallpapers/other/0254_blur-city-night-crowd.png
-[[./wallpapers/other/0254_blur-city-night-crowd.png]]
+#+NAME: 0254_blur-city-night-crowd.png
+[[./0254_blur-city-night-crowd.png]]
 
 ** 0259_minimal-planets-stars-space.png
 #+CAPTION: 0259_minimal-planets-stars-space.png
-#+NAME: wallpapers/other/0259_minimal-planets-stars-space.png
-[[./wallpapers/other/0259_minimal-planets-stars-space.png]]
+#+NAME: 0259_minimal-planets-stars-space.png
+[[./0259_minimal-planets-stars-space.png]]
 
 ** 0260_minimalist-pixelart-city-night.png
 #+CAPTION: 0260_minimalist-pixelart-city-night.png
-#+NAME: wallpapers/other/0260_minimalist-pixelart-city-night.png
-[[./wallpapers/other/0260_minimalist-pixelart-city-night.png]]
+#+NAME: 0260_minimalist-pixelart-city-night.png
+[[./0260_minimalist-pixelart-city-night.png]]
 
 ** 0261_pastel-painting-couple-landscape.png
 #+CAPTION: 0261_pastel-painting-couple-landscape.png
-#+NAME: wallpapers/other/0261_pastel-painting-couple-landscape.png
-[[./wallpapers/other/0261_pastel-painting-couple-landscape.png]]
+#+NAME: 0261_pastel-painting-couple-landscape.png
+[[./0261_pastel-painting-couple-landscape.png]]
 
 ** 0262_sunset-sky-pink-trees.png
 #+CAPTION: 0262_sunset-sky-pink-trees.png
-#+NAME: wallpapers/other/0262_sunset-sky-pink-trees.png
-[[./wallpapers/other/0262_sunset-sky-pink-trees.png]]
+#+NAME: 0262_sunset-sky-pink-trees.png
+[[./0262_sunset-sky-pink-trees.png]]
 
 ** 0263_anime-street-cat-night.png
 #+CAPTION: 0263_anime-street-cat-night.png
-#+NAME: wallpapers/other/0263_anime-street-cat-night.png
-[[./wallpapers/other/0263_anime-street-cat-night.png]]
+#+NAME: 0263_anime-street-cat-night.png
+[[./0263_anime-street-cat-night.png]]
 
 ** 0270_sky-grey-desert-men.png
 #+CAPTION: 0270_sky-grey-desert-men.png
-#+NAME: wallpapers/other/0270_sky-grey-desert-men.png
-[[./wallpapers/other/0270_sky-grey-desert-men.png]]
+#+NAME: 0270_sky-grey-desert-men.png
+[[./0270_sky-grey-desert-men.png]]
 
 ** 0278_street-anime-rain-dawn.png
 #+CAPTION: 0278_street-anime-rain-dawn.png
-#+NAME: wallpapers/other/0278_street-anime-rain-dawn.png
-[[./wallpapers/other/0278_street-anime-rain-dawn.png]]
+#+NAME: 0278_street-anime-rain-dawn.png
+[[./0278_street-anime-rain-dawn.png]]
 
 ** 0279_plane-vibrant-sunset-pink.jpg
 #+CAPTION: 0279_plane-vibrant-sunset-pink.jpg
-#+NAME: wallpapers/other/0279_plane-vibrant-sunset-pink.jpg
-[[./wallpapers/other/0279_plane-vibrant-sunset-pink.jpg]]
+#+NAME: 0279_plane-vibrant-sunset-pink.jpg
+[[./0279_plane-vibrant-sunset-pink.jpg]]
 
 ** 0280_minimal-solarized-evil-clock.png
 #+CAPTION: 0280_minimal-solarized-evil-clock.png
-#+NAME: wallpapers/other/0280_minimal-solarized-evil-clock.png
-[[./wallpapers/other/0280_minimal-solarized-evil-clock.png]]
+#+NAME: 0280_minimal-solarized-evil-clock.png
+[[./0280_minimal-solarized-evil-clock.png]]
 
 ** 0281_minimal-moon-plane-shadow.jpg
 #+CAPTION: 0281_minimal-moon-plane-shadow.jpg
-#+NAME: wallpapers/other/0281_minimal-moon-plane-shadow.jpg
-[[./wallpapers/other/0281_minimal-moon-plane-shadow.jpg]]
+#+NAME: 0281_minimal-moon-plane-shadow.jpg
+[[./0281_minimal-moon-plane-shadow.jpg]]
 
 ** 0282_paint-dark-flame-red.png
 #+CAPTION: 0282_paint-dark-flame-red.png
-#+NAME: wallpapers/other/0282_paint-dark-flame-red.png
-[[./wallpapers/other/0282_paint-dark-flame-red.png]]
+#+NAME: 0282_paint-dark-flame-red.png
+[[./0282_paint-dark-flame-red.png]]
 
 ** 0287_alena_aenami-bluehour-electric-tower.jpeg
 #+CAPTION: 0287_alena_aenami-bluehour-electric-tower.jpeg
-#+NAME: wallpapers/other/0287_alena_aenami-bluehour-electric-tower.jpeg
-[[./wallpapers/other/0287_alena_aenami-bluehour-electric-tower.jpeg]]
+#+NAME: 0287_alena_aenami-bluehour-electric-tower.jpeg
+[[./0287_alena_aenami-bluehour-electric-tower.jpeg]]
 
 ** 0288_alena_aenami-budapest-bridge-river.jpeg
 #+CAPTION: 0288_alena_aenami-budapest-bridge-river.jpeg
-#+NAME: wallpapers/other/0288_alena_aenami-budapest-bridge-river.jpeg
-[[./wallpapers/other/0288_alena_aenami-budapest-bridge-river.jpeg]]
+#+NAME: 0288_alena_aenami-budapest-bridge-river.jpeg
+[[./0288_alena_aenami-budapest-bridge-river.jpeg]]
 
 ** 0289_alena_aenami-cloud-shapes-house.jpeg
 #+CAPTION: 0289_alena_aenami-cloud-shapes-house.jpeg
-#+NAME: wallpapers/other/0289_alena_aenami-cloud-shapes-house.jpeg
-[[./wallpapers/other/0289_alena_aenami-cloud-shapes-house.jpeg]]
+#+NAME: 0289_alena_aenami-cloud-shapes-house.jpeg
+[[./0289_alena_aenami-cloud-shapes-house.jpeg]]
 
 ** 0290_alena_aenami-cold-city-cables.jpeg
 #+CAPTION: 0290_alena_aenami-cold-city-cables.jpeg
-#+NAME: wallpapers/other/0290_alena_aenami-cold-city-cables.jpeg
-[[./wallpapers/other/0290_alena_aenami-cold-city-cables.jpeg]]
+#+NAME: 0290_alena_aenami-cold-city-cables.jpeg
+[[./0290_alena_aenami-cold-city-cables.jpeg]]
 
 ** 0291_alena_aenami-crater-lake-birds.jpeg
 #+CAPTION: 0291_alena_aenami-crater-lake-birds.jpeg
-#+NAME: wallpapers/other/0291_alena_aenami-crater-lake-birds.jpeg
-[[./wallpapers/other/0291_alena_aenami-crater-lake-birds.jpeg]]
+#+NAME: 0291_alena_aenami-crater-lake-birds.jpeg
+[[./0291_alena_aenami-crater-lake-birds.jpeg]]
 
 ** 0296_girl-pool-plane-towel.jpg
 #+CAPTION: 0296_girl-pool-plane-towel.jpg
-#+NAME: wallpapers/other/0296_girl-pool-plane-towel.jpg
-[[./wallpapers/other/0296_girl-pool-plane-towel.jpg]]
+#+NAME: 0296_girl-pool-plane-towel.jpg
+[[./0296_girl-pool-plane-towel.jpg]]
 
 ** 0297_pastel-paint-cloud-girl.png
 #+CAPTION: 0297_pastel-paint-cloud-girl.png
-#+NAME: wallpapers/other/0297_pastel-paint-cloud-girl.png
-[[./wallpapers/other/0297_pastel-paint-cloud-girl.png]]
+#+NAME: 0297_pastel-paint-cloud-girl.png
+[[./0297_pastel-paint-cloud-girl.png]]
 
 ** 0298_sunset-minimalist-lake-trees.png
 #+CAPTION: 0298_sunset-minimalist-lake-trees.png
-#+NAME: wallpapers/other/0298_sunset-minimalist-lake-trees.png
-[[./wallpapers/other/0298_sunset-minimalist-lake-trees.png]]
+#+NAME: 0298_sunset-minimalist-lake-trees.png
+[[./0298_sunset-minimalist-lake-trees.png]]
 
 ** 0300_anime-girl-artistic-sunset.jpg
 #+CAPTION: 0300_anime-girl-artistic-sunset.jpg
-#+NAME: wallpapers/other/0300_anime-girl-artistic-sunset.jpg
-[[./wallpapers/other/0300_anime-girl-artistic-sunset.jpg]]
+#+NAME: 0300_anime-girl-artistic-sunset.jpg
+[[./0300_anime-girl-artistic-sunset.jpg]]
 
 ** 0303_night-stars-comet-minimalist.jpg
 #+CAPTION: 0303_night-stars-comet-minimalist.jpg
-#+NAME: wallpapers/other/0303_night-stars-comet-minimalist.jpg
-[[./wallpapers/other/0303_night-stars-comet-minimalist.jpg]]
+#+NAME: 0303_night-stars-comet-minimalist.jpg
+[[./0303_night-stars-comet-minimalist.jpg]]
 
 ** 0304_pink-minimalist-hot-air-balloon-forest.png
 #+CAPTION: 0304_pink-minimalist-hot-air-balloon-forest.png
-#+NAME: wallpapers/other/0304_pink-minimalist-hot-air-balloon-forest.png
-[[./wallpapers/other/0304_pink-minimalist-hot-air-balloon-forest.png]]
+#+NAME: 0304_pink-minimalist-hot-air-balloon-forest.png
+[[./0304_pink-minimalist-hot-air-balloon-forest.png]]
 
 ** 0305_truck-man-lake-minimalist.jpg
 #+CAPTION: 0305_truck-man-lake-minimalist.jpg
-#+NAME: wallpapers/other/0305_truck-man-lake-minimalist.jpg
-[[./wallpapers/other/0305_truck-man-lake-minimalist.jpg]]
+#+NAME: 0305_truck-man-lake-minimalist.jpg
+[[./0305_truck-man-lake-minimalist.jpg]]
 
 ** 0307_anime-beach-night-sea.jpg
 #+CAPTION: 0307_anime-beach-night-sea.jpg
-#+NAME: wallpapers/other/0307_anime-beach-night-sea.jpg
-[[./wallpapers/other/0307_anime-beach-night-sea.jpg]]
+#+NAME: 0307_anime-beach-night-sea.jpg
+[[./0307_anime-beach-night-sea.jpg]]
 
 ** 0350_desert-night-neon-ruins.jpg
 #+CAPTION: 0350_desert-night-neon-ruins.jpg
-#+NAME: wallpapers/other/0350_desert-night-neon-ruins.jpg
-[[./wallpapers/other/0350_desert-night-neon-ruins.jpg]]
+#+NAME: 0350_desert-night-neon-ruins.jpg
+[[./0350_desert-night-neon-ruins.jpg]]
 
 ** 0352_drawing-strawhat-dog-mountains.jpg
 #+CAPTION: 0352_drawing-strawhat-dog-mountains.jpg
-#+NAME: wallpapers/other/0352_drawing-strawhat-dog-mountains.jpg
-[[./wallpapers/other/0352_drawing-strawhat-dog-mountains.jpg]]
+#+NAME: 0352_drawing-strawhat-dog-mountains.jpg
+[[./0352_drawing-strawhat-dog-mountains.jpg]]
 
 ** 0353_forest-boat-mist-sunlight.jpg
 #+CAPTION: 0353_forest-boat-mist-sunlight.jpg
-#+NAME: wallpapers/other/0353_forest-boat-mist-sunlight.jpg
-[[./wallpapers/other/0353_forest-boat-mist-sunlight.jpg]]
+#+NAME: 0353_forest-boat-mist-sunlight.jpg
+[[./0353_forest-boat-mist-sunlight.jpg]]
 
 ** 0354_forest-mist-samurai-birds.jpg
 #+CAPTION: 0354_forest-mist-samurai-birds.jpg
-#+NAME: wallpapers/other/0354_forest-mist-samurai-birds.jpg
-[[./wallpapers/other/0354_forest-mist-samurai-birds.jpg]]
+#+NAME: 0354_forest-mist-samurai-birds.jpg
+[[./0354_forest-mist-samurai-birds.jpg]]
 
 ** 0360_gruvbox-japanese-bento-sushi.png
 #+CAPTION: 0360_gruvbox-japanese-bento-sushi.png
-#+NAME: wallpapers/other/0360_gruvbox-japanese-bento-sushi.png
-[[./wallpapers/other/0360_gruvbox-japanese-bento-sushi.png]]
+#+NAME: 0360_gruvbox-japanese-bento-sushi.png
+[[./0360_gruvbox-japanese-bento-sushi.png]]
 
 ** 0361_moon-samurai-mystical-ancient.png
 #+CAPTION: 0361_moon-samurai-mystical-ancient.png
-#+NAME: wallpapers/other/0361_moon-samurai-mystical-ancient.png
-[[./wallpapers/other/0361_moon-samurai-mystical-ancient.png]]
+#+NAME: 0361_moon-samurai-mystical-ancient.png
+[[./0361_moon-samurai-mystical-ancient.png]]
 
 ** 0365_paint-beach-sun-clouds.png
 #+CAPTION: 0365_paint-beach-sun-clouds.png
-#+NAME: wallpapers/other/0365_paint-beach-sun-clouds.png
-[[./wallpapers/other/0365_paint-beach-sun-clouds.png]]
+#+NAME: 0365_paint-beach-sun-clouds.png
+[[./0365_paint-beach-sun-clouds.png]]
 
 ** 0369_pixelart-knight-sword-flame.png
 #+CAPTION: 0369_pixelart-knight-sword-flame.png
-#+NAME: wallpapers/other/0369_pixelart-knight-sword-flame.png
-[[./wallpapers/other/0369_pixelart-knight-sword-flame.png]]
+#+NAME: 0369_pixelart-knight-sword-flame.png
+[[./0369_pixelart-knight-sword-flame.png]]
 
 ** 0370_pokemon-center-8bit-retro.png
 #+CAPTION: 0370_pokemon-center-8bit-retro.png
-#+NAME: wallpapers/other/0370_pokemon-center-8bit-retro.png
-[[./wallpapers/other/0370_pokemon-center-8bit-retro.png]]
+#+NAME: 0370_pokemon-center-8bit-retro.png
+[[./0370_pokemon-center-8bit-retro.png]]
 
 ** 0374_strips-blackwhite-body-legs.png
 #+CAPTION: 0374_strips-blackwhite-body-legs.png
-#+NAME: wallpapers/other/0374_strips-blackwhite-body-legs.png
-[[./wallpapers/other/0374_strips-blackwhite-body-legs.png]]
+#+NAME: 0374_strips-blackwhite-body-legs.png
+[[./0374_strips-blackwhite-body-legs.png]]
 
 ** 0376_sunrise-van-road-clouds.png
 #+CAPTION: 0376_sunrise-van-road-clouds.png
-#+NAME: wallpapers/other/0376_sunrise-van-road-clouds.png
-[[./wallpapers/other/0376_sunrise-van-road-clouds.png]]
+#+NAME: 0376_sunrise-van-road-clouds.png
+[[./0376_sunrise-van-road-clouds.png]]
 
 ** 0377_red-fantasy-landscape.jpg
 #+CAPTION: 0377_red-fantasy-landscape.jpg
-#+NAME: wallpapers/other/0377_red-fantasy-landscape.jpg
-[[./wallpapers/other/0377_red-fantasy-landscape.jpg]]
+#+NAME: 0377_red-fantasy-landscape.jpg
+[[./0377_red-fantasy-landscape.jpg]]
 
 ** 0378_blue-fantasy-landscape.jpg
 #+CAPTION: 0378_blue-fantasy-landscape.jpg
-#+NAME: wallpapers/other/0378_blue-fantasy-landscape.jpg
-[[./wallpapers/other/0378_blue-fantasy-landscape.jpg]]
+#+NAME: 0378_blue-fantasy-landscape.jpg
+[[./0378_blue-fantasy-landscape.jpg]]
 
 ** 0379_fantastic-clouds-and-a-house.jpg
 #+CAPTION: 0379_fantastic-clouds-and-a-house.jpg
-#+NAME: wallpapers/other/0379_fantastic-clouds-and-a-house.jpg
-[[./wallpapers/other/0379_fantastic-clouds-and-a-house.jpg]]
+#+NAME: 0379_fantastic-clouds-and-a-house.jpg
+[[./0379_fantastic-clouds-and-a-house.jpg]]
 
 ** 0380_blue-sunrise-on-mars-by-macrebisz.jpg
 #+CAPTION: 0380_blue-sunrise-on-mars-by-macrebisz.jpg
-#+NAME: wallpapers/other/0380_blue-sunrise-on-mars-by-macrebisz.jpg
-[[./wallpapers/other/0380_blue-sunrise-on-mars-by-macrebisz.jpg]]
+#+NAME: 0380_blue-sunrise-on-mars-by-macrebisz.jpg
+[[./0380_blue-sunrise-on-mars-by-macrebisz.jpg]]
 
 ** README.org
 #+CAPTION: README.org
-#+NAME: wallpapers/other/README.org
-[[./wallpapers/other/README.org]]
+#+NAME: README.org
+[[./README.org]]
 

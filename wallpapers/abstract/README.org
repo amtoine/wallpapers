@@ -1,125 +1,125 @@
 ** 0047_abstract-minimalist-lines.png
 #+CAPTION: 0047_abstract-minimalist-lines.png
-#+NAME: wallpapers/abstract/0047_abstract-minimalist-lines.png
-[[./wallpapers/abstract/0047_abstract-minimalist-lines.png]]
+#+NAME: 0047_abstract-minimalist-lines.png
+[[./0047_abstract-minimalist-lines.png]]
 
 ** 0049_abstract-minimalist-bird-lines.png
 #+CAPTION: 0049_abstract-minimalist-bird-lines.png
-#+NAME: wallpapers/abstract/0049_abstract-minimalist-bird-lines.png
-[[./wallpapers/abstract/0049_abstract-minimalist-bird-lines.png]]
+#+NAME: 0049_abstract-minimalist-bird-lines.png
+[[./0049_abstract-minimalist-bird-lines.png]]
 
 ** 0052_ghost-heart-black.png
 #+CAPTION: 0052_ghost-heart-black.png
-#+NAME: wallpapers/abstract/0052_ghost-heart-black.png
-[[./wallpapers/abstract/0052_ghost-heart-black.png]]
+#+NAME: 0052_ghost-heart-black.png
+[[./0052_ghost-heart-black.png]]
 
 ** 0053_ghosts-warm-colors-abstract.jpg
 #+CAPTION: 0053_ghosts-warm-colors-abstract.jpg
-#+NAME: wallpapers/abstract/0053_ghosts-warm-colors-abstract.jpg
-[[./wallpapers/abstract/0053_ghosts-warm-colors-abstract.jpg]]
+#+NAME: 0053_ghosts-warm-colors-abstract.jpg
+[[./0053_ghosts-warm-colors-abstract.jpg]]
 
 ** 0055_minimalist-3d-lines.png
 #+CAPTION: 0055_minimalist-3d-lines.png
-#+NAME: wallpapers/abstract/0055_minimalist-3d-lines.png
-[[./wallpapers/abstract/0055_minimalist-3d-lines.png]]
+#+NAME: 0055_minimalist-3d-lines.png
+[[./0055_minimalist-3d-lines.png]]
 
 ** 0057_abstract-dots.png
 #+CAPTION: 0057_abstract-dots.png
-#+NAME: wallpapers/abstract/0057_abstract-dots.png
-[[./wallpapers/abstract/0057_abstract-dots.png]]
+#+NAME: 0057_abstract-dots.png
+[[./0057_abstract-dots.png]]
 
 ** 0063_abstract-ligth-square.png
 #+CAPTION: 0063_abstract-ligth-square.png
-#+NAME: wallpapers/abstract/0063_abstract-ligth-square.png
-[[./wallpapers/abstract/0063_abstract-ligth-square.png]]
+#+NAME: 0063_abstract-ligth-square.png
+[[./0063_abstract-ligth-square.png]]
 
 ** 0064_abstract-dots-circle-sophomore.png
 #+CAPTION: 0064_abstract-dots-circle-sophomore.png
-#+NAME: wallpapers/abstract/0064_abstract-dots-circle-sophomore.png
-[[./wallpapers/abstract/0064_abstract-dots-circle-sophomore.png]]
+#+NAME: 0064_abstract-dots-circle-sophomore.png
+[[./0064_abstract-dots-circle-sophomore.png]]
 
 ** 0065_abstract-dots-minimalist-tri.png
 #+CAPTION: 0065_abstract-dots-minimalist-tri.png
-#+NAME: wallpapers/abstract/0065_abstract-dots-minimalist-tri.png
-[[./wallpapers/abstract/0065_abstract-dots-minimalist-tri.png]]
+#+NAME: 0065_abstract-dots-minimalist-tri.png
+[[./0065_abstract-dots-minimalist-tri.png]]
 
 ** 0084_abstract-minimalist-dots.png
 #+CAPTION: 0084_abstract-minimalist-dots.png
-#+NAME: wallpapers/abstract/0084_abstract-minimalist-dots.png
-[[./wallpapers/abstract/0084_abstract-minimalist-dots.png]]
+#+NAME: 0084_abstract-minimalist-dots.png
+[[./0084_abstract-minimalist-dots.png]]
 
 ** 0085_blue-cubes.jpg
 #+CAPTION: 0085_blue-cubes.jpg
-#+NAME: wallpapers/abstract/0085_blue-cubes.jpg
-[[./wallpapers/abstract/0085_blue-cubes.jpg]]
+#+NAME: 0085_blue-cubes.jpg
+[[./0085_blue-cubes.jpg]]
 
 ** 0087_circuit-abstract.png
 #+CAPTION: 0087_circuit-abstract.png
-#+NAME: wallpapers/abstract/0087_circuit-abstract.png
-[[./wallpapers/abstract/0087_circuit-abstract.png]]
+#+NAME: 0087_circuit-abstract.png
+[[./0087_circuit-abstract.png]]
 
 ** 0099_abstract-fractal.png
 #+CAPTION: 0099_abstract-fractal.png
-#+NAME: wallpapers/abstract/0099_abstract-fractal.png
-[[./wallpapers/abstract/0099_abstract-fractal.png]]
+#+NAME: 0099_abstract-fractal.png
+[[./0099_abstract-fractal.png]]
 
 ** 0109_abstract-fractal-dark.png
 #+CAPTION: 0109_abstract-fractal-dark.png
-#+NAME: wallpapers/abstract/0109_abstract-fractal-dark.png
-[[./wallpapers/abstract/0109_abstract-fractal-dark.png]]
+#+NAME: 0109_abstract-fractal-dark.png
+[[./0109_abstract-fractal-dark.png]]
 
 ** 0113_abstract-pokeball.png
 #+CAPTION: 0113_abstract-pokeball.png
-#+NAME: wallpapers/abstract/0113_abstract-pokeball.png
-[[./wallpapers/abstract/0113_abstract-pokeball.png]]
+#+NAME: 0113_abstract-pokeball.png
+[[./0113_abstract-pokeball.png]]
 
 ** 0120_ghost-heart-darker.png
 #+CAPTION: 0120_ghost-heart-darker.png
-#+NAME: wallpapers/abstract/0120_ghost-heart-darker.png
-[[./wallpapers/abstract/0120_ghost-heart-darker.png]]
+#+NAME: 0120_ghost-heart-darker.png
+[[./0120_ghost-heart-darker.png]]
 
 ** 0139_patterns-dot-abstract.png
 #+CAPTION: 0139_patterns-dot-abstract.png
-#+NAME: wallpapers/abstract/0139_patterns-dot-abstract.png
-[[./wallpapers/abstract/0139_patterns-dot-abstract.png]]
+#+NAME: 0139_patterns-dot-abstract.png
+[[./0139_patterns-dot-abstract.png]]
 
 ** 0160_face-light-eyes-painting.png
 #+CAPTION: 0160_face-light-eyes-painting.png
-#+NAME: wallpapers/abstract/0160_face-light-eyes-painting.png
-[[./wallpapers/abstract/0160_face-light-eyes-painting.png]]
+#+NAME: 0160_face-light-eyes-painting.png
+[[./0160_face-light-eyes-painting.png]]
 
 ** 0177_abstract-shapes-sunset.png
 #+CAPTION: 0177_abstract-shapes-sunset.png
-#+NAME: wallpapers/abstract/0177_abstract-shapes-sunset.png
-[[./wallpapers/abstract/0177_abstract-shapes-sunset.png]]
+#+NAME: 0177_abstract-shapes-sunset.png
+[[./0177_abstract-shapes-sunset.png]]
 
 ** 0249_abstract-colors-contourline-minimal.png
 #+CAPTION: 0249_abstract-colors-contourline-minimal.png
-#+NAME: wallpapers/abstract/0249_abstract-colors-contourline-minimal.png
-[[./wallpapers/abstract/0249_abstract-colors-contourline-minimal.png]]
+#+NAME: 0249_abstract-colors-contourline-minimal.png
+[[./0249_abstract-colors-contourline-minimal.png]]
 
 ** 0256_hexagon-abstract-red-metal.png
 #+CAPTION: 0256_hexagon-abstract-red-metal.png
-#+NAME: wallpapers/abstract/0256_hexagon-abstract-red-metal.png
-[[./wallpapers/abstract/0256_hexagon-abstract-red-metal.png]]
+#+NAME: 0256_hexagon-abstract-red-metal.png
+[[./0256_hexagon-abstract-red-metal.png]]
 
 ** 0257_hexagon-neon-3d-hologram.png
 #+CAPTION: 0257_hexagon-neon-3d-hologram.png
-#+NAME: wallpapers/abstract/0257_hexagon-neon-3d-hologram.png
-[[./wallpapers/abstract/0257_hexagon-neon-3d-hologram.png]]
+#+NAME: 0257_hexagon-neon-3d-hologram.png
+[[./0257_hexagon-neon-3d-hologram.png]]
 
 ** 0284_orange-equanimity-geometric-granular.jpg
 #+CAPTION: 0284_orange-equanimity-geometric-granular.jpg
-#+NAME: wallpapers/abstract/0284_orange-equanimity-geometric-granular.jpg
-[[./wallpapers/abstract/0284_orange-equanimity-geometric-granular.jpg]]
+#+NAME: 0284_orange-equanimity-geometric-granular.jpg
+[[./0284_orange-equanimity-geometric-granular.jpg]]
 
 ** 0306_abstract-minimalist-maze-colors.jpg
 #+CAPTION: 0306_abstract-minimalist-maze-colors.jpg
-#+NAME: wallpapers/abstract/0306_abstract-minimalist-maze-colors.jpg
-[[./wallpapers/abstract/0306_abstract-minimalist-maze-colors.jpg]]
+#+NAME: 0306_abstract-minimalist-maze-colors.jpg
+[[./0306_abstract-minimalist-maze-colors.jpg]]
 
 ** README.org
 #+CAPTION: README.org
-#+NAME: wallpapers/abstract/README.org
-[[./wallpapers/abstract/README.org]]
+#+NAME: README.org
+[[./README.org]]
 
