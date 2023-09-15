@@ -393,10 +393,35 @@
 #+NAME: README.org
 [[./README.org]]
 
+** bookshop.png
+#+CAPTION: bookshop.png
+#+NAME: bookshop.png
+[[./bookshop.png]]
+
+** bubble.png
+#+CAPTION: bubble.png
+#+NAME: bubble.png
+[[./bubble.png]]
+
 ** japanase-street-neon.png
 #+CAPTION: japanase-street-neon.png
 #+NAME: japanase-street-neon.png
 [[./japanase-street-neon.png]]
+
+** neon-sky-blue.png
+#+CAPTION: neon-sky-blue.png
+#+NAME: neon-sky-blue.png
+[[./neon-sky-blue.png]]
+
+** neon.png
+#+CAPTION: neon.png
+#+NAME: neon.png
+[[./neon.png]]
+
+** pomodoro.png
+#+CAPTION: pomodoro.png
+#+NAME: pomodoro.png
+[[./pomodoro.png]]
 
 ** red-head-crop-top.png
 #+CAPTION: red-head-crop-top.png
