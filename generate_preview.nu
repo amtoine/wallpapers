@@ -1,4 +1,5 @@
 #!/usr/bin/env nu
+use std repeat
 
 const README = "README.org"
 const README_HEADER = "* wallpapers
@@ -30,7 +31,7 @@ If you stumble upon art or photos that you own or that you know and show that sp
 
 def preview [filename: path, name: string, --level: int = 4]: nothing -> string {
     [
-        $"('*' * $level) ($name)"
+        $"('*' | repeat $level | str join) ($name)"
         $"#+CAPTION: ($name)"
         $"#+NAME: ($filename)"
         $"[[./($filename)]]\n\n"
