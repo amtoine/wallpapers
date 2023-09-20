@@ -393,6 +393,11 @@
 #+NAME: README.org
 [[./README.org]]
 
+** blue-hair-blazer.png
+#+CAPTION: blue-hair-blazer.png
+#+NAME: blue-hair-blazer.png
+[[./blue-hair-blazer.png]]
+
 ** bookshop.png
 #+CAPTION: bookshop.png
 #+NAME: bookshop.png
